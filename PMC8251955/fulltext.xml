@@ -1,0 +1,644 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Inorg Chem</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Inorg Chem</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-0682c</journal-id><journal-id journal-id-type="publisher-id">EJIC</journal-id><journal-title-group><journal-title>European Journal of Inorganic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">1434-1948</issn><issn pub-type="epub">1099-0682</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8251955</article-id><article-id pub-id-type="doi">10.1002/ejic.202100041</article-id><article-id pub-id-type="publisher-id">EJIC202100041</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Solvent&#x02010;Dependent Reactivity and Photochemistry of Dinuclear and Mononuclear Platinum(IV) Azido Triazaolato Complexes</article-title></title-group><contrib-group><contrib id="ejic202100041-cr-0001" contrib-type="author"><name><surname>Yao</surname><given-names>Kezi</given-names></name><address><ext-link ext-link-type="uri" xlink:href="http://farrer.chem.ox.ac.uk">http://farrer.chem.ox.ac.uk</ext-link></address><xref ref-type="aff" rid="ejic202100041-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0002" contrib-type="author"><name><surname>Bertran</surname><given-names>Arnau</given-names></name><xref ref-type="aff" rid="ejic202100041-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0003" contrib-type="author"><name><surname>Morgan</surname><given-names>Jacques</given-names></name><xref ref-type="aff" rid="ejic202100041-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0004" contrib-type="author"><name><surname>Greenhalgh</surname><given-names>Charlotte</given-names></name><xref ref-type="aff" rid="ejic202100041-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0005" contrib-type="author"><name><surname>Edkins</surname><given-names>Katharina</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="ejic202100041-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0006" contrib-type="author"><name><surname>Bowen</surname><given-names>Alice M.</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="ejic202100041-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ejic202100041-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ejic202100041-cr-0007" contrib-type="author" corresp="yes"><name><surname>Farrer</surname><given-names>Nicola J.</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7440-1291</contrib-id><xref ref-type="aff" rid="ejic202100041-aff-0001">
+<sup>1</sup>
+</xref><address><email>Nicola.Farrer@chem.ac.uk</email></address></contrib></contrib-group><aff id="ejic202100041-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Chemistry Research Laboratory</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="street">12 Mansfield Road</named-content>
+<city>Oxford</city>
+<postal-code>OX1 3TA</postal-code>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ejic202100041-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centre for Advanced Electron Spin Resonance and Inorganic Chemistry Laboratory, Department of Chemistry</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="street">South Parks Road</named-content>
+<city>Oxford</city>
+<postal-code>OX1 3QR</postal-code>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ejic202100041-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Health Sciences</named-content>
+<institution>University of Manchester</institution>
+<named-content content-type="street">Oxford Road</named-content>
+<city>Manchester</city>
+<postal-code>M13 9PL</postal-code>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ejic202100041-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">The Department of Chemistry, Photon Science Institute and the National EPR Research Facility</named-content>
+<institution>University of Manchester</institution>
+<named-content content-type="street">Oxford Road</named-content>
+<city>Manchester</city>
+<postal-code>M13 9PL</postal-code>
+<country country="GB">United Kingdom</country>
+</aff><pub-date pub-type="epub"><day>16</day><month>3</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>4</month><year>2021</year></pub-date><volume>2021</volume><issue>14</issue><issue-id pub-id-type="doi">10.1002/ejic.v2021.14</issue-id><fpage>1397</fpage><lpage>1404</lpage><history><date date-type="rev-recd"><day>23</day><month>2</month><year>2021</year></date><date date-type="received"><day>18</day><month>1</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Wiley&#x02010;VCH GmbH<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. European Journal of Inorganic Chemistry published by Wiley-VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:EJIC-2021-1397.pdf"/><abstract><title>Abstract</title><p>Reaction between the platinum(IV) azido complex <italic>trans,trans</italic>,<italic>trans</italic>&#x02010;[Pt(py)<sub>2</sub>(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>] (<bold>1</bold>) and 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione <bold>2</bold> in MeCN produces the intermediate peroxide&#x02010;bridged dimeric platinum(IV) azido triazolato species (<bold>5</bold>), which has been characterised by X&#x02010;ray crystallography. However, if the reaction between <bold>1</bold> and <bold>2</bold> is conducted in MeOH it results in decomposition. Over time in MeCN, dimer (<bold>5</bold>) converts into mononuclear complexes <italic>trans,trans</italic>,<italic>trans</italic>&#x02010;[Pt(py)<sub>2</sub>(N<sub>3</sub>)(triazole)(OH)<sub>2</sub>] (<bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>), which are in dynamic exchange. If resuspended in protic solvents (MeOH,H<sub>2</sub>O), <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> undergo a slow (22 d) irreversible rearrangement to a cyclised platinum(IV) species <bold>4</bold> which contains a formally N,O&#x02010;chelated ligand. Conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH can be accelerated (384x) by irradiation with visible light, although continued irradiation also produces N<sub>3</sub>
+<sup>.</sup> and OH<sup>.</sup> radicals, and the [<bold>4</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> species can be readily detected by ESI&#x02010;MS. Solvent choice significantly effects both the cycloaddition reaction between <bold>1</bold> and <bold>2</bold>, and the stability of the resultant complexes.</p></abstract><abstract abstract-type="graphical"><p>The choice of solvent is crucial to the success of cycloaddition reactions with platinum(IV) azido complexes. Following synthesis in acetonitrile, rearrangement of the triazole can occur in protic solvents. Irradiation with visible light induces azido radical release, without reduction to Pt<sup>II</sup> species, due to cyclometallation of the complex.<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="EJIC-2021-1397-g007.jpg" position="anchor" id="jats-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejic202100041-kwd-0001">Azides</kwd><kwd id="ejic202100041-kwd-0002">Photoactivity</kwd><kwd id="ejic202100041-kwd-0003">Platinum</kwd><kwd id="ejic202100041-kwd-0004">Radicals</kwd><kwd id="ejic202100041-kwd-0005">Structure elucidation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Wellcome Trust </institution><institution-id institution-id-type="open-funder-registry">10.13039/100010269</institution-id></institution-wrap></funding-source><award-id>201406/Z/16/Z</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Cancer Research UK </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000289</institution-id></institution-wrap></funding-source><award-id>C5255/A18085</award-id></award-group><award-group id="funding-0003"><funding-source>Cancer Research UK Oxford Centre</funding-source></award-group><award-group id="funding-0004"><funding-source>John Fell Fund</funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>University of Oxford </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000769</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>EPSRC </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000266</institution-id></institution-wrap></funding-source><award-id>EP/L011972/1</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Royal Society </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000288</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>EPSRC </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000266</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0009"><funding-source>Dorothy Hodgkin Fellowship</funding-source><award-id>DH160004</award-id></award-group><award-group id="funding-0010"><funding-source><institution-wrap><institution>Royal Society </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000288</institution-id></institution-wrap></funding-source><award-id>RGF\R1\180099</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><ref-count count="24"/><page-count count="8"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 15, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.4 mode:remove_FC converted:02.07.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="ejic202100041-self">K. Yao, A. Bertran, J. Morgan, C. Greenhalgh, K. Edkins, A. M. Bowen, N. J. Farrer, <italic>Eur. J. Inorg. Chem.</italic>
+<bold>2021</bold>, <italic>2021</italic>, 1397.</mixed-citation>
+</p></notes></front><body><sec id="ejic202100041-sec-0001"><title>Introduction</title><p>1,3&#x02010;dipolar cycloaddition reactions of metal azido complexes with acetylenes to form 1,2,3&#x02010;triazoles are a well&#x02010;established route to novel metal complexes.<xref rid="ejic202100041-bib-0001" ref-type="ref">
+<sup>[1]</sup>
+</xref> These reactions have been previously explored by other groups for platinum(II) complexes[<xref rid="ejic202100041-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejic202100041-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="ejic202100041-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="ejic202100041-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>] and by us for platinum(IV) azido complexes.[<xref rid="ejic202100041-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="ejic202100041-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>] Inorganic platinum&#x02010;click reactions enable the synthesis of novel (potentially multimetallic) platinum complexes and metallopolymers.<xref rid="ejic202100041-bib-0009" ref-type="ref">
+<sup>[9]</sup>
+</xref> They can also provide plausible routes to introduce functional groups for fluorescent monitoring<xref rid="ejic202100041-bib-0004" ref-type="ref">
+<sup>[4]</sup>
+</xref> and to monitor Pt&#x02010;azido drug localisation.<xref rid="ejic202100041-bib-0010" ref-type="ref">
+<sup>[10]</sup>
+</xref> The cycloaddition reaction results in the formation of 1,2,3&#x02010;triazoles, and these organic ligands can show promising anti&#x02010;cancer activity both in their own right<xref rid="ejic202100041-bib-0011" ref-type="ref">
+<sup>[11]</sup>
+</xref> and as components of metal complexes.<xref rid="ejic202100041-bib-0012" ref-type="ref">
+<sup>[12]</sup>
+</xref> Triazoles are also widely employed as chemosensors.<xref rid="ejic202100041-bib-0013" ref-type="ref">
+<sup>[13]</sup>
+</xref> Understanding the solution chemistry and photochemistry of metal triazole complexes is crucially important for further rational design.</p><p>We previously reported that the platinum(IV) azido complex <bold>1</bold> undergoes a spontaneous reaction with acetylene <bold>2</bold> in MeCN to produce complex <bold>3</bold>, a <italic>mono</italic> triazolato cycloaddition product, which exists as an equilibrium between two rapidly interconverting species; <bold>3&#x02009;a</bold> and <bold>3&#x02009;b</bold> (Scheme&#x02005;<xref rid="ejic202100041-fig-5001" ref-type="fig">1</xref>).<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> A small amount of another complex &#x02013; <bold>5</bold> &#x02013; was also detected during HPLC purification of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> but we previously were unable to isolate sufficient quantities of <bold>5</bold> for further characterisation. We now report that compound <bold>5</bold> is a peroxide&#x02010;bridged dimer, which slowly evolves over time in the dark in MeCN to form <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (Scheme&#x02005;<xref rid="ejic202100041-fig-5002" ref-type="fig">2</xref>). We have also determined that both <bold>5</bold> and <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> respond to irradiation with blue light. Furthermore, that in protic solvents <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (which exist in equilibrium) evolve into a single cyclised Pt<sup>IV</sup> complex, <bold>4</bold> which is then stable to further rearrangement. Here we report our findings in detail.</p><fig fig-type="Scheme" xml:lang="en" id="ejic202100041-fig-5001" orientation="portrait" position="float"><label>Scheme 1</label><caption><p>Reaction of <italic>trans,trans,trans</italic>&#x02010;[Pt(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>(py)<sub>2</sub>] (<bold>1</bold>) with 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (<bold>2</bold>) showing formation of <bold>3</bold> (<bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>) as well as other minor products.</p></caption><graphic id="jats-graphic-3" xlink:href="EJIC-2021-1397-g004"/></fig><fig fig-type="Scheme" xml:lang="en" id="ejic202100041-fig-5002" orientation="portrait" position="float"><label>Scheme 2</label><caption><p>Reaction of <italic>trans,trans,trans</italic>&#x02010;[Pt(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>(py)<sub>2</sub>] (<bold>1</bold>) with 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (<bold>2</bold>), showing pathways of reactivity to different products and the effect of different solvents. The presence of H<sub>2</sub>O<sub>2</sub> enables greater production of <bold>5</bold>, and results in low&#x02010;level production of OH radicals in the dark during transofrmation (a), in accordance with reports for other platinum(IV) complexes.<xref rid="ejic202100041-bib-0015" ref-type="ref">
+<sup>[15]</sup>
+</xref>
+</p></caption><graphic id="jats-graphic-5" xlink:href="EJIC-2021-1397-g005"/></fig></sec><sec id="ejic202100041-sec-0002"><title>Synthesis</title><p>
+<italic>Trans, trans, trans</italic>&#x02010;[Pt(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>(py)<sub>2</sub>] (<bold>1</bold>) was synthesised as previously reported, the final step of the synthesis involving oxidation with H<sub>2</sub>O<sub>2</sub> followed by crystallisation.<xref rid="ejic202100041-bib-0014" ref-type="ref">
+<sup>[14]</sup>
+</xref> We previously reported that when the reaction was conducted in MeCN, both the main product <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>
+<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> and several minor species including <bold>5</bold> were successfully obtained, without any observed decomposition. However, here we report that when the cycloaddition reaction between <bold>1</bold> and 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (<bold>2</bold>) is conducted in MeOH (35&#x02009;&#x000b0;C, 2 d), it results in decomposition, with formation of a black platinum(0) precipitate (Scheme&#x02005;<xref rid="ejic202100041-fig-5002" ref-type="fig">2</xref>). The solvent choice for the cycloaddition therefore has a significant effect on the reaction. Complex <bold>5</bold> (<italic>t</italic>
+<sub>R</sub>=4.01&#x02005;min) was previously challenging to isolate, since it formed as a minor product in the reaction (7&#x02009;%), eluting immediately before <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (<italic>t</italic>
+<sub>R</sub>=4.31&#x02005;min) during HPLC purification (Figure&#x02005;S1). However, we now report that if <bold>1</bold> is not purified by HPLC or recrystallised before use (therefore retaining residual H<sub>2</sub>O<sub>2</sub> from the final synthetic step) the quantity of <bold>5</bold> observed significantly increases, such that it forms 31&#x02009;% of the total integrated HPLC trace (UV&#x02010;Vis detection, Figure&#x02005;S2), making it considerably easier to isolate as the 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> adduct, and to fully characterise (Figure&#x02005;S3). Historically, platinum(IV) complexes such as <italic>cis,cis,trans</italic>&#x02010;[Pt<sup>IV</sup>Cl<sub>2</sub>(NH<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>] have shown a propensity for co&#x02010;crystallisation of H<sub>2</sub>O<sub>2</sub>.<xref rid="ejic202100041-bib-0015" ref-type="ref">
+<sup>[15]</sup>
+</xref> We were initially unaware that <bold>5</bold> was a dinuclear species, since the molecular weight of the compound exceeded the detection limit of the HPLC mass spectrometer (1250&#x02005;<italic>m/z</italic>), and the ESI&#x02010;MS conditions did not favour the detection of multiply charged ions. Therefore, 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> was observed by HPLC via both UV&#x02010;Vis absorption and the detection of the common fragmentation product [3&#x02010;OH]<sup>+</sup> at 688.05&#x02005;<italic>m/z</italic> (Figure&#x02005;S2, <italic>bottom</italic>). This rendered it indistinguishable from complex <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> which results in the same fragmentation species in the HPLC. Following HPLC purification, crystals of <bold>5</bold> were grown from MeCN, and were shown by X&#x02010;ray crystallography to consist of a peroxide&#x02010;bridged dimer, with no H<sub>2</sub>O<sub>2</sub> observed in the crystal lattice (Figure&#x02005;<xref rid="ejic202100041-fig-0001" ref-type="fig">1</xref>).
+</p><fig fig-type="Figure" xml:lang="en" id="ejic202100041-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Single crystal X&#x02010;ray structure of the peroxide dimer <bold>5</bold> with thermal ellipsoids displayed at 50&#x02009;% probability.<xref rid="ejic202100041-bib-0016" ref-type="ref">
+<sup>[16]</sup>
+</xref> For clarity, only key atoms discussed in the text are labelled here, the fully labelled structure is given in Figure&#x02005;S4. Colour code: carbon (grey), nitrogen (blue), oxygen (red), hydrogen (light grey), platinum (cyan).</p></caption><graphic id="jats-graphic-7" xlink:href="EJIC-2021-1397-g003"/></fig><p>The X&#x02010;ray crystallographic structure of <bold>5</bold> has an O&#x02212;O bond length of 1.475(8)&#x02005;&#x000c5;, consistent with a bond order of <bold>1</bold>
+<xref rid="ejic202100041-bib-0017" ref-type="ref">
+<sup>[17]</sup>
+</xref> and it also exhibits a C00N&#x02212;O009(peroxide) bond length of 1.432(8)&#x02005;&#x000c5;. The Pt&#x02212;N azido (Pt&#x02212;N29&#x02212;N30&#x02212;N01F) ligand shows slightly greater linearity (176.8(9)&#x000b0;) than is observed in the azido ligand(s) contained in both <bold>3&#x02009;b</bold> and <bold>1</bold>. The bond lengths within the azido ligand are very similar to <bold>3&#x02009;b</bold> and to <bold>1</bold>; 1.210(9)&#x02005;&#x000c5; (N29&#x02212;N30) and 1.147(9)&#x02005;&#x000c5; (N30&#x02212;N01F). The angle subtended at Pt&#x02212;N29&#x02212;N30 (116.0(5)&#x000b0;) is intermediate between that seen for complex <bold>3&#x02009;b</bold> and complex <bold>1</bold>, and the Pt&#x02212;N33 triazole bond length is 2.011(6)&#x02005;&#x000c5;, slightly elongated in comparison to <bold>3&#x02009;b</bold>.<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref>
+</p><p>IR spectroscopy of a MeOH solution of <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> showed a strong &#x003bd;<sub>asym</sub>N<sub>3</sub> stretch at 2049.04&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;S5), consistent with the presence of the azido groups.</p><p>If the cycloaddition was carried out with <bold>1</bold> which had residual H<sub>2</sub>O<sub>2</sub> remaining from the syntheses, <bold>5</bold> was recovered from the HPLC and observed by ESI&#x02010;MS as the H<sub>2</sub>O<sub>2</sub> adduct; [<bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub>+Na]<sup>+</sup> at 1465.2604&#x02005;<italic>m/z</italic> (confirmed by HRMS, error 5.59&#x02005;ppm, Figure&#x02005;S6). Collision&#x02010;induced dissociation studies (MS/MS) of [<bold>5&#x02009;a</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub>+Na]<sup>+</sup> at 1465.00&#x02005;<italic>m/z</italic> revealed facile fragmentation by homolytic cleavage of the peroxide bond and retention of the sodium to give [Pt(OH)<sub>2</sub>(N<sub>3</sub>)(triazole)(py)<sub>2</sub>O+Na]<sup>+</sup> as a stable species at 744.22&#x02005;<italic>m/z</italic> as well as other minor species (Figure&#x02005;S7). The species at 744.03&#x02005;<italic>m/z</italic> observed in the low&#x02010;resolution ESI&#x02010;MS of <bold>5</bold> (Figure&#x02005;S1) could therefore correspond to this same fragmentation product.</p><p>
+<sup>195</sup>Pt NMR spectroscopy of <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> (in <italic>d</italic>
+<sub>3</sub>&#x02010;MeCN) showed a single resonance at 776&#x02005;ppm (Figure&#x02005;S8). In the same solvent, the monomers <bold>3&#x02009;a</bold> (689&#x02005;ppm) and <bold>3&#x02009;b</bold> (785&#x02005;ppm) give rise to two resonances.<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> This suggests that dynamic exchange processes similar to those seen for <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> do not occur in <bold>5</bold>, consistent with the carbonyl/hydroxyl group of the triazole ligand being part of the stable peroxide bond.</p><p>The <sup>1</sup>H NMR spectrum could be assigned in agreement with the proposed structure of <bold>5</bold>, although determination of the py&#x02018; and py rings are tentative (Figures&#x02005;S9, S10, S11). A singlet was observed for <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> at 9.16&#x02005;ppm, which underwent exchange with the residual water peak (<sup>1</sup>H NMR NOESY, Figure&#x02005;S12); this may correspond to protons of the associated/coordinated H<sub>2</sub>O<sub>2</sub>. Assignment of the <sup>13</sup>C NMR spectra (Figure&#x02005;S13) was aided by HSQC and HMBC experiments (Figures&#x02005;S14 and S15 respectively). Many features of the <sup>13</sup>C NMR spectrum of <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> were similar to that of <bold>3&#x02009;b</bold>, including the observation of a <sup>2</sup>
+<italic>J</italic>
+<sub>CPt</sub> coupling of 43.8&#x02005;Hz for one of the quaternary triazole carbon resonances in <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> (151.5&#x02005;ppm). The quaternary carbon connected to the Pt&#x02212;O group, the Ph ring and the peroxide bridge was observed at 112.1&#x02005;ppm (showing a 3&#x02010;bond HMBC correlation to the Ph<sub>ortho</sub> protons). This was at higher field than for complex <bold>3&#x02009;b</bold>, in which the sp<sup>3</sup> carbon coordinated to an OH group rather than a O&#x02212;O group was observed at 103.0&#x02005;ppm. The UV&#x02010;Vis absorbance spectrum of <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> was broadly similar to the spectrum of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (Figure&#x02005;S16).</p></sec><sec id="ejic202100041-sec-0003"><title>Conversion of 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> to 3&#x02009;a/3&#x02009;b in <italic>d</italic>
+<sub>3</sub>&#x02010;MeCN</title><p>Both <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> and <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> were isolated as pale yellow powders, although <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> was noticeably less soluble than <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in organic solvents (MeCN, MeOH). Complex <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> was unstable in MeCN solution, changing over time in the absence of light. Comparing <sup>1</sup>H NMR spectra obtained immediately following dissolution (Figure&#x02005;S9) with 2D <sup>1</sup>H and <sup>13</sup>C NMR spectra acquired later the same day, new resonances can already be seen appearing in the later spectra (for example * in Figure&#x02005;S10).</p><p>Monitoring this conversion by cw&#x02010;EPR in the presence of the spin trap DMPO (Figure&#x02005;S17) revealed a build&#x02010;up of a small amount of a nitroxide species &#x02013; over several weeks &#x02013; in MeCN (Figure&#x02005;S18), showing hyperfine coupling only to a single nitrogen. No radical species were detected in the analogous spin trapping experiment performed with <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in MeCN (Figure&#x02005;S19). When the same experiments were carried out in water, a small amount of a DMPO<sup>.</sup>&#x02212;OH radical adduct was observed over several days with <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub>, indicating the slow formation and subsequent trapping of OH<sup>.</sup> (Figure&#x02005;S20), while no radical species were detected under the same conditions from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in H<sub>2</sub>O (Figure&#x02005;S21). We suggest this is due to release of peroxide, which appears to be strongly associated with <bold>5</bold>. Evolution of OH<sup>.</sup> from platinum(IV) prodrugs containing trace amounts of H<sub>2</sub>O<sub>2</sub> has been previously reported.<xref rid="ejic202100041-bib-0015" ref-type="ref">
+<sup>[15]</sup>
+</xref> Observation of the evolution of OH<sup>.</sup> in the dark is also compatible with the slow conversion of <bold>5</bold> to <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> taking place through homolytic cleavage of the peroxide bridge. In H<sub>2</sub>O, the resulting [<bold>3&#x02009;b</bold>&#x02010;H]<sup>.</sup> species would produce <bold>3&#x02009;b</bold> by hydrogen abstraction from the solvent, producing OH<sup>.</sup>, which would be trapped by DMPO. In MeCN, more complicated radical processes could occur, involving degradation of the spin trap by either H<sub>&#x003b2;</sub> abstraction or cleavage of the N<sub>nitroxidic</sub>&#x02212;C<sub>&#x003b1;</sub> bond.<xref rid="ejic202100041-bib-0018" ref-type="ref">
+<sup>[18]</sup>
+</xref>
+</p></sec><sec id="ejic202100041-sec-0004"><title>Conversion of 3&#x02009;a/3&#x02009;b to 4&#x02009;in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH</title><p>When the synthesis of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> was conducted in MeCN followed by solvent removal and resuspension of solid <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in protic solvents, it did not result in decomposition. Instead, <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> underwent a conversion to a new complex (<bold>4</bold>) in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH (Scheme&#x02005;<xref rid="ejic202100041-fig-5001" ref-type="fig">1</xref>, Figure&#x02005;<xref rid="ejic202100041-fig-0002" ref-type="fig">2</xref>). By the time <sup>13</sup>C, <sup>1</sup>H&#x02010;<sup>13</sup>C HSQC and HMBC NMR spectral data had been acquired for a freshly prepared solution of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH, partial conversion to <bold>4</bold> had already begun. Complete conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> was relatively slow, with 100&#x02009;% conversion after 22 d (<sup>1</sup>H NMR spectroscopy, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH, Figure&#x02005;<xref rid="ejic202100041-fig-0002" ref-type="fig">2</xref> and Figure&#x02005;S22). During this time, the <sup>195</sup>Pt NMR resonances at 832&#x02005;ppm (<bold>3&#x02009;a</bold>) and 784&#x02005;ppm (<bold>3&#x02009;b</bold>) converged to a single resonance at 824&#x02005;ppm for <bold>4</bold> (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH). EPR experiments revealed no detectable radical production during the conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> in the dark (Figure&#x02005;S21).
+</p><fig fig-type="Figure" xml:lang="en" id="ejic202100041-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<sup>1</sup>H NMR spectra of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> converting to <bold>4</bold> over 22 d (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) at 20&#x02009;&#x000b0;C.</p></caption><graphic id="jats-graphic-9" xlink:href="EJIC-2021-1397-g006"/></fig></sec><sec id="ejic202100041-sec-0005"><title>Analysis of complex 4</title><p>Following completion of the conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH, complex <bold>4</bold> (Figure&#x02005;<xref rid="ejic202100041-fig-0003" ref-type="fig">3</xref>) was isolated as a pale yellow solid by rotary evaporation of the solvent, and was fully characterised by ESI&#x02010;MS, <sup>1</sup>H, <sup>13</sup>C, <sup>195</sup>Pt and <sup>14</sup>N NMR spectroscopy, IR and UV&#x02010;Vis spectroscopy.
+</p><fig fig-type="Figure" xml:lang="en" id="ejic202100041-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<sup>195</sup>Pt NMR spectra (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) of complex <bold>4</bold> (a) before irradiation (86.1&#x02005;MHz) and (b) after irradiation with blue light, forming [<bold>4</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> (107.6&#x02005;MHz).</p></caption><graphic id="jats-graphic-11" xlink:href="EJIC-2021-1397-g001"/></fig><p>Complex <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> had been previously detected by ESI&#x02010;MS predominantly as the [<bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>&#x02010;OH]<sup>+</sup> (688.14&#x02005;<italic>m/z</italic>) species.<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> Conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> resulted in similar low&#x02010;resolution ESI&#x02010;MS: [<bold>4</bold>&#x02010;OH]<sup>+</sup> was detected as the dominant species at 687.89&#x02005;<italic>m/z</italic>, (C<sub>26</sub>H<sub>21</sub>N<sub>8</sub>O<sub>3</sub>Pt, calcd. 688.13&#x02005;<italic>m/z</italic>) with [<bold>4</bold>+H]<sup>+</sup> observed at a significantly lower abundance, at 705.71&#x02005;<italic>m/z</italic> (C<sub>26</sub>H<sub>23</sub>N<sub>8</sub>O<sub>4</sub>Pt, calcd 706.15&#x02005;<italic>m/z</italic>). The ESI&#x02010;MS were identical regardless of whether the conversion to <bold>4</bold> was carried out in MeOH or <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH, effectively ruling out the possibility that the solvent had been incorporated into the observed species as part of the conversion, since a difference would have been detected due to the difference in molecular weight between the deuterated and undeuterated solvents (Figure&#x02005;S23).</p><p>In the <sup>1</sup>H NMR spectrum of complex <bold>4</bold> in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH (Figure&#x02005;S24) the resonances in <bold>4</bold> corresponding to Py<sub>para</sub> and Py<sub>meta</sub> protons were observed at higher chemical shifts than for <bold>5</bold>, whilst the other aromatic <sup>1</sup>H NMR resonances were very similar for the two complexes. Complex <bold>4</bold> has two inequivalent Ph rings and two inequivalent Py rings, and NOESY correlations were observed between one pyridyl group and one phenyl ring (Figure&#x02005;S25), in agreement with the proposed structure. Following conversion from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>, complex <bold>4</bold> was stable in solution (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) for over 12&#x02005;months, and speciation remained essentially unchanged (judged by <sup>1</sup>H NMR spectroscopy and ESI&#x02010;MS).</p><p>The rearrangement of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> in MeOH followed by reconstitution of <bold>4</bold> in <italic>d</italic>
+<sub>3</sub>&#x02010;MeCN enabled a direct comparison of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> and <bold>4</bold> in the same solvent (Figure&#x02005;S26). This revealed changes predominantly in the Py<sub>para</sub> (shielded) Ph<sub>ortho</sub> (deshielded) and Py<sub>meta</sub> (shielded) protons but revealed little other structural information. <sup>13</sup>C NMR spectra were assigned through comparison with previous structures and through <sup>1</sup>H COSY, <sup>1</sup>H&#x02010;<sup>13</sup>C HSQC, <sup>1</sup>H&#x02010;<sup>13</sup>C HMBC and <sup>1</sup>H NOESY experiments (Figures&#x02005;S23&#x02013;S29). The <sup>14</sup>N NMR spectrum of <bold>4</bold> showed resonances corresponding to the N<sub>&#x003b2;</sub> (227.0&#x02005;ppm) and N<sub>&#x003b3;</sub>/N<sub>triazole</sub>/N<sub>py</sub> environments (166.2&#x02005;ppm) (Figure&#x02005;S31). The Pt&#x02010;coordinated N<sub>&#x003b1;</sub> of the azide was anticipated to come into resonance at <italic>ca</italic>. 57&#x02005;ppm but was broadened beyond detection. As previously observed<xref rid="ejic202100041-bib-0019" ref-type="ref">
+<sup>[19]</sup>
+</xref> and subsequently explained by DFT calculations,<xref rid="ejic202100041-bib-0020" ref-type="ref">
+<sup>[20]</sup>
+</xref> the quadrupolar interaction of the <sup>14</sup>N nucleus with the local electric field gradient (EFG) results in significant anisotropic broadening of spectral lines for less symmetric environments, such as the azido N<sub>&#x003b1;</sub> resonance<sub>.</sub> Since the <sup>14</sup>N NMR spectrum of <bold>4</bold> provided only limited information we felt it would be unlikely that acquisition of <sup>14</sup>N NMR of <bold>3</bold> or <bold>5</bold> would provide any additional or useful comparative information. Comparison of IR (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (sample made immediately prior to measurement) and of complex <bold>4</bold> revealed only minor changes; the &#x003bd;<sub>asym</sub>N<sub>3</sub> IR stretch being observed at 2048&#x02005;cm<sup>&#x02212;1</sup> for <bold>4</bold> (Figure&#x02005;S32). The UV&#x02010;vis spectrum of <bold>4</bold> (Figure&#x02005;S33) was also consistent with <bold>4</bold> being a monoazido complex.</p><p>Despite repeated and ongoing attempts, it was not possible to grow crystals of <bold>4</bold> suitable for analysis by X&#x02010;ray diffraction. However, the structure proposed for <bold>4</bold> (Figure&#x02005;<xref rid="ejic202100041-fig-0003" ref-type="fig">3</xref>) is consistent with the reported analytical data. We suggest that <bold>4</bold> forms from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in protic solvents as a result of N1&#x02212;N2 rearrangement of the triazole ring.<xref rid="ejic202100041-bib-0004" ref-type="ref">
+<sup>[4]</sup>
+</xref> An alternative structure for <bold>4</bold> could result from isomerisation at the platinum(IV) centre through exchange of azide and OH (resulting in <italic>cis</italic> OH groups); such isomerisation has been reported for other platinum(IV) complexes, however we suggest that triazole rearrangement is more likely.<xref rid="ejic202100041-bib-0021" ref-type="ref">
+<sup>[21]</sup>
+</xref>
+</p></sec><sec id="ejic202100041-sec-0006"><title>Photochemistry of 3&#x02009;a/3&#x02009;b, 4&#x02009;and 5</title><p>The slow conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to <bold>4</bold> in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH could be accelerated by heat, and was also significantly accelerated (by 384x) through irradiation with light (452&#x02005;nm) with 80&#x02009;% conversion observed in 60&#x02005;min. However, small amounts (&#x0003c;5&#x02009;%) of [<bold>3</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> (663.1318&#x02005;<italic>m/z</italic>) were also observed by HPLC after 60&#x02005;min irradiation, in contrast to conversion in the dark. We chose the irradiation wavelength of 452&#x02005;nm (blue light) since it is the longest wavelength &#x02013; of a commercially available LED light source &#x02013; which affords photochemical conversion of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> within a reasonable length of time. Since the tissue penetration of light is wavelength&#x02010;dependent, it is desirable to use the longest wavelength possible to activate these compounds &#x02013; towards the phototherapeutic window of 630&#x02005;nm&#x02013;900&#x02005;nm. We do however note that successful treatment of superficial tumours has been achieved with blue light, which has the advantage of minimising damage to underlying tissue.<xref rid="ejic202100041-bib-0022" ref-type="ref">
+<sup>[22]</sup>
+</xref> We have previously demonstrated using TD&#x02010;DFT that platinum(IV) azido complexes have strongly dissociative states at longer wavelengths, which explains why they can be successfully photoactivated with visible light, despite demonstrating only modest absorption at these longer wavelengths.<xref rid="ejic202100041-bib-0014" ref-type="ref">
+<sup>[14]</sup>
+</xref>
+</p><p>We previously showed that if irradiation of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> is carried out in phosphate buffered saline (PBS) in the presence of 5&#x02032;&#x02010;GMP, no platination of 5&#x02032;&#x02010;GMP was observed.<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref>
+<sup>195</sup>Pt NMR spectroscopy of <bold>4</bold> (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) under irradiation also showed conversion from the resonance at 824&#x02005;ppm (<bold>4</bold>) to 1189&#x02005;ppm [<bold>4</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> in the platinum(IV) region of the spectrum (Figure&#x02005;<xref rid="ejic202100041-fig-0003" ref-type="fig">3</xref>). This is consistent with our previous report of the photochemistry of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (<italic>d</italic>
+<sub>3</sub>&#x02010;MeCN),<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> which showed the <sup>195</sup>Pt resonances move to a more deshielded position following irradiation and release of azide.</p><p>EPR spin&#x02010;trapping experiments under irradiation (440&#x02013;480&#x02005;nm) were also carried out with freshly prepared <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> and <bold>5</bold> in the presence of DMPO. The formation of DMPO<sup>.</sup>&#x02212;N<sub>3</sub> and DMPO<sup>.</sup>&#x02212;OH radical adducts indicated evolution and trapping of N<sub>3</sub>
+<sup>.</sup> and OH<sup>.</sup> radicals in both cases (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>a, Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>c, Figure&#x02005;S33 and Figure&#x02005;S34).
+</p><fig fig-type="Figure" xml:lang="en" id="ejic202100041-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>EPR spin trapping experiments under irradiation (440&#x02013;480&#x02005;nm) of compounds <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> at 10.5&#x02005;mM in H<sub>2</sub>O (a, b) and 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> at &#x0003c;1&#x02005;mM (c, d) in the presence of 21&#x02005;mM DMPO. (a, c) Experimental spectra averaged over 100&#x02005;min of continuous illumination after reaching the maximum signal intensity (black) and simulations with a DMPO<sup>.</sup>&#x02212;N<sub>3</sub>: DMPO<sup>.</sup>&#x02212;OH molar ratio of 90&#x02009;:&#x02009;10 (a) and 95&#x02009;:&#x02009;5 (c) (red). The average total radical adduct concentrations over the first 100&#x02005;minutes determined from spectral integration are (5.5&#x000b1;0.6)&#x02005;&#x003bc;M (a) and (3.1&#x000b1;0.3)&#x02005;&#x003bc;M (c). (b, d) EPR peak height transients of the total radical adduct signal (black), DMPO<sup>.</sup>&#x02212;N<sub>3</sub> signal (blue) and DMPO<sup>.</sup>&#x02212;OH signal (red). Vertical axes have the same scale in (a, c) and (b, d), respectively, for comparison.</p></caption><graphic id="jats-graphic-13" xlink:href="EJIC-2021-1397-g002"/></fig><p>For <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>, a steady state total radical adduct concentration was reached after &#x0223c;30&#x02005;min of continuous irradiation and remained almost constant during the period of irradiation (&#x0223c;3&#x02005;h) (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>b). For <bold>5</bold>, the total radical adduct concentration peaked after &#x0223c;30&#x02005;min irradiation and then decayed (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>d). Based on our previous work with similar platinum(IV) azido complexes, we attribute the steady radical adduct signal from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> to its high concentration in solution, which saturates the light absorption of the EPR sample at the wavelengths of irradiation.<xref rid="ejic202100041-bib-0008" ref-type="ref">
+<sup>[8]</sup>
+</xref>
+</p><p>The comparatively low concentration of <bold>5</bold> in the experiment was due to its reduced solubility in H<sub>2</sub>O. DMPO<sup>.</sup>&#x02212;N<sub>3</sub>: DMPO<sup>.</sup>&#x02212;OH molar ratios of 90&#x02009;:&#x02009;10 and 95&#x02009;:&#x02009;5 were determined by spectral simulation for <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> and <bold>5</bold>, respectively (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>a and Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>c). The DMPO<sup>.</sup>&#x02212;N<sub>3</sub> signals quickly disappeared after irradiation ceased, with a lifetime of &#x0223c;7&#x02005;min, demonstrating that radical evolution in aqueous solution can be controlled by blue light irradiation (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>b and Figure&#x02005;S34). The persistance of the DMPO<sup>.</sup>&#x02212;OH signal is due to the much longer lifetime of that radical adduct in comparison to DMPO<sup>.</sup>&#x02212;N<sub>3</sub>,<xref rid="ejic202100041-bib-0023" ref-type="ref">
+<sup>[23]</sup>
+</xref> rather than due to the evolution of OH<sup>.</sup> radicals in the dark from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>.</p><p>Evolution of OH<sup>.</sup> radicals from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> in H<sub>2</sub>O is induced by irradiation, evidenced by the initial rise in the DMPO<sup>.</sup>&#x02212;OH signal (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>b, red trace), while it seems to be light&#x02010;independent for 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> (Figure&#x02005;<xref rid="ejic202100041-fig-0004" ref-type="fig">4</xref>d, red trace), with the same weak DMPO<sup>.</sup>&#x02212;OH signal under irradiation as is observed in the dark (Figure&#x02005;S18).</p><p>The higher radical molar fraction of DMPO<sup>.</sup>&#x02212;OH observed for <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> could be due to the coexistance of the two forms of the monomeric complex, where <bold>3&#x02009;a</bold> has two OH ligands per platinum centre that can be potentially released upon irradiation, in comparison to the one OH ligand per platinum in <bold>5</bold> (Scheme&#x02005;<xref rid="ejic202100041-fig-5002" ref-type="fig">2</xref>). Analogous experiments demonstrate that <bold>4</bold>, which is stable in aqueous solution in the absence of light, also evolves predominantly N<sub>3</sub>
+<sup>.</sup> radicals under irradiation without undergoing photoreduction, with a smaller fraction of observed DMPO<sup>.</sup>&#x02212;OH (4&#x02009;%) than for <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (Figure&#x02005;S36).</p><p>ESI&#x02010;MS of <bold>4</bold> following 60&#x02005;min irradiation (452&#x02005;nmm MeOH) showed [<bold>4</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> at 663.23&#x02005;<italic>m/z</italic> as the most abundant species, as had been reported previously for <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>,<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> with no observable [<bold>4&#x02010;</bold>N<sub>3</sub>, OH]<sup>2+</sup> (anticipated at 324.07&#x02005;<italic>m/z</italic>) or [<bold>4</bold>&#x02010;N<sub>3</sub>, OH]<sup>+</sup> (anticipated at 646.13&#x02005;<italic>m/z</italic>) (Figure&#x02005;S37). Since [<bold>4</bold>&#x02010;OH]<sup>+</sup> is already commonly observed as a product of electrospray ionisation both prior and post&#x02010;irradiation no conclusions could be drawn as to what proportion of this was produced as a result of OH<sup>.</sup> ejection or not, but the spectrum was clearly dominated by the [<bold>4</bold>&#x02010;N<sub>3</sub>]<sup>+</sup> species, in agreement with the EPR experiments.</p></sec><sec id="ejic202100041-sec-0007"><title>Conclusions</title><p>We have demonstrated that the choice of reaction solvent has a significant effect on the outcome of the cycloaddition reaction between <italic>trans,trans</italic>,<italic>trans</italic>&#x02010;[Pt(py)<sub>2</sub>(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>] (<bold>1</bold>) and 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (<bold>2</bold>). Decomposition is observed if the reaction is carried out in MeOH, whereas triazole products <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> are formed if the reaction is carried out in MeCN. If residual H<sub>2</sub>O<sub>2</sub> is present during the cycloaddition reaction, this favours the formation of a peroxide&#x02010;bridged intermediate (<bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub>) which slowly converts to triazole products <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>. If no H<sub>2</sub>O<sub>2</sub> is present then <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> are formed as the major reaction product, with only small amounts of <bold>5</bold> being observed.</p><p>The major product <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> is stable in MeCN indefinitely, yet suspension in protic solvents causes triazole rearrangement to a new compound <bold>4</bold>, which is then itself stable in solution for at least 12&#x02005;months. Complex <bold>4</bold> also appears to remain unchanged following re&#x02010;isolation and dissolution in MeCN.The rearrangement to <bold>4</bold> can be significantly accelerated (x384) by irradiation with 420&#x02005;nm light (although slight photodecomposition is also observed), or by modest heating. We are now investigating the effect of irradiation with longer wavelength light on this rearrangement process. Irradiation of complex <bold>4</bold> (440&#x02013;480&#x02005;nm) produces predominantly [<bold>4&#x02010;</bold>N<sub>3</sub>]<sup>+</sup> with concommitant azido radical production. Platinum(IV) photoproduct(s) were observed by ESI&#x02010;MS and <sup>195</sup>Pt NMR spectroscopy. EPR experiments confirmed the production of predominantly azido radicals from <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold>, <bold>4</bold> and <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> under blue light (440&#x02013;480&#x02005;nm) irradiation in H<sub>2</sub>O, consistent with these findings.</p></sec><sec id="ejic202100041-sec-0008"><title>Experimental Section</title><p>
+<bold>Materials and Methods</bold>. K<sub>2</sub>[PtCl<sub>4</sub>] was purchased from Precious Metals Online. HPLC&#x02010;grade solvents and Millipore&#x02010;filtered H<sub>2</sub>O were used for the preparation of compounds and purification by HPLC. DMPO (&#x02265;98&#x02009;%) was purchased from Cambridge Bioscience Ltd. All other reagents were purchased from Sigma&#x02010;Aldrich or Alfa Aesar and used as received. (IM) indicates use of a nylon syringe filter (pore size 0.2&#x02005;&#x003bc;M). All manipulations were carried out under reduced lighting and solutions were prepared stored and handled with minimal exposure to light.</p><p>
+<bold>NMR spectroscopy</bold>. Due to the potential photosensitivity of the compounds, amberised NMR spectroscopy tubes (Goss Scientific/Norrell) were used. Spectra were acquired at 298&#x02005;K unless otherwise stated and processed using Topspin 4.0. All chemical shift (&#x003b4;) values are given in parts per million and are referenced to residual solvent unless otherwise stated, <italic>J</italic> values are quoted in Hz.<sup><bold>1</bold></sup>
+<bold>H,</bold>
+<sup><bold>195</bold></sup>
+<bold>Pt and</bold>
+<sup><bold>14</bold></sup>
+<bold>N spectra</bold>: were acquired on a Bruker AVIIIHD 500&#x02005;MHz (500.13&#x02005;MHz) equipped with a 5&#x02005;mm z&#x02010;gradient broadband X&#x02010;19F/1H BBFO SMART probe, or on a Bruker AVIIIHD 400 nanobay (400.17&#x02005;MHz). <sup><bold>13</bold></sup>
+<bold>C NMR spectra</bold>: were acquired on a Bruker AVII 500&#x02005;MHz spectrometer equipped with a z&#x02010;gradient triple resonance inverse <sup>1</sup>H/<sup>19</sup>F(<sup>13</sup>C) TXI probe. <sup><bold>1</bold></sup>
+<bold>H&#x02010;<sup>195</sup>Pt HMBC NMR spectra</bold>: <sup>195</sup>Pt chemical shifts were externally referenced to K<sub>2</sub>PtCl<sub>6</sub> in 1.5&#x02005;mM HCl in D<sub>2</sub>O (&#x003b4; 0&#x02005;ppm). <sup><bold>1</bold></sup>
+<bold>H NOESY NMR spectra</bold>: run with d8=0.8 (8 scans, 2&#x02005;h, noesyphsw). <sup><bold>14</bold></sup>
+<bold>N NMR spectra</bold>: were acquired with an aring pulse sequence as previously reported.<xref rid="ejic202100041-bib-0019" ref-type="ref">
+<sup>[19]</sup>
+</xref> The prescan delay (DE) was 6.5&#x02005;ms, the 908 pulse length was 17.25&#x02005;ms and spectra were acquired with a relaxation delay (d1) of 0&#x02005;s. Spectra were processed to remove the quadrature spike if needed (bc_mod qfil, bcfw 0.02, efp) with an exponential line broadening (lb) of 50. Spectra were externally referenced to a 5&#x02005;mm tube containing NH<sub>4</sub>Cl (1.5&#x02005;M) in 1&#x02005;M HCl, with a D<sub>2</sub>O solution in an internal capillary (&#x003b4; 0&#x02005;ppm). <bold>Mass Spectrometry</bold>: low resolution ESI&#x02010;MS were obtained with a Waters Micromass LCT Premier XE spectrometer. <bold>HRMS</bold>: obtained with a Thermofisher Exactive Plus with a Waters Acuity UPLC system. <bold>MS/MS experiments</bold>: were performed on an Acuity UPLC in flow injection analysis mode, equipped with a Waters Xevo G25 QTOF. All MS data were processed using MassLynx 4.0. Isotope patterns are predicted using Molecular Weight Calculator <underline underline-style="single">http://www.alchemistmatt.com/</underline>. <bold>HPLC</bold>: were performed with a Waters Autopurification system, equipped with a Waters X&#x02010;Bridge OBD semi&#x02010;prep column (5&#x02005;&#x003bc;m, 19&#x02005;mm&#x000d7;50&#x02005;mm), with an injection loop of 1&#x02005;ml, eluting with H<sub>2</sub>O+0.1&#x02009;% NH<sub>4</sub>OH (pH&#x02005;9)/MeCN +0.1&#x02009;% NH<sub>4</sub>OH. The crude samples (in H<sub>2</sub>O/MeCN) were filtered (nylon, 0.2&#x02005;&#x003bc;m) and injected in 750&#x02005;&#x003bc;L aliquots, with mass&#x02010;directed purification with an ACQUITY QDa performance mass spectrometer. Analytical HPLC used the same solvents and system, with a Waters X&#x02010;Bridge OBD column (5&#x02005;&#x003bc;m, 4.6&#x02005;mm&#x000d7;50&#x02005;mm) and an injection loop of 0.02&#x02005;ml. Retention times (t<sub>R</sub>) are quoted for the solvent gradient: 0&#x02005;min (95&#x02009;% A: 5&#x02009;% B); 1&#x02005;min (95&#x02009;:&#x02009;5), 7.5&#x02005;min (5&#x02009;:&#x02009;95) on the analytical column. <bold>UV&#x02010;visible absorption spectra</bold> were acquired with the Waters HPLC or a UV&#x02010;Vis spectrometer (Cary 60 UV&#x02010;Vis, Agilent Technologies, Figure&#x02005;S12). <bold>Photochemistry</bold>: samples were irradiated with stirring at a distance of 50&#x02005;mm from a MiniSun GU10 27 SMD LED bulb with an output centred at 452&#x02005;nm (see Figure&#x02005;S37) or with a MiniSun UVA bulb. <bold>EPR spectroscopy</bold>: Aqueous samples were prepared as follows. Freshly&#x02010;prepared solutions of the complexes, all containing 21&#x02005;mM DMPO, were loaded into bottom&#x02010;sealed quartz capillaries (1.2&#x02005;mm exterior diameter) using metal needles and plastic syringes. MeCN samples were prepared as follows. DMPO was dissolved in MeCN at a concentration of 21&#x02005;mM and was degassed in a Schlenk tube by freeze&#x02010;pump&#x02010;thaw cycles until no further bubbling was observed. The solution was then transferred to a N<sub>2</sub> glove&#x02010;box and used to dissolve complex (previously freeze&#x02010;dried) to a Pt concentration of 10.5&#x02005;mM. This solution was pipetted into a 25&#x02005;&#x003bc;L glass microcapillary (IntraMark, Blaubrand), and both ends were sealed with <italic>cristaseal</italic> sealing wax (Hawksley). The capillaries were placed in a larger (4&#x02005;mm external diameter) EPR quartz tubes and inserted into the resonator. Sample volume and position were adjusted so that the length of the sample matched the optical window of the resonator, for an optimal illumination. The EPR experimental setup consisted of a Xe arc lamp (operated at 700&#x02005;W) coupled to the resonator (Bruker X&#x02010;band Super High Sensitivity Probehead) of the EPR spectrometer (X&#x02010;band EMXmicro, Brucker) through a liquid waveguide. The light was filtered before entering the waveguide, using a 410&#x02005;nm long&#x02010;pass filter followed by a 440&#x02013;480&#x02005;nm band pass filter. Measurements were carried out in continuous&#x02010;wave mode, at X&#x02010;band frequency (ca. 9.5&#x02005;GHz) and room temperature, using the following parameters: field sweep of 8&#x02005;mT, receiver gain of 30&#x02005;dB, modulation amplitude of 0.1&#x02005;mT and microwave attenuation of 23.0&#x02005;dB. Quantification was done using the second integral of the spectra averaged over 100&#x02005;min of continuous illumination after reaching the steady state, by interpolation of a calibration curve of TEMPO solutions of known concentrations measured in the same conditions as the sample, in the dark. The uncertainty in the radical adduct concentrations was estimated by measuring a TEMPO standard. Simulations were carried out in Matlab&#x000ae;, using a modified EasySpin<xref rid="ejic202100041-bib-0024" ref-type="ref">
+<sup>[24]</sup>
+</xref>
+<italic>garlic</italic> function to allow two species to be fitted simultaneously. For the DMPO<sup>.</sup>&#x02212;N<sub>3</sub> adduct, isotropic hyperfine couplings to the nitroxidic nitrogen (a<sub>NO</sub>
+<sup>N</sup>=1.450&#x02005;mT), the &#x003b2;&#x02010;proton of DMPO (a<sub>&#x003b2;</sub>
+<sup>H</sup>=1.475&#x02005;mT) and the &#x003b1;&#x02010;nitrogen of the trapped azidyl radical (a<sub>&#x003b1;</sub>
+<sup>N</sup>=0.314&#x02005;mT) were considered. For the DMPO<sup>.</sup>&#x02212;OH adduct, only the first two previous hyperfine couplings were included. An isotropic g&#x02010;tensor (g=2.0005) was used in both cases. Radical adduct transients were produced from the spectral peak heights. The DMPO<sup>.</sup>&#x02212;N<sub>3</sub> transient was obtained using the two side peaks of each of the four triplets and estimating the height of the central peak as the average of the two side peaks. The DMPO<sup>.</sup>&#x02212;OH transient was obtained by subtraction of the DMPO<sup>.</sup>&#x02212;N<sub>3</sub> transient from the total radical adduct transient.</p><sec id="ejic202100041-sec-0009"><title>Synthetic procedures</title><sec id="ejic202100041-sec-0010"><title>
+<italic>Caution</italic>! No problems were encountered during this work, however heavy metal azides are known to be shock sensitive detonators, therefore it is essential that platinum azides compound are handled with care</title><p>
+<italic>Trans, trans, trans</italic>&#x02010;[Pt(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>(py)<sub>2</sub>] (<bold>1</bold>) was synthesised as previously reported. For increased production of <bold>5</bold>, complex <bold>1</bold> was isolated by crystallisation directly from the reaction solution and was not recrystallised before use, retaining residual H<sub>2</sub>O<sub>2</sub> content.</p></sec><sec id="ejic202100041-sec-0011"><title>Reaction of 1&#x02009;with 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (2) in MeCN to give complex 5&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> and 3&#x02009;a/3&#x02009;b</title><p>As previously reported,<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref> 1,4&#x02010;diphenyl&#x02010;2&#x02010;butyne&#x02010;1,4&#x02010;dione (70&#x02005;mg, 0.299&#x02005;mmol) and <italic>trans,trans,trans</italic>&#x02010;[Pt(N<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>(py)<sub>2</sub>] (150&#x02005;mg, 0.318&#x02005;mmol) dissolved in MeCN (22&#x02005;ml) and stirred at 35&#x02009;&#x000b0;C (48&#x02005;h) produced complex <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> as the major product, and as well as other minor species. These products included dimer <bold>5</bold>, which had not been previously characterised or identified as a dimer, since the mass exceeded the detection limit of the HPLC machine. The solvent volume was reduced to 5&#x02005;ml <italic>in vacuo</italic>, syringe filtered and purified by HPLC. Complexes <bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub> (t<sub>R</sub>=4.83&#x02005;min (<bold>31&#x02009;%</bold>) and <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> (t<sub>R</sub>=5.13&#x02005;min, <bold>13&#x02009;%</bold>) were isolated and the solvent removed by freeze&#x02010;drying to give both as pale yellow solids (see <italic>Figure&#x02005;S2</italic>).</p><p>
+<sup><bold>1</bold></sup>
+<bold>H NMR (5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2</sub>, 500&#x02005;MHz, <italic>d</italic>
+<sub>3</sub>&#x02010;MeCN) &#x003b4;: 9.16 (s, br, 1H, H<sub>2</sub>O<sub>2</sub>, OH), 9.14 (dd, <sup>3</sup>
+<italic>J</italic>
+<sub>HPt</sub>=26.7, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6.7, 4H, H<sub>Pyortho&#x02019;</sub>), 8.51 (dd, <sup>3</sup>
+<italic>J</italic>
+<sub>HPt</sub>=26.7, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6.6, 4H, H<sub>Pyortho</sub>), 8.11 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.6, 2H, H<sub>Pypara&#x02019;</sub>), 8.06 (d, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=8.3, 4H, H<sub>Phortho&#x02019;</sub>), 7.85 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.8, 2H, H<sub>Pypara</sub>), 7.68 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.8, 4H, H<sub>Pymeta&#x02019;</sub>), 7.59 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.5, 2H, <sub>Phpara&#x02019;</sub>), 7.46 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.8, 4H, <sub>Phmeta&#x02019;</sub>), 7.22 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6.6, 4H, H<sub>Pymeta</sub>), 7.09 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.4, 2H, H<sub>Phpara</sub>), 6.95 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7.8, 4H, H<sub>Phmeta</sub>), 6.75 (d,<sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=8.3, 4H, H<sub>Phortho</sub>). <sup><bold>13</bold></sup>
+<bold>C NMR</bold> (<bold>5</bold>&#x02009;&#x022c5;&#x02009;H<sub>2</sub>O<sub>2,</sub> 151&#x02005;MHz, <italic>d</italic>
+<sub>3&#x02010;</sub>MeCN) &#x003b4;: 187.9 (q, CO), 153.3 (q, triazole), 151.6 (q, triazole, <sup>2</sup>
+<italic>J</italic>
+<sub>CPt</sub> 43.8&#x02005;Hz), 150.42 (Py<sub>ortho</sub>), 150.37 (Py<sub>ortho&#x02019;</sub>), 143.1 (q, Ph<sub>ipso</sub>), 143.0 (Py<sub>para&#x02019;</sub>), 142.8 (Py<sub>para</sub>), 138.6 (q, Ph&#x02019;<sub>ipso</sub>), 133.8 (Ph<sub>para&#x02019;</sub>), 131.3 (Ph<sub>ortho&#x02019;</sub>), 129.1 (Ph<sub>meta&#x02019;</sub>), 127.2 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>CPt</sub>= 27.2, Py<sub>meta&#x02019;</sub>), 127.0 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>CPt</sub>= 26.2, Py<sub>meta</sub>), 128.8 (Ph<sub>para</sub>), 128.6 (Ph<sub>meta</sub>), 126.4 (Ph<sub>ortho</sub>), 112.1 (q, C&#x02212;OH).</p></sec><sec id="ejic202100041-sec-0012"><title>Characterisation of 3&#x02009;a/3&#x02009;b in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH (freshly prepared) before rearrangement</title><p>
+<sup><bold>195</bold></sup>
+<bold>Pt NMR</bold> (107&#x02005;MHz, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) &#x003b4;: 832 and 784.</p><p>
+<bold>IR</bold> &#x003bd; cm<sup>&#x02212;1</sup> (<italic>d</italic>
+<sub>4</sub>&#x02010;MeOH): 3418.25(br), 2505.31(br), 2360.65, 2342.09, 2047.76 (sharp, &#x003bd;<sub>asym</sub>N<sub>3</sub>), 1652.13, 1613.86, 1596.93, 1576.75, 1458.93, 1400.85, 1258.62, 1213.35, 1077.10, 1022.18, 946.22, 898.43, 768.63, 690.11. Additional characterisation of <bold>3&#x02009;a</bold>/<bold>3&#x02009;b</bold> is as previously described.<xref rid="ejic202100041-bib-0007" ref-type="ref">
+<sup>[7]</sup>
+</xref>
+</p></sec><sec id="ejic202100041-sec-0013"><title>Characterisation of complex 4&#x02009;following rearrangement in <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH</title><p>
+<sup><bold>1</bold></sup>
+<bold>H NMR</bold> (<bold>4</bold>, 400&#x02005;MHz, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) &#x003b4;: 9.05 (d, <sup>3</sup>
+<italic>J</italic>
+<sub>HPt</sub>=25, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, 2H, H<sub>Pyortho&#x02019;</sub>), 8.54 (d, <sup>3</sup>
+<italic>J</italic>
+<sub>HPt</sub>=25, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, 2H, H<sub>Pyortho</sub>), 8.26 (dd, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, 1H, H<sub>Pypara&#x02019;</sub>), 7.97 (dd,<sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, 1H, H<sub>Pypara</sub>), 7.93 (d, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, 2H, H<sub>Phortho&#x02019;</sub>), 7.81 (dd, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7, 2H, H<sub>Pymeta&#x02019;</sub>), 7.57 (t, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7, 1H, H<sub>Phpara&#x02019;</sub>), 7.43 (dd, 2H, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7, H<sub>Phmeta&#x02019;</sub>), 7.33 (dd, 2H, H<sub>Pymeta</sub>), 7.04 (dd, 1H, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7, H<sub>Phpara</sub>), 6.91 (t, 2H, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=7, H<sub>Phmeta</sub>), 6.71 (d, 2H, <sup>3</sup>
+<italic>J</italic>
+<sub>HH</sub>=6, H<sub>Phortho</sub>).</p><p>
+<sup><bold>13</bold></sup>
+<bold>C NMR</bold> (<bold>4</bold>, 126&#x02005;MHz, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) &#x003b4;: 188.0 (q, C<sub>PhCO</sub>), 152.0 (q, C<sub>triazole</sub>), 151.3 (C<sub>Pyortho&#x02019;</sub>), 150.7 (C <sub>Pyortho</sub>), 145.3 (q, C<sub>ipsoPh</sub>), 143.8 (C<sub>Pypara&#x02019;</sub>), 143.6 (q, C<sub>triazole</sub>), 143.4 (C<sub>Pypara</sub>), 138.8 (q, C<sub>ipsoPh&#x02019;</sub>), 134.1 (C<sub>Phpara&#x02019;</sub>), 131.2 (C<sub>Phortho&#x02019;</sub>), 129.9 (*<sub>impurity</sub>), 129.2 (C<sub>Phmeta&#x02019;</sub>), 128.8 (C<sub>Phmeta</sub>), 128.6 (C<sub>Phpara</sub>), 128.1 (<sup>3</sup>
+<italic>J</italic>
+<sub>13C195Pt</sub>= 26, C<sub>Pymeta&#x02019;</sub>), 127.6 (<sup>3</sup>
+<italic>J</italic>
+<sub>13C195Pt</sub>= 26, C<sub>Pymeta&#x02019;</sub>), 126.3 (C<sub>Phortho</sub>), 108.4 (q, C<sub>PhC&#x02010;OX</sub>).</p><p>
+<sup><bold>195</bold></sup>
+<bold>Pt NMR</bold> (<bold>4</bold>, 107&#x02005;MHz, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH) &#x003b4;: 824.</p><p>
+<bold>IR</bold> v cm<sup>&#x02212;1</sup> (<bold>4</bold>, <italic>d</italic>
+<sub>4</sub>&#x02010;MeOH): 3391.11 (br), 2508.44 (br), 2048.63 (sharp, &#x003bd;<sub>asym</sub>N<sub>3</sub>), 1654.70, 1613.38, 1597.02, 1460.08, 1405.16, 1254.93, 1213.32, 1106.53, 1013.34, 934.54, 894.13, 768.44, 691.38.</p><p>
+<bold>ESI&#x02010;MS</bold> (<bold>4</bold>, MeOH) <italic>m/z</italic>: (M=<italic>trans,trans,trans</italic>&#x02010;[Pt(N<sub>3</sub>)(C<sub>16</sub>H<sub>10</sub>N<sub>3</sub>O<sub>2</sub>)(OH)<sub>2</sub>(py)<sub>2</sub>]): 705.71 ([M+H]<sup>+</sup> C<sub>26</sub>H<sub>23</sub>N<sub>8</sub>O<sub>4</sub>Pt, calcd 706.15), 687.83 ([M&#x02212;OH]<sup>+</sup> C<sub>26</sub>H<sub>21</sub>N<sub>8</sub>O<sub>3</sub>Pt, calcd 688.13).</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://www.ccdc.cam.ac.uk/services/structures?id=doi:10.1002/ejic.202100041">Deposition Number 2008628 (for <bold>5</bold>)</ext-link> contains the supplementary crystallographic data for this paper. These data are provided free of charge by the joint Cambridge Crystallographic Data Centre and Fachinformationszentrum Karlsruhe Access Structures service <ext-link ext-link-type="uri" xlink:href="https://www.ccdc.cam.ac.uk/structures/">www.ccdc.cam.ac.uk/structures</ext-link>.</p></sec></sec></sec><sec sec-type="COI-statement" id="ejic202100041-sec-0015"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="EJIC-2021-1397-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ejic202100041-sec-0014"><title>Acknowledgements</title><p>This work was supported by the Wellcome Trust (201406/Z/16/Z), Cancer Research UK (CR&#x02010;UK) grant number C5255/A18085, through the Cancer Research UK Oxford Centre and the John Fell Fund. NF thanks Dr. Alan Kenwright and Profs. Stephen Faulkner and Andrew Weller for helpful discussions. EPR measurements were performed in the Centre for Advanced Electron Spin Resonance at the University of Oxford supported by the EPSRC (EP/L011972/1). A.M.B. gratefully acknowledges her fellowship support from the Royal Society and EPSRC for a Dorothy Hodgkin Fellowship (DH160004), and A.M.B and A.B acknowledge the support from the Royal Society Grant for Research Fellows (RGF\R1\180099).</p></ack><ref-list><ref id="ejic202100041-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0001">
+<string-name>
+<given-names>W. P.</given-names>
+<surname>Fehlhammer</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Beck</surname>
+</string-name>, <source xml:lang="en">Z. anorg. allg. Chem.</source>
+<year>2015</year>, <volume>641</volume>, <fpage>1599</fpage>&#x02013;<lpage>1678</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0002">
+<string-name>
+<given-names>P.</given-names>
+<surname>Kreutzer</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Weis</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Boehme</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kemmerich</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Beck</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Spencer</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mason</surname>
+</string-name>, <source xml:lang="en">Z. Naturforsch</source>
+<year>1972</year>, <volume>27b</volume>, <fpage>745</fpage>&#x02013;<lpage>747</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0003">
+<string-name>
+<given-names>K.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Mawamba</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>L&#x000f6;hr</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hagemann</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Schatzschneider</surname>
+</string-name>, <source xml:lang="en">Inorg. Chem.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>11508</fpage>&#x02013;<lpage>11521</lpage>.<pub-id pub-id-type="pmid">31393709</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0004">
+<string-name>
+<given-names>K.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Einsele</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Irmler</surname>
+</string-name>, <string-name>
+<given-names>R. F.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Schatzschneider</surname>
+</string-name>, <source xml:lang="en">Organometallics</source>
+<year>2020</year>, <volume>39</volume>, <fpage>1423</fpage>&#x02013;<lpage>1430</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="ejic202100041-cit-0005">A.&#x02005;R. Powers, X. Yang, T.&#x02005;J. Del&#x02005;Castillo, I. Ghiviriga, K.&#x02005;A. Abboud, A.&#x02005;S. Veige, <italic>Dalton Trans</italic>. <bold>2013</bold>, 14963&#x02013;14966.</mixed-citation></ref><ref id="ejic202100041-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0006">
+<string-name>
+<given-names>N. J.</given-names>
+<surname>Farrer</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sayers</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Shaili</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Sadler</surname>
+</string-name>, <source xml:lang="en">Dalton Trans.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>10553</fpage>&#x02013;<lpage>10560</lpage>.<pub-id pub-id-type="pmid">29480314</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0007">
+<string-name>
+<given-names>K.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bertran</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Morgan</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Hare</surname>
+</string-name>, <string-name>
+<given-names>N. H.</given-names>
+<surname>Rees</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Kenwright</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Edkins</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Bowen</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Farrer</surname>
+</string-name>, <source xml:lang="en">Dalton Trans.</source>
+<year>2019</year>, <volume>48</volume>, <fpage>6416</fpage>&#x02013;<lpage>6420</lpage>.<pub-id pub-id-type="pmid">31012460</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="ejic202100041-cit-0008">K. Yao, A. Bertran, A. Howarth, J.&#x02005;M. Goicoechea, S.&#x02005;M. Hare, N.&#x02005;H. Rees, M. Foroozandeh, A.&#x02005;M. Bowen, N.&#x02005;J. Farrer, <italic>Chem. Commun</italic>. <bold>2019</bold>, 11287&#x02013;11290.</mixed-citation></ref><ref id="ejic202100041-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0009">
+<string-name>
+<given-names>C. C.</given-names>
+<surname>Beto</surname>
+</string-name>, <string-name>
+<given-names>E. D.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ghiviriga</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Schanze</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Veige</surname>
+</string-name>, <source xml:lang="en">Chem. Commun.</source>
+<year>2017</year>, <volume>53</volume>, <fpage>9934</fpage>&#x02013;<lpage>9937</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0010">
+<string-name>
+<given-names>N. J.</given-names>
+<surname>Farrer</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Griffith</surname>
+</string-name>, <source xml:lang="en">Curr. Opin. Chem. Biol.</source>
+<year>2020</year>, <volume>55</volume>, <fpage>59</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">31945705</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0011">
+<string-name>
+<given-names>U. F.</given-names>
+<surname>R&#x000f6;hrig</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Majjigapu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Grosdidier</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bron</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Stroobant</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Pilotte</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Colau</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Vogel</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Van Den Eynde</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Zoete</surname>
+</string-name>, et&#x02005;al., <source xml:lang="en">J. Med. Chem.</source>
+<year>2012</year>, <volume>55</volume>, <fpage>5270</fpage>&#x02013;<lpage>5290</lpage>.<pub-id pub-id-type="pmid">22616902</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0012">
+<string-name>
+<given-names>H.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Rogers</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Brabec</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Clarkson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Coverdale</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kostrhunova</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Phillips</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Postings</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Shepherd</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Scott</surname>
+</string-name>, <source xml:lang="en">Chem. Commun.</source>
+<year>2020</year>, <volume>56</volume>, <fpage>6392</fpage>&#x02013;<lpage>6395</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0013">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ahmed</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xiong</surname>
+</string-name>, <source xml:lang="en">Dyes Pigm.</source>
+<year>2021</year>, <volume>185</volume>, <elocation-id>108905</elocation-id>.</mixed-citation></ref><ref id="ejic202100041-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0014">
+<string-name>
+<given-names>N. J.</given-names>
+<surname>Farrer</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Woods</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Salassa</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Clarkson</surname>
+</string-name>, <string-name>
+<given-names>F. S.</given-names>
+<surname>Mackay</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Sadler</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>8905</fpage>&#x02013;<lpage>8908</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejic202100041-cit-0015">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2010</year>, <volume>122</volume>, <fpage>9089</fpage>&#x02013;<lpage>9092</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0016">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Vollano</surname>
+</string-name>, <string-name>
+<given-names>E. E.</given-names>
+<surname>Blatter</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Dabrowiak</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>1984</year>, <volume>106</volume>, <fpage>2732</fpage>&#x02013;<lpage>2733</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0017">
+<string-name>
+<given-names>O. V.</given-names>
+<surname>Dolomanov</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Bourhis</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Gildea</surname>
+</string-name>, <string-name>
+<given-names>J. A. K.</given-names>
+<surname>Howard</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Puschmann</surname>
+</string-name>, <source xml:lang="en">J. Appl. Crystallogr.</source>
+<year>2009</year>, <volume>42</volume>, <fpage>339</fpage>&#x02013;<lpage>341</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0018">
+<string-name>
+<given-names>P. L.</given-names>
+<surname>Holland</surname>
+</string-name>, <source xml:lang="en">Dalton Trans.</source>
+<year>2010</year>, <volume>39</volume>, <fpage>5415</fpage>&#x02013;<lpage>5425</lpage>.<pub-id pub-id-type="pmid">20361098</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0019">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Fontmorin</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Burgos Castillo</surname>
+</string-name>, <string-name>
+<given-names>W. Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sillanp&#x000e4;&#x000e4;</surname>
+</string-name>, <source xml:lang="en">Water Res.</source>
+<year>2016</year>, <volume>99</volume>, <fpage>24</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">27132196</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0020">
+<string-name>
+<given-names>N. J.</given-names>
+<surname>Farrer</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gierth</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Sadler</surname>
+</string-name>, <source xml:lang="en">Chem. Eur. J.</source>
+<year>2011</year>, <volume>17</volume>, <fpage>12059</fpage>&#x02013;<lpage>12066</lpage>.<pub-id pub-id-type="pmid">21922574</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0021">
+<string-name>
+<given-names>K.</given-names>
+<surname>Sutter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Autschbach</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>13374</fpage>&#x02013;<lpage>13385</lpage>.<pub-id pub-id-type="pmid">22794134</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0022">
+<string-name>
+<given-names>A.</given-names>
+<surname>Yahav</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Goldberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vigalok</surname>
+</string-name>, <source xml:lang="en">Organometallics</source>
+<year>2005</year>, <volume>24</volume>, <fpage>5654</fpage>&#x02013;<lpage>5659</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0023">
+<string-name>
+<given-names>A.</given-names>
+<surname>Radu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Conde</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fontolliet</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wagnieres</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Van den Bergh</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Monnier</surname>
+</string-name>, <source xml:lang="en">Gastrointest. Endosc.</source>
+<year>2003</year>, <volume>57</volume>, <fpage>897</fpage>&#x02013;<lpage>905</lpage>.<pub-id pub-id-type="pmid">12776039</pub-id></mixed-citation></ref><ref id="ejic202100041-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0024">
+<string-name>
+<given-names>F. A.</given-names>
+<surname>Villamena</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Hadad</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Zweier</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. A</source>
+<year>2003</year>, <volume>107</volume>, <fpage>4407</fpage>&#x02013;<lpage>4414</lpage>.</mixed-citation></ref><ref id="ejic202100041-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejic202100041-cit-0025">
+<string-name>
+<given-names>S.</given-names>
+<surname>Stoll</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Schweiger</surname>
+</string-name>, <source xml:lang="en">J. Magn. Reson.</source>
+<year>2006</year>, <volume>178</volume>, <fpage>42</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">16188474</pub-id></mixed-citation></ref></ref-list></back></article>

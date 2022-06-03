@@ -1,0 +1,589 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8926288</article-id><article-id pub-id-type="publisher-id">d2sc00595f</article-id><article-id pub-id-type="doi">10.1039/d2sc00595f</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Polymeric dipicolylamine based mass tags for mass cytometry<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available: Supplementary figures, scheme, and experimental details. See DOI: <uri>10.1039/d2sc00595f</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Yefeng</given-names></name><xref rid="affa" ref-type="aff"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5193-2815</contrib-id><name><surname>Liu</surname><given-names>Peng</given-names></name><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Majonis</surname><given-names>Daniel</given-names></name><xref rid="affb" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2673-2141</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">R-8621-2018</contrib-id><name><surname>Winnik</surname><given-names>Mitchell A.</given-names></name><xref rid="affa" ref-type="aff"/><xref rid="affc" ref-type="aff"/></contrib><aff id="affa">
+<institution>Department of Chemistry, University of Toronto</institution>
+<addr-line>80 St. George Street</addr-line>
+<city>Toronto</city>
+<postal-code>ON M5S 3H6</postal-code>
+<country>Canada</country>
+<email>m.winnik@utoronto.ca</email>
+</aff><aff id="affb">
+<institution>Fluidigm Canada Inc.</institution>
+<addr-line>1380 Rodick Road, Suite 400</addr-line>
+<city>Markham</city>
+<postal-code>ON L3R 4G5</postal-code>
+<country>Canada</country>
+</aff><aff id="affc">
+<institution>Department of Chemical Engineering and Applied Chemistry, University of Toronto</institution>
+<city>Toronto</city>
+<postal-code>ON M5S 3E5</postal-code>
+<country>Canada</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2022-02-23"><day>23</day><month>2</month><year>2022</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2022-03-16"><day>16</day><month>3</month><year>2022</year></pub-date><pub-date pub-type="pmc-release"><day>23</day><month>2</month><year>2022</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>13</volume><issue>11</issue><fpage>3233</fpage><lpage>3243</lpage><history><date date-type="received" iso-8601-date="2022-01-30"><day>30</day><month>1</month><year>2022</year></date><date date-type="accepted" iso-8601-date="2022-02-10"><day>10</day><month>2</month><year>2022</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2022-02-23">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref></license></permissions><abstract><p>Mass cytometry is an emerging powerful bioanalytical technique for high-dimensional single-cell analysis. In this technique, cells are stained with metal-isotope-tagged antibodies and are analyzed by an inductively coupled plasma time-of-flight mass spectrometer. While there are more than 100 stable isotopes available in the <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 75 to 209 detection range of the instrument, only about 50 parameters can be measured per cell because current reagents are metal-chelating polymers with pendant aminocarboxylate chelators that only bind hard metal ions such as the rare earths and Bi<sup>3+</sup>. Here we describe the synthesis and characterization of a new type of metal-chelating polymer with pendant dipicolylamine chelators suited to binding intermediate to soft metals such as rhenium and platinum. We introduce two different conjugation strategies, a thiol&#x02013;maleimide reaction that works well for rhenium, and a DBCO-azide click reaction designed to avoid potential complications of Pt and other heavy metals interacting with thiol groups. We show that these polymers can serve as new elemental mass tags for mass cytometry. Antibody-polymer conjugates of CD20 and CD8a prepared by both coupling reactions were employed in conjunction with commercial metal-conjugated antibodies for multi-parameter single-cell immunoassays.</p></abstract><abstract abstract-type="toc"><p>A new type of metal-chelating polymer with pendant dipicolylamine chelators that bind rhenium and platinum has been developed for mass cytometry applications.<graphic xlink:href="d2sc00595f-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>Natural Sciences and Engineering Research Council of Canada</institution><institution-id institution-id-type="doi">10.13039/501100000038</institution-id></institution-wrap>
+</funding-source><award-id>CRDPJ 484832 &#x02013; 15</award-id></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Modern medical research requires highly sensitive, multiplexed assays of cellular biomarkers to interrogate the complex biology of underlying diseases.<sup><xref rid="cit1" ref-type="bibr">1&#x02013;3</xref></sup> Biomarkers are defined as characteristic proteins, genes, or small molecules that can be measured and evaluated as indicators of normal biological or pathological states of a cell. Mass cytometry (MC) was designed to overcome the multiplexing limitations of flow cytometry by employing heavy metal isotopes as tags combined with cytometric injection of cells into an inductively coupled plasma time-of-flight mass spectrometer.<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> Reagents for biomarker detection are antibodies (Abs) labeled with metal-chelating polymers.<sup><xref rid="cit5" ref-type="bibr">5&#x02013;12</xref></sup> Mass channels are used not just to detect cell surface proteins for cell type identification, but also to detect transcription factors, intracellular cytokines, and phosphorylation states of intracellular proteins (cell signaling).<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> Additional mass channels may be used to detect cellular metabolism, hypoxia and enzymatic activity.<sup><xref rid="cit14" ref-type="bibr">14&#x02013;16</xref></sup></p><p>Current MC instrumentation can detect atomic masses in the range of amu 75 to 209. There are theoretically &#x0223c;130 isotopes in this mass range, but those that can be attached to Abs for protein detection are currently limited by the types of metal chelating pendant groups that can be attached to the polymer backbone. Current polymer reagents carry polyaminocarboxylates, typically diethylenetriaminepentaacetic acid (DTPA) or 1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid (DOTA), with multiple oxygen and nitrogen donors that can form strong complexes with hard metal ions such as the lanthanide ions. A recent review identified 49 stable isotopes available for protein detection (38 lanthanides, <sup>89</sup>Y, In(2), <sup>209</sup>Bi, and Cd(7)), as well as 14 additional isotopes available for cell identification.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> While this extent of multiplexing is impressive, it falls short of the full capability of MC as a technique. A recent review points out that researchers are often faced with a dilemma of trying to cast a broad net and obtain as much information as possible at a particular level of cellular behavior or take a highly-targeted approach to reveal a more limited number of cellular features with higher resolution.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup></p><p>The most effective way to expand the parameter space accessible to mass cytometry would be the development of metal-chelating polymers with pendant groups able to carry soft to intermediate metals. A partial list of soft to intermediate heavy metal ions and their isotopes would include Pd(6), Pt(6), Ag(2), Hg(5), Re(2). Previous experiments have shown that polymers bearing polyaminocarboxylate pendant groups were able to bind Pd<sup>2+</sup> and Pt<sup>2+</sup>.<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> However, after attachment to Abs, the conjugates were unable to detect the target antigens and served only to label dead cells in a cell suspension. A likely explanation is that intracellular thiols were able to displace these metals from the polyaminocarboxylate ligands. This result emphasizes the need for polymers with new pendant ligands designed to bind soft metal ions.</p><p>The dipicolylamine (DPA) ligand has been employed in the field of radiopharmaceuticals for chelating radioactive <sup>99m</sup>Tc tricarbonyl core (<italic toggle="yes">fac</italic>-[<sup>99m</sup>Tc(CO)<sub>3</sub>]<sup>+</sup>) and <sup>188</sup>Re tricarbonyl core (<italic toggle="yes">fac</italic>-[<sup>188</sup>Re(CO)<sub>3</sub>]<sup>+</sup>).<sup><xref rid="cit18" ref-type="bibr">18&#x02013;21</xref></sup> The resulting chelates exhibit great stability towards ligand substitution and decomposition due to the d<sup>6</sup> low-spin electron configuration of Tc(<sc>i</sc>) and Re(<sc>i</sc>).<sup><xref rid="cit20" ref-type="bibr">20,22,23</xref></sup> The element rhenium has two naturally occurring isotopes, both <sup>185</sup>Re (37.4%) and <sup>187</sup>Re (62.6%), are within the mass range of the current CyTOF&#x000ae; mass cytometer (75&#x02013;209 amu). The DPA ligand has also been employed in the field of bioinorganic chemistry for the development of new platinum(<sc>ii</sc>)-based anticancer drugs.<sup><xref rid="cit24" ref-type="bibr">24&#x02013;26</xref></sup> The element platinum has six naturally occurring isotopes (<italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 190, 192, 194, 195, 196, 198), of which four are commercially available at high enrichment levels (&#x0003e;95%). While the small molecule-based chemotherapy drug, cisplatin, has been used for cell viability staining, cellular barcoding and immunophenotyping in mass cytometry, a polymeric platinum mass tag has yet to be developed.<sup><xref rid="cit27" ref-type="bibr">27&#x02013;30</xref></sup></p><p>Polymers for mass cytometry applications have to meet several important criteria. First, the polymer should have a relatively narrow distribution of chain lengths such that each labeled antibody carries a similar number of metal ions. Second, the metals must be bound in a way that they do not undergo exchange during storage or applications. Third, the polymer must contain functional groups for antibody conjugation. Finally, the polymer must be water-soluble since bioassays are performed in aqueous media. While metal-chelating polymers bearing polyaminocarboxylate chelators designed for binding lanthanides lend themselves to high water solubility, some chelators for metal ions beyond lanthanides are rather hydrophobic. Metal-chelating polymers with hydrophobic chelators require additional solubilizing moieties to render them water-soluble. In 2019, we reported a polymer with a terminal biotin, pendant desferrioxamine (DFO) groups designed to bind Zr ions, and multiple pendant PEG<sub>24</sub> chains to promote water solubility.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> Zr would contribute four stable isotopes (<italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> 90, 91, 92, 94) for detection. While we could detect Zr with polymers bound to streptavidin-coated polystyrene microbeads, the polymer was too short and carried too few Zr atoms to be useful on its own as a MC reagent. Longer polymers had solubility problems, likely associated with the hydrophobic nature of the benzyl-DFO chelator. It would not be possible to include the Zr polymer in multiparameter experiments on PBMC samples. Nevertheless, it proved useful for demonstrating that Zr could in fact be detected by mass cytometry. We note that a more successful Zr mass tag based upon metal&#x02013;organic framework nanoparticles has recently been reported.<sup><xref rid="cit31" ref-type="bibr">31</xref></sup></p><p>In this contribution, we describe the synthesis of a new type of metal-chelating polymer with pendant dipicolylamine (DPA) chelators that can complex with the rhenium tricarbonyl core (<italic toggle="yes">fac</italic>-[Re(CO)<sub>3</sub>]<sup>+</sup>) or with the platinum(<sc>ii</sc>) ion. For the rhenium mass tag, the initial polymer synthesized, with a polyacrylamide backbone, a lysine-based spacer, DPA pendant groups and a maleimide functional end group, was soluble in water, but its <italic toggle="yes">fac</italic>-[Re(CO)<sub>3</sub>]<sup>+</sup> complex caused the polymer to precipitate. We overcame this problem by introducing an oligoethylene glycol (methoxyPEG<sub>6</sub>) to the pendant groups. For the platinum mass tag, we employed a similar polymer structure to that of rhenium mass tag but with multiple additional azide functional groups being introduced to the pendant groups. These polymers could be attached to primary antibodies, and these conjugates showed comparable performance to their Maxpar&#x000ae; counterparts in suspension MC applications.</p></sec><sec><title>Results and discussion</title><sec><title>Rhenium mass tag synthesis</title><p>The rhenium-chelating polymer was synthesized as shown in <xref rid="sch1" ref-type="fig">Scheme 1</xref>. We began with the synthesis of the activated ester polymer 1, poly(pentafluorophenyl acrylate) (PPFPA) by reversible addition&#x02013;fragmentation chain transfer (RAFT) polymerization.<sup><xref rid="cit32" ref-type="bibr">32,33</xref></sup> The polymerization was carried out at 70 &#x000b0;C using 2-(dodecylthiocarbonothioylthio)-2-methylpropanoic acid (DDMAT) as the chain transfer agent (CTA) and 2,2&#x02032;-azobis(2-methylpropionitrile) (AIBN) as the thermal initiator in 1,4-dioxane. A monomer-to-CTA to initiator molar ratio ([M]&#x02009;:&#x02009;[CTA]&#x02009;:&#x02009;[I]) of 30&#x02009;:&#x02009;1&#x02009;:&#x02009;0.1 was chosen to tailor the molecular weight of the resulting polymer 1, with an apparent number average molecular weight (<italic toggle="yes">M</italic><sub>n</sub><sup>GPC</sup>) of 9400 g mol<sup>&#x02212;1</sup> and a relatively narrow molecular weight distribution (<italic toggle="yes">&#x00110;</italic> = 1.25) being obtained at <italic toggle="yes">ca.</italic> 73% conversion (Fig. S1, ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The degree of polymerization (DP) was determined using <sup>1</sup>H NMR spectroscopy by comparing the integration of the PPFPA backbone peaks (<italic toggle="yes">&#x003b4;</italic> = 3.11 ppm) with that of the methyl unit for the dodecyl chain end (<italic toggle="yes">&#x003b4;</italic> = 0.88 ppm) (ESI, Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In this way, we found the DP of polymer 1 was <italic toggle="yes">ca.</italic> 20. Additionally, the <sup>19</sup>F NMR spectrum of polymer 1 displayed three broad peaks at &#x02212;153.2, &#x02212;156.8, and &#x02212;162.3 ppm with an integration ratio of 2&#x02009;:&#x02009;1&#x02009;:&#x02009;2 corresponding to the pentafluorophenyl groups along the polymer backbone (Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="sch1" fig-type="scheme"><label>Scheme 1</label><caption><title>Synthesis of rhenium-chelating polymer (<italic toggle="yes">m</italic> = 20). (a) (1) DPA ligand 5, RT, 13 h, DMF; (2) ethanolamine, RT, 3 h; (b) (1) DMTMM, RT, 5 min, PB buffer (0.2 M, pH 8.0); (2) mPEG<sub>6</sub>-NH<sub>2</sub>, RT, 15 h; (c) (1) TCEP (50 mM), RT, 1 h, H<sub>2</sub>O; (2) Bis-Mal-PEG<sub>6</sub>, RT, 90 min, DMF/PB buffer (0.2 M, pH 7.0).</title></caption><graphic xlink:href="d2sc00595f-s1" position="float"/></fig><p>Next, polymer 1 was treated with a slight excess of a lysine-derived dipicolylamine (DPA) ligand 5, (1.6 equivalents with respect to PFPA repeating units) at room temperature to obtain polymer 2. Ligand 5 was prepared in three steps, as shown in Scheme S1 (ESI),<xref rid="fn1" ref-type="fn">&#x02020;</xref> by (i) direct reductive alkylation of a Boc protected lysine precursor,<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> (ii) Boc deprotection by hydrochloric acid (HCl in dioxane), followed by (iii) conversion of the amine hydrochloride salt to free base with NaOH (ESI, Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The aminolysis reaction was monitored by <sup>19</sup>F NMR. The reaction was rapid, as shown by the NMR spectra in Fig. S4 (ESI),<xref rid="fn1" ref-type="fn">&#x02020;</xref> in which the broad signals corresponding to PFPA units along the backbone disappeared, while sharp signals corresponding to the released pentafluorophenol appeared. After purification, the <sup>1</sup>H NMR spectrum of polymer 2 showed a set of resonances corresponding to the introduction of ligand 5 while the <sup>19</sup>F spectrum displayed no signal (ESI, Fig. S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These NMR studies suggest complete modification of the PFPA units with near-quantitative incorporation of ligand 5 along the polymer backbone. In addition, the UV-vis spectrum of polymer 2 in methanol showed negligible absorbance at 309 nm, suggesting the cleavage of the trithiocarbonate group during aminolysis (ESI, Fig. S6<xref rid="fn1" ref-type="fn">&#x02020;</xref>). A sharp absorbance peak located at 262 nm was observed, corresponding to the absorption from the 2-pyridyl groups of the chelator.</p><p>The carboxylic acid (COOH) moiety of ligand 5 was initially designed with two goals in mind. First, we anticipated that the carboxylate ion would improve the water solubility of the rhenium-loaded polymer since the [Re(CO)<sub>3</sub>(DPA)]<sup>+</sup> complex itself is rather hydrophobic. Second, this complex also has a net positive charge. Polymers with a positive charge in each pendant group can interact non-specifically with cells that commonly have a negatively charged outer membrane. The carboxylate provides a potential counterion, so that each pendant group is zwitterionic. Zwitterionic pendant groups have been beneficial in different radioimmunotherapy applications of metal-chelating polymers.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> Disappointedly, we found that rhenium-loaded polymer 2 had low solubility in water or in PB buffer. To try to address this aqueous solubility problem, polymer 2 was further modified with a short methoxy polyethylene glycol (mPEG<sub>6</sub>-NH<sub>2</sub>) as shown in <xref rid="sch1" ref-type="fig">Scheme 1</xref>, step b. The goal here was not only to enhance the water solubility of the polymer, but also to provide a PEG corona to shield the positively charged complex from interaction with cells.</p><p>Specifically, polymer 2 was first treated with excess (4-(4,6-dimethoxy-1,3,5-triazin-2-yl)-4-methyl-morpholinium chloride) (DMTMM, <italic toggle="yes">ca.</italic> 8 molar equivalents to each carboxylic acid group) in PB buffer (pH 8.0) for a brief time (5 min) to activate the carboxylic acid functional groups. Following this, excess mPEG<sub>6</sub>-NH<sub>2</sub> (<italic toggle="yes">ca.</italic> 7 molar equivalents to each carboxylic acid group) was added and the reaction solution was stirred overnight. The PEGylated version of polymer 2 was subsequently obtained after purification by spin-filtration, which we refer to as polymer 3. The <sup>1</sup>H NMR spectrum of polymer 3 confirms PEGylation, with the appearance of new peaks at 3.32 ppm and 3.59 ppm corresponding to the methoxy group and the ethylene glycol repeating units of the mPEG<sub>6</sub>, respectively (ESI, Fig. S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>). A rhenium loading experiment indicated that metal-loaded polymer 3 was soluble in both water and PB buffer.</p><p>Polymer 3 was further modified to install a maleimide functional group that enables subsequent bioconjugation (<xref rid="sch1" ref-type="fig">Scheme 1</xref>, step c). First, any disulfide bonds that may have formed in prior steps were reduced with tris(2-carboxyethyl)phosphine (TCEP). The newly reduced thiol groups were then reacted with an excess of a bismaleimide (Bis-Mal-PEG<sub>6</sub>) to afford the maleimide-functionalized polymer 4. The <sup>1</sup>H NMR spectrum of polymer 4 showed the appearance of a new peak at 6.89 ppm corresponding to the maleimide (<xref rid="fig1" ref-type="fig">Fig. 1</xref>). The ratio of integration of this peak to that of the chelator protons at 8.27 ppm is 1&#x02009;:&#x02009;20, which suggests nearly quantitative incorporation of the maleimide functional group into the polymer.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>
+<sup>1</sup>H NMR spectrum of maleimide functionalized polymer 4 in deuterated water (D<sub>2</sub>O).</title></caption><graphic xlink:href="d2sc00595f-f1" position="float"/></fig></sec><sec><title>Platinum mass tag synthesis</title><p>As mentioned above, one requirement for the metal-chelating polymer to be used in mass cytometry is the presence of functional groups for antibody attachment. One concern in designing a platinum-chelating polymer is the compatibility of functional groups in the polymer structure with the platinum(<sc>ii</sc>) ion. For example, Pt(<sc>ii</sc>) can interact with both amino and carboxylate groups. Many platinum-based anti-cancer drugs are complexes of ligands containing these two functional groups.<sup><xref rid="cit35" ref-type="bibr">35</xref></sup> Pt(<sc>ii</sc>) can also interact with the thiol group. Mei <italic toggle="yes">et al.</italic> prepared platinum-conjugated CD45 Ab by reacting cisplatin with a TCEP reduced Ab.<sup><xref rid="cit30" ref-type="bibr">30</xref></sup> Moreover, Pt(<sc>ii</sc>)-alkene (<italic toggle="yes">e.g.</italic> Zeise's salt) and alkyne complexes have also been reported in literature.<sup><xref rid="cit36" ref-type="bibr">36</xref></sup> We speculated that the presence of the aforementioned functional groups along with the DPA ligands in the polymer structure might interfere with the platinum loading process. On the other hand, DeRose's group has reported a series of azide-containing Pt(<sc>ii</sc>) derivatives for target analysis by click chemistry, suggesting minimal interactions between Pt(<sc>ii</sc>) and azide functional groups.<sup><xref rid="cit37" ref-type="bibr">37,38</xref></sup> Taking all these factors into consideration, we decided to introduce pendant azide functional groups to the polymer structure for antibody conjugation <italic toggle="yes">via</italic> click reactions.</p><p>The synthesis of the clickable platinum-chelating polymer consists of two major steps as shown in <xref rid="sch2" ref-type="fig">Scheme 2</xref>. Starting from the same polymer 1, we first attached the DPA ligand through the aminolysis reaction as described above. The resulting polymer was further treated with TCEP followed by a large excess of maleimide to cap the thiol end group of the polymer. The end-capped polymer 6 was then reacted with an excess of DMTMM (<italic toggle="yes">ca.</italic> 8-fold to each COOH) followed by a mixture of mPEG<sub>6</sub>-NH<sub>2</sub> and azide-PEG<sub>6</sub>-NH<sub>2</sub>. The molar ratio of the two PEGs was 1&#x02009;:&#x02009;1. Assuming the same reactivity of the two PEGs, we anticipated that there were <italic toggle="yes">ca.</italic> 10 randomly distributed azide groups along every polymer backbone. <xref rid="fig2" ref-type="fig">Fig. 2a</xref> presents the <sup>1</sup>H NMR spectrum of the PEGylated polymer 7. Similarly, we observed new peaks at 3.0&#x02013;4.0 ppm, suggesting successful PEGylation. In addition, compared to the mPEG<sub>6</sub>-only modified polymer 4 (<xref rid="fig1" ref-type="fig">Fig. 1</xref>), there is a decrease in the peak a (methoxy group of mPEG<sub>6</sub>) integral and the appearance of a new peak b at 3.43 ppm (methylene group next to the azide group). A careful analysis of the integrations of the two peaks suggested that the ratio of the azide-PEG<sub>6</sub> to the mPEG<sub>6</sub> was 1.1&#x02009;:&#x02009;1. Details of the analysis can be found in the ESI (Fig. S8).<xref rid="fn1" ref-type="fn">&#x02020;</xref> These <sup>1</sup>H NMR results suggested the presence of both PEGs in polymer 7. We further confirmed the presence of azide groups in polymer 7 by Fourier transform infrared (FTIR) spectroscopy as shown in <xref rid="fig2" ref-type="fig">Fig. 2b</xref>. Compared to the rhenium chelating polymer 4 (<xref rid="fig3" ref-type="fig">Fig. 3b</xref>), polymer 7 showed a new absorption peak located at 2100 cm<sup>&#x02212;1</sup>, which corresponds to the N<sub>3</sub> asymmetric vibration.<sup><xref rid="cit39" ref-type="bibr">39</xref></sup></p><fig position="float" id="sch2" fig-type="scheme"><label>Scheme 2</label><caption><title>Synthesis of platinum-chelating polymer (<italic toggle="yes">m</italic> = 10, <italic toggle="yes">n</italic> = 10). (a) (1) DPA ligand 5, RT, 13 h, DMF; (2) ethanolamine, RT, 3 h; (3) TCEP, maleimide; (b) (1) DMTMM, RT, PB buffer (0.2 M, pH 8.0); (2) mPEG<sub>6</sub>-NH<sub>2</sub> and azide-PEG<sub>6</sub>-NH<sub>2</sub>, RT, 12 h.</title></caption><graphic xlink:href="d2sc00595f-s2" position="float"/></fig><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>(a) <sup>1</sup>H NMR spectrum of the clickable platinum-chelating polymer 7 in deuterated water (D<sub>2</sub>O). (b) FTIR spectrum of the platinum chelating polymer 7.</title></caption><graphic xlink:href="d2sc00595f-f2" position="float"/></fig><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>(a) Structure of Re-loaded polymer 4 and its <sup>1</sup>H NMR spectrum in deuterated water (D<sub>2</sub>O). (b) FTIR spectra of the Re salt, polymer 4 and Re-loaded polymer 4. (c) Structure of Pt-loaded polymer 7 and its <sup>1</sup>H NMR spectrum in deuterated water (D<sub>2</sub>O). (d) FTIR spectrum of Pt-loaded polymer 7.</title></caption><graphic xlink:href="d2sc00595f-f3" position="float"/></fig></sec><sec><title>Metal loading</title><p>Rhenium loading was achieved by incubating polymer 4 with a slight excess of rhenium salt (1.2-fold to each chelator), [NEt<sub>4</sub>]<sub>2</sub>[Re(CO)<sub>3</sub>Br<sub>3</sub>],<sup><xref rid="cit40" ref-type="bibr">40</xref></sup> in anhydrous methanol at 37 &#x000b0;C for 2 h. <xref rid="fig3" ref-type="fig">Fig. 3a</xref> presents the <sup>1</sup>H NMR spectrum of polymer 4 after loading with rhenium (denoted PolyRe). Compared to the unloaded polymer 4, all pyridyl proton signals were shifted downfield due to the electron withdrawing inductive effects of Re(<sc>i</sc>). Importantly, the maleimide group survived under these reaction conditions (ESI, Fig. S9<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Successful loading was further confirmed by FTIR as shown in <xref rid="fig3" ref-type="fig">Fig. 3b</xref>. The rhenium salt showed two strong carbonyl absorptions at 1848 and 1998 cm<sup>&#x02212;1</sup>. Polymer 4 showed absorption bands at 1650 and 1095 cm<sup>&#x02212;1</sup>, corresponding to the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><!-- PBM data was replaced with SVG by xgml2pxml:
+<glyph-data id="z.dbd" format="PBM" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+00000000
+00000000
+00000000
+</glyph-data>
+-->
+<glyph-data id="z.dbd" format="SVG" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="13.200000pt" height="16.000000pt" viewBox="0 0 13.200000 16.000000" preserveAspectRatio="xMidYMid meet"><metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata><g transform="translate(1.000000,15.000000) scale(0.017500,-0.017500)" fill="currentColor" stroke="none"><path d="M0 440 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z M0 280 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z"/></g></svg>
+]]>
+</glyph-data></private-char>O stretching of amide group and vibrations of ether C&#x02013;O&#x02013;C bonds in PEG, respectively.<sup><xref rid="cit41" ref-type="bibr">41</xref></sup> After loading, two new absorption bands corresponding to carbonyl groups appeared at 1908 and 2030 cm<sup>&#x02212;1</sup>, suggesting the presence of the <italic toggle="yes">fac</italic>-[Re(CO)<sub>3</sub>]<sup>+</sup> core. PolyRe can be lyophilized for long-term storage and redissolved in PB buffer before bioconjugation (ESI, Fig. S10<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>Platinum loading was achieved by incubating polymer 7 with potassium tetrachloroplatinate (K<sub>2</sub>PtCl<sub>4</sub>, 1.2-fold to each chelator, dissolved in DMSO) in anhydrous methanol at 45 &#x000b0;C for 2 h. <xref rid="fig3" ref-type="fig">Fig. 3c</xref> shows the <sup>1</sup>H NMR of the purified Pt-loaded polymer 7 (denoted PolyPt). Compared to the metal-free polymer 7, all pyridyl proton signals were shifted downfield, suggesting the formation of the metal complex. In addition, the azide groups survived the metal loading process as indicated by the FTIR spectrum of PolyPt, where the characteristic absorption band of the azide group remains unchanged (<xref rid="fig3" ref-type="fig">Fig. 3d</xref>). PolyPt can also be lyophilized for long-term storage and redissolved in PB buffers before bioconjugation (ESI, Fig. S11<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p></sec><sec><title>Antibody conjugation</title><p>For the rhenium mass tag, antibody-polymer conjugates (<sup>nat</sup>Re-CD20 and <sup>nat</sup>Re-CD8a) were prepared following standard Maxpar&#x000ae; antibody labeling protocol. Briefly, the antibody was partially reduced by TCEP, washed in a spin filter, and then mixed with an excess of polymer tag, and the mixture was incubated at 37 &#x000b0;C for 1 h. The goal of this protocol is to selectively reduce disulfide bonds in the hinge region of the Ab, while otherwise maintaining the intact IgG structure. To remove, we initially employed a spin filter device (Amicon, Ultra-0.5, 50 kDa) but found significant residual polymer even after multiple washes. Therefore, the antibody-polymer conjugate was further purified by fast-protein liquid chromatography to remove most of the free polymer (ESI, Fig. S12 and S13<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Note that it is important to remove the unconjugated polymers, because we found that these free polymers could interact non-specifically with major cell populations in human PBMCs (ESI, Fig. S14<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Fortunately, as will be shown below, the Ab-polymer conjugate is much less susceptible to this non-specific binding.</p><p>For the platinum mass tag, the antibody-polymer conjugate (<sup>nat</sup>Pt-CD20) was prepared <italic toggle="yes">via</italic> the DBCO-azide click reaction. Specifically, the anti-CD20 Ab was reacted with DBCO-PEG<sub>4</sub>-TFP to introduce the DBCO groups. The tetrafluorophenyl (TFP) ester group reacts with lysine amino groups on the Ab. The number of DBCO per Ab was <italic toggle="yes">ca.</italic> 3 determined by comparing the DBCO absorbance at 309 nm to the Ab absorbance at 280 nm (ESI, Fig. S15<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The DBCO modified Ab was then reacted with an excess of PolyPt (<italic toggle="yes">ca.</italic> 13-fold molar excess to each Ab). Excess polymer was removed by spin filtration (Amicon, Ultra-0.5, 100 kDa).</p></sec><sec><title>Mass cytometry immunoassays with the rhenium mass tag</title><p>The performance of our rhenium mass tag in mass cytometry immunoassays was first evaluated with a <sup>nat</sup>Re-CD20 conjugate. CD20 is a high expression cell surface maker expressed exclusively on B-lymphocytes. The <sup>nat</sup>Re-CD20 conjugate was tested in a 4-plex assay for the identification of B-lymphocytes in human PBMC samples. In these experiments, human PBMCs were stained with a 4-plex antibody panel (<xref rid="fig4" ref-type="fig">Fig. 4a</xref>), including Maxpar&#x000ae; reagents <sup>154</sup>Sm-CD45, <sup>160</sup>Gd-CD14, <sup>170</sup>Er-CD3 as well as <sup>nat</sup>Re-CD20. A separate staining panel, where <sup>nat</sup>Re-CD20 was replaced with <sup>147</sup>Sm-CD20, was used as a positive control. The <sup>nat</sup>Re-CD20 conjugate was titrated at concentrations of 0.1, 0.3, 0.5 and 1.0 &#x003bc;g mL<sup>&#x02212;1</sup>. As shown in <xref rid="fig4" ref-type="fig">Fig. 4c&#x02013;f</xref>, the <sup>nat</sup>Re-CD20 conjugate allowed distinct separation of B cell subsets (CD3&#x02212;CD20+) from the rest of cell subsets within PBMCs at all titers. The median <sup>187</sup>Re signal intensities generated by the <sup>nat</sup>Re-CD20 conjugate at titers of 0.1, 0.3, 0.5 and 1.0 &#x003bc;g mL<sup>&#x02212;1</sup> were 98, 312, 442 and 827, respectively (<xref rid="fig4" ref-type="fig">Fig. 4h</xref>). In comparison, the median signal intensity generated by the <sup>147</sup>Sm-CD20 conjugate was 528 (<xref rid="fig4" ref-type="fig">Fig. 4g</xref>). In addition, CD20 staining using the <sup>nat</sup>Re-CD20 conjugate yielded similar CD3&#x02212;CD20+ B-cell frequencies as the <sup>147</sup>Sm-CD20 conjugate, confirming the utility of our rhenium mass tag in the mass cytometry immunoassays (<xref rid="fig4" ref-type="fig">Fig. 4b and d</xref>).</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>Functionality assay of the <sup>nat</sup>Re-CD20 conjugate with human PBMC samples. The rhenium 187 channel was used for data analysis. (a) Antibody staining panel employed in the assay. (b) Biaxial scatter plot of <sup>170</sup>Er-CD3 <italic toggle="yes">vs.</italic><sup>147</sup>Sm-CD20 within human PBMCs at the optimal titer. Biaxial scatter plots of <sup>170</sup>Er-CD3 <italic toggle="yes">vs.</italic><sup>187</sup>Re-CD20 within human PBMCs at different titers of <sup>187</sup>Re-CD20: (c) 0.1 &#x003bc;g mL<sup>&#x02212;1</sup>; (d) 0.3 &#x003bc;g mL<sup>&#x02212;1</sup>; (e) 0.5 &#x003bc;g mL<sup>&#x02212;1</sup>; (f) 1.0 &#x003bc;g mL<sup>&#x02212;1</sup>. (g) Signal distribution histogram for the CD45+CD3&#x02212;CD20+ B-cells detected by the <sup>147</sup>Sm-CD20 conjugate at the optimal titer. (h) Signal distribution histograms for the CD45+CD3&#x02212;CD20+ B-cells detected by the <sup>nat</sup>Re-CD20 conjugate at different titers.</title></caption><graphic xlink:href="d2sc00595f-f4" position="float"/></fig><p>The performance of the rhenium mass tag was further evaluated in a 7-plex assay with a <sup>nat</sup>Re-CD8a conjugate (<xref rid="fig5" ref-type="fig">Fig. 5a</xref>). The CD8 antigen is a cell surface glycoprotein found on most cytotoxic T lymphocytes. Here the <sup>nat</sup>Re-CD8a conjugate was used to identify the CD8+ T-cell population within PBMCs. We titrated the <sup>nat</sup>Re-CD8a conjugate at concentrations of 0.05, 0.1 and 0.2 &#x003bc;g mL<sup>&#x02212;1</sup>. A Maxpar&#x000ae; <sup>162</sup>Dy-CD8a conjugate was used as a positive control. As shown in <xref rid="fig5" ref-type="fig">Fig. 5c&#x02013;e</xref>, the CD8+ T-cell population within PBMCs could be easily identified with the <sup>nat</sup>Re-CD8a conjugate at all titers. The median <sup>187</sup>Re signal intensities generated by the <sup>nat</sup>Re-CD8a conjugate at titers of 0.05, 0.1 and 0.2 &#x003bc;g mL<sup>&#x02212;1</sup> were 364, 374 and 636, respectively (<xref rid="fig5" ref-type="fig">Fig. 5g</xref>). In contrast, the <sup>162</sup>Dy-CD8a conjugate gave a median signal intensity of 1288 (<xref rid="fig5" ref-type="fig">Fig. 5f</xref>). While the <sup>nat</sup>Re-CD8a conjugate showed a lower staining intensity compared to the positive control, the frequencies of the CD8+ T-cell population determined from the <sup>nat</sup>Re-CD8a conjugate were nevertheless comparable to that of the <sup>162</sup>Dy-CD8a conjugate at optimal titer (<xref rid="fig5" ref-type="fig">Fig. 5b</xref>). In addition, we observed minimal non-specific binding of the <sup>nat</sup>Re-CD8a conjugate to CD8a negative cells such as B-cells (CD45+CD3&#x02212;CD20+) (Fig. S16<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>Functionality assay of the <sup>nat</sup>Re-CD8a conjugate with human PBMC samples. The rhenium 187 channel was used for data analysis. (a) Antibody staining panel employed in the assay. (b) Biaxial scatter plot of <sup>174</sup>Yb-CD4 <italic toggle="yes">vs.</italic><sup>162</sup>Dy-CD8a within human PBMCs at the optimal titer. Biaxial scatter plots of <sup>174</sup>Yb-CD4 <italic toggle="yes">vs.</italic><sup>187</sup>Re-CD8a within human PBMCs at different titers of <sup>187</sup>Re-CD8a: (c) 0.05 &#x003bc;g mL<sup>&#x02212;1</sup>; (d) 0.1 &#x003bc;g mL<sup>&#x02212;1</sup>; (e) 0.2 &#x003bc;g mL<sup>&#x02212;1</sup>. (f) Signal distribution histogram for the CD45+CD3+CD4&#x02212;CD8+ T-cells detected by the <sup>162</sup>Dy-CD8a conjugate at the optimal titer. (g) Signal distribution histograms for the CD45+CD3+CD4&#x02212;CD8+ T-cells detected by the <sup>nat</sup>Re-CD8a conjugate at different titers.</title></caption><graphic xlink:href="d2sc00595f-f5" position="float"/></fig><p>These results demonstrate that our rhenium mass tag can be conjugated to antibodies <italic toggle="yes">via</italic> the thiol&#x02013;maleimide reaction for the detection of cellular biomarkers in mass cytometry immunoassays. These rhenium-tagged antibodies provide accurate quantification for single-cell immunophenotyping experiments that is comparable to the commercial Maxpar&#x000ae; conjugates.</p></sec><sec><title>Mass cytometry immunoassays with the platinum mass tag</title><p>The performance of our platinum mass tag in mass cytometry immunoassays was evaluated with a <sup>nat</sup>Pt-CD20 conjugate. A similar 4-plex antibody staining panel was employed for the functionality tests including Maxpar&#x000ae; reagents <sup>154</sup>Sm-CD45, <sup>160</sup>Gd-CD14, <sup>170</sup>Er-CD3 as well as <sup>nat</sup>Pt-CD20. The <sup>nat</sup>Pt-CD20 conjugate was titrated at concentrations of 0.1, 0.3, 0.5, 1.0 and 2.5 &#x003bc;g mL<sup>&#x02212;1</sup>. As shown in <xref rid="fig6" ref-type="fig">Fig. 6b</xref>, at the titer of 0.1 &#x003bc;g mL<sup>&#x02212;1</sup>, the <sup>nat</sup>Pt-CD20 conjugate could not separate the B-cell population (CD45+CD3&#x02212;CD20+) from the non-T/B cells (CD45+CD3&#x02212;CD20&#x02212;). As the titer increased from 0.3 &#x003bc;g mL<sup>&#x02212;1</sup> to 1.0 &#x003bc;g mL<sup>&#x02212;1</sup>, the B-cell population in the PBMCs could be clearly identified with the <sup>nat</sup>Pt-CD20 conjugate. At the highest titer, however, we observed a significant increase of the <sup>195</sup>Pt signal in the non-T/B cells, resulting a poor separation between the two populations. This is likely caused by the non-specific binding of the <sup>nat</sup>Pt-CD20 conjugate to the non-T/B cells. Nevertheless, in the medium titer range, the <sup>nat</sup>Pt-CD20 conjugate allowed distinct separation of the CD45+CD3&#x02212;CD20+ B-cells from PBMCs. These results clearly emphasize the importance of antibody titration to optimize the staining in the mass cytometry experiments as a lower antibody concentration may not be able to pull out the target cell population while a very high antibody concentration may result in significant non-specific binding.</p><fig position="float" id="fig6"><label>Fig. 6</label><caption><title>Functionality assay of the <sup>nat</sup>Pt-CD20 conjugate with human PBMC samples. The platinum 195 channel was used for data analysis. (a) Biaxial scatter plot of <sup>170</sup>Er-CD3 <italic toggle="yes">vs.</italic><sup>147</sup>Sm-CD20 within human PBMCs at the optimal titer. Biaxial scatter plots of <sup>170</sup>Er-CD3 <italic toggle="yes">vs.</italic><sup>195</sup>Pt-CD20 within human PBMCs at different titers of <sup>195</sup>Pt-CD20: (b) 0.1 &#x003bc;g mL<sup>&#x02212;1</sup>; (c) 0.3 &#x003bc;g mL<sup>&#x02212;1</sup>; (d) 0.5 &#x003bc;g mL<sup>&#x02212;1</sup>; (e) 1.0 &#x003bc;g mL<sup>&#x02212;1</sup>; (f) 2.5 &#x003bc;g mL<sup>&#x02212;1</sup>.</title></caption><graphic xlink:href="d2sc00595f-f6" position="float"/></fig></sec><sec><title>Non-specific interactions between polymers and cells</title><p>In the previous section, we showed that the rhenium mass tag itself could interact non-specifically with PBMCs. Here we also examined the interaction of the platinum mass tag with PBMCs. For this experiment, an antibody cocktail containing Maxpar&#x000ae; conjugates (<xref rid="fig5" ref-type="fig">Fig. 5a</xref>) as well as PolyPt was used to stain the PBMCs. As shown in <xref rid="fig7" ref-type="fig">Fig. 7</xref>, the platinum mass tag itself could also interact with the major cell subsets of the PBMCs. In addition, we observed that the CD45+CD3+ T-cells had less binding of PolyPt compared to the CD45+CD3&#x02212;CD20+ B-cells while the non-T/B cells (CD45+CD3&#x02212;CD20&#x02212;) had the highest binding level. Interestingly, the same trend was also observed for that of the rhenium mass tag (Fig. S14<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig7"><label>Fig. 7</label><caption><title>Non-specific binding test of PolyPt with human PBMC samples. The polymer staining concentration was 5 &#x003bc;g mL<sup>&#x02212;1</sup>. The platinum 195 channel was used for data analysis. (a) <sup>195</sup>Pt signal distribution histogram for the CD45+CD3+ T-cells. Median <sup>195</sup>Pt signal intensity: 18. (b) Biaxial scatter plot of <sup>170</sup>Er-CD3 <italic toggle="yes">vs.</italic><sup>147</sup>Sm-CD20 within human PBMCs at the optimal titer. (c) <sup>195</sup>Pt signal distribution histogram for the CD45+CD3&#x02212;CD20+ B-cells. Median <sup>195</sup>Pt signal intensity: 44. (d) <sup>195</sup>Pt signal distribution histogram for the non-B/T cells (CD45+CD3&#x02212;CD20&#x02212;). Median <sup>195</sup>Pt signal intensity: 89.</title></caption><graphic xlink:href="d2sc00595f-f7" position="float"/></fig><p>In general, polymers can bind to cell membranes <italic toggle="yes">via</italic> hydrophobic, electrostatic, and hydrogen bonding interactions.<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> However, in the case of a polymer carrying multiple metal complexes, transchelation, for example <italic toggle="yes">via</italic> an exchange reaction with ligands present on the cell surface, can lead to metal attachment to a cell. This would be also detected as non-specific binding. To examine this possibility, we carried out a series of ligand challenge experiments, in which we challenged both polymer tags with a 1000-fold excess (<italic toggle="yes">i.e.</italic> 50 molar excess to each complex) of either glycine, cysteine, or histidine in PBS buffer (pH 7.4) for 3 days at room temperature. We chose cysteine and histidine as our model biological chelating ligands because they are reported to interact with soft metal ions such as palladium and platinum <italic toggle="yes">via</italic> the thiol or histidyl group.<sup><xref rid="cit43" ref-type="bibr">43&#x02013;45</xref></sup> Tridentate chelators containing thiol or histidyl groups for the rhenium tricarbonyl core have also been reported.<sup><xref rid="cit46" ref-type="bibr">46,47</xref></sup> Glycine was included to mimic the N-terminal amino group or the C-terminal carboxylic group of the peptides.</p><p>Following incubation, excess ligands were removed by washing the polymer three times with PBS using a spin filter (Amicon, 3 kDa). The UV-vis absorption of the purified polymer was recorded and compared to that of the original polymer. As shown in <xref rid="fig8" ref-type="fig">Fig. 8a</xref> for the PolyRe mass tag, no significant difference in the absorption peak shape was observed after exposure to the challenging ligand, and the ratio of the absorbance at 265 and 300 nm was also unchanged. In addition, we measured the absorbance of the filtrate and observed no significant UV-absorbance between 260 and 350 nm, suggesting no rhenium tricarbonyl core was displaced from its DPA complex in the ligand challenge experiments. These results are consistent with previous reports showing that the dipicolylamine rhenium tricarbonyl complex was stable against ligand exchange.<sup><xref rid="cit20" ref-type="bibr">20,23</xref></sup></p><fig position="float" id="fig8"><label>Fig. 8</label><caption><title>Ligand challenge experiments with PolyRe and PolyPt mass tags. (a) UV-vis spectra of PolyRe mass tag (black) and purified PolyRe mass tag after challenging with glycine (Gly, red), histidine (His, purple) and cysteine (Cys, green). (b) UV-vis spectra of the first filtrate during the polymer purification. (c) UV-vis spectra of PolyPt mass tag (black) and purified PolyPt mass tag after challenging with glycine (Gly, red), histidine (His, purple) and cysteine (Cys, green). (d) UV-vis spectra of the first filtrate during the polymer purification.</title></caption><graphic xlink:href="d2sc00595f-f8" position="float"/></fig><p>For the PolyPt mass tag, the shape of the absorption peak did not change after being challenged with glycine (<xref rid="fig8" ref-type="fig">Fig. 8c</xref>). With histidine, we observed a slight decrease in the absorbance between 280 and 300 nm. With cysteine, however, we observed a significant change in the absorption spectrum. In these experiments, we also measured the absorbance of the filtrate and observed no significant UV-absorbance between 260 and 350 nm, suggesting no displacement of the Pt out of the complex. These results indicate that both histidine and cysteine can interact with the PolyPt mass tag <italic toggle="yes">via</italic> the histidyl or thiol group. Sarkar <italic toggle="yes">et al.</italic> reported a cyclometalated trinuclear Ir(<sc>iii</sc>)/Pt(<sc>ii</sc>) complex and used it as a luminescent probe for histidine-rich proteins. In their complex, they also employed the dipicolylamine ligand to bind Pt(<sc>ii</sc>) and they showed that the chloride ion in the fourth coordination site of the Pt metal center can be replaced with the imidazole nitrogen or the sulphur atom of histidine or cysteine.<sup><xref rid="cit48" ref-type="bibr">48</xref></sup> Therefore, in our case, it is also likely that the chloride ligand in the Pt complex undergoes ligand substitution with histidine or cysteine.</p><p>Results from the experiments described above teach us two lessons: first, the PolyRe mass tag is kinetically stable towards ligand substitution. Therefore, the observed non-specific binding is likely due to hydrophobic and/or electrostatic interactions with the cells. Second, the PolyPt mass tag can interact with histidine and cysteine, but the Pt ions are not extracted from the polymer. However, the PolyPt mass tag may also bind to exposed cell surface thiol and histidyl groups, generating non-specific binding signals. In addition, we note that the commercial Maxpar&#x000ae; conjugates are often supplied in BSA-containing buffers. BSA has a free thiol group. The results above also indicate that BSA-containing buffers may not be suitable for long-term storage of the PolyPt-Ab conjugates.</p></sec></sec><sec><title>Conclusions</title><p>In summary, we have developed a new generation of metal-chelating polymer with pendant dipicolylamine groups suitable for binding intermediate to soft metals such as rhenium and platinum. We introduced two different conjugation strategies, a thiol&#x02013;maleimide reaction that works well for the rhenium-chelating polymer, and a DBCO-azide click reaction designed to avoid potential complications of platinum interacting with thiol groups. Both polymers were employed in multiplexed immunoassays of PBMCs and shown to be able to quantify cell populations as effectively as commercial Maxpar&#x000ae; conjugates. Despite being modified with a PEG corona, both polymers still showed some level of non-specific binding to PBMCs. In addition, although the Pt mass tag appeared to perform satisfactorily in the immunoassays, we showed that the Pt&#x02013;Cl bond in the Pt mass tag is susceptible to ligand substitution reactions and could be a potential source of interference in MC applications. These are topics that are currently under study in our laboratories and will be reported in future publications.</p><p>While we have demonstrate that this new type of polymer can bind rhenium and platinum ions for application to mass cytometry, we note that DPA is also an effective metal chelator for a number of other soft metal ions, such as Pd, Ag and Hg.<sup><xref rid="cit25" ref-type="bibr">25,49</xref></sup> Thus, the polymer with DPA pendant groups opens the door to the preparation of other mass tags based upon soft to intermediate metals. We consider the results reported here to be important first steps in the development of soft-metal&#x02013;metal chelating polymer-conjugates as reagents for mass cytometry.<xref rid="fn2" ref-type="fn">&#x02021;</xref><fn id="fn2"><label>&#x02021;</label><p>Fluidigm, CyTOF, EQ, Helios and Maxpar are trademarks and/or registered trademarks of Fluidigm Corporation in the United States and/or other countries. For research use only. Not for use in diagnostic procedures.</p></fn></p></sec><sec sec-type="data-availability"><title>Data availability</title><p>Data for this paper, including NMR spectra and mass cytometry data are available at <uri xlink:href="https://doi:10.5683/SP3/WADUHE">https://doi:10.5683/SP3/WADUHE</uri>.</p></sec><sec><title>Author contributions</title><p>Y. Z., P. L. and M. A. W. conceived the project. Y. Z. designed the polymer and carried out all the ligand synthesis, polymer synthesis, characterizations and bioconjugation. P. L. and D. M. designed the mass cytometry experiments. P. L. carried out all the mass cytometry experiments and FPLC purification. Y. Z. and P. L. analyzed the mass cytometry data. Y. Z. and M. A. W. wrote the manuscript. M. A. W. supervised the project.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>Drs P. Liu and D. Majonis are employees of Fluidigm Canada. A US patent application has been filed on these polymers.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-013-D2SC00595F-s001" position="float" content-type="local-data"><label>SC-013-D2SC00595F-s001</label><media xlink:href="SC-013-D2SC00595F-s001.pdf" id="d64e1102" position="anchor"/></supplementary-material></sec></body><back><ack><p>We thank NSERC Canada and Fluidigm Canada for their financial support of this research. We also thank Mr Edmond Wong for his helpful input.</p></ack><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Baca</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cosma</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nolan</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gaudilliere</surname><given-names>B.</given-names></name>
+</person-group><source>Cytometry, Part B</source><year>2017</year><volume>92</volume><fpage>10</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.1002/cyto.b.21497</pub-id><?supplied-pmid 27874247?><pub-id pub-id-type="pmid">27874247</pub-id></element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Behbehani</surname><given-names>G. K.</given-names></name>
+</person-group><source>Clin. Lab. Med.</source><year>2017</year><volume>37</volume><fpage>945</fpage><lpage>964</lpage><pub-id pub-id-type="doi">10.1016/j.cll.2017.07.010</pub-id><?supplied-pmid 29128078?><pub-id pub-id-type="pmid">29128078</pub-id></element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konry</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Smolina</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yarmush</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Irimia</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yarmush</surname><given-names>M. L.</given-names></name>
+</person-group><source>Small</source><year>2011</year><volume>7</volume><fpage>395</fpage><lpage>400</lpage><pub-id pub-id-type="doi">10.1002/smll.201001620</pub-id><?supplied-pmid 21294269?><pub-id pub-id-type="pmid">21294269</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bandura</surname><given-names>D. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baranov</surname><given-names>V. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Antonov</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kinach</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lou</surname><given-names>X. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pavlov</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vorobiev</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dick</surname><given-names>J. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tanner</surname><given-names>S. D.</given-names></name>
+</person-group><source>Anal. Chem.</source><year>2009</year><volume>81</volume><fpage>6813</fpage><lpage>6822</lpage><pub-id pub-id-type="doi">10.1021/ac901049w</pub-id><?supplied-pmid 19601617?><pub-id pub-id-type="pmid">19601617</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Allo</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lou</surname><given-names>X. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bouzekri</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><source>Bioconjugate Chem.</source><year>2018</year><volume>29</volume><fpage>2028</fpage><lpage>2038</lpage><pub-id pub-id-type="doi">10.1021/acs.bioconjchem.8b00239</pub-id><?supplied-pmid 29733585?><pub-id pub-id-type="pmid">29733585</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cho</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pichaandi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Closson</surname><given-names>T. L. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Majonis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Leighton</surname><given-names>P. L. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Swanson</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baranov</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Eur. Polym. J.</source><year>2019</year><volume>120</volume><fpage>109175</fpage><pub-id pub-id-type="doi">10.1016/j.eurpolymj.2019.08.002</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gonzalez</surname><given-names>V. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zunder</surname><given-names>E. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fantl</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nolan</surname><given-names>G. P.</given-names></name>
+</person-group><source>Cytometry, Part A</source><year>2017</year><volume>91</volume><fpage>1150</fpage><lpage>1163</lpage><pub-id pub-id-type="doi">10.1002/cyto.a.23283</pub-id><?supplied-pmid 29205767?><pub-id pub-id-type="pmid">29205767</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Illy</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Majonis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herrera</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Omatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Biomacromolecules</source><year>2012</year><volume>13</volume><fpage>2359</fpage><lpage>2369</lpage><pub-id pub-id-type="doi">10.1021/bm300613x</pub-id><?supplied-pmid 22812906?><pub-id pub-id-type="pmid">22812906</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lou</surname><given-names>X. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>G. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herrera</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kinach</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baranov</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nitz</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2007</year><volume>46</volume><fpage>6111</fpage><lpage>6114</lpage><pub-id pub-id-type="doi">10.1002/anie.200700796</pub-id><?supplied-pmid 17533637?><pub-id pub-id-type="pmid">17533637</pub-id></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Majonis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herrera</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schulze</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lou</surname><given-names>X. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Soleimani</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nitz</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Anal. Chem.</source><year>2010</year><volume>82</volume><fpage>8961</fpage><lpage>8969</lpage><pub-id pub-id-type="doi">10.1021/ac101901x</pub-id><?supplied-pmid 20939532?><pub-id pub-id-type="pmid">20939532</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Majonis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kinach</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Biomacromolecules</source><year>2011</year><volume>12</volume><fpage>3997</fpage><lpage>4010</lpage><pub-id pub-id-type="doi">10.1021/bm201011t</pub-id><?supplied-pmid 21955116?><pub-id pub-id-type="pmid">21955116</pub-id></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Majonis</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ornatsky</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weinrich</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><source>Biomacromolecules</source><year>2013</year><volume>14</volume><fpage>1503</fpage><lpage>1513</lpage><pub-id pub-id-type="doi">10.1021/bm4001662</pub-id><?supplied-pmid 23574014?><pub-id pub-id-type="pmid">23574014</pub-id></element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Spitzer</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nolan</surname><given-names>G. P.</given-names></name>
+</person-group><source>Cell</source><year>2016</year><volume>165</volume><fpage>780</fpage><lpage>791</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2016.04.019</pub-id><?supplied-pmid 27153492?><pub-id pub-id-type="pmid">27153492</pub-id></element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bassan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Willis</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vellanki</surname><given-names>R. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nguyen</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Edgar</surname><given-names>L. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wouters</surname><given-names>B. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nitz</surname><given-names>M.</given-names></name>
+</person-group><source>Proc. Natl. Acad. Sci. U. S. A.</source><year>2019</year><volume>116</volume><fpage>8155</fpage><lpage>8160</lpage><pub-id pub-id-type="doi">10.1073/pnas.1821151116</pub-id><?supplied-pmid 30971489?><pub-id pub-id-type="pmid">30971489</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Edgar</surname><given-names>L. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vellanki</surname><given-names>R. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Halupa</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hedley</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wouters</surname><given-names>B. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nitz</surname><given-names>M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2014</year><volume>53</volume><fpage>11473</fpage><lpage>11477</lpage><pub-id pub-id-type="doi">10.1002/anie.201405233</pub-id><?supplied-pmid 25195589?><pub-id pub-id-type="pmid">25195589</pub-id></element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Edgar</surname><given-names>L. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vellanki</surname><given-names>R. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>McKee</surname><given-names>T. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hedley</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wouters</surname><given-names>B. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nitz</surname><given-names>M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2016</year><volume>55</volume><fpage>13159</fpage><lpage>13163</lpage><pub-id pub-id-type="doi">10.1002/anie.201607483</pub-id><?supplied-pmid 27709819?><pub-id pub-id-type="pmid">27709819</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>G. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Spitzer</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bendall</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fantl</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nolan</surname><given-names>G. P.</given-names></name>
+</person-group><source>Nat. Protoc.</source><year>2018</year><volume>13</volume><fpage>2121</fpage><lpage>2148</lpage><pub-id pub-id-type="doi">10.1038/s41596-018-0016-7</pub-id><?supplied-pmid 30258176?><pub-id pub-id-type="pmid">30258176</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Rosales</surname><given-names>R. T. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Finucane</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Foster</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mather</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Blower</surname><given-names>P. J.</given-names></name>
+</person-group><source>Bioconjugate Chem.</source><year>2010</year><volume>21</volume><fpage>811</fpage><lpage>815</lpage><pub-id pub-id-type="doi">10.1021/bc100071k</pub-id><?supplied-pmid 20387897?><pub-id pub-id-type="pmid">20387897</pub-id></element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duatti</surname><given-names>A.</given-names></name>
+</person-group><source>Nucl. Med. Biol.</source><year>2021</year><volume>92</volume><fpage>202</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1016/j.nucmedbio.2020.05.005</pub-id><?supplied-pmid 32475681?><pub-id pub-id-type="pmid">32475681</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ranasinghe</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Handunnetti</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Perera</surname><given-names>I. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Perera</surname><given-names>T.</given-names></name>
+</person-group><source>Chem. Cent. J.</source><year>2016</year><volume>10</volume><fpage>71</fpage><pub-id pub-id-type="doi">10.1186/s13065-016-0218-4</pub-id><?supplied-pmid 27942267?><pub-id pub-id-type="pmid">27942267</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Storr</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fisher</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mikata</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yano</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adam</surname><given-names>M. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Orvig</surname><given-names>C.</given-names></name>
+</person-group><source>Dalton Trans.</source><year>2005</year><fpage>654</fpage><lpage>655</lpage><pub-id pub-id-type="doi">10.1039/B416040A</pub-id><?supplied-pmid 15702173?><pub-id pub-id-type="pmid">15702173</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fernandez-Moreira</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Thorp-Greenwood</surname><given-names>F. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Coogan</surname><given-names>M. P.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2010</year><volume>46</volume><fpage>186</fpage><lpage>202</lpage><pub-id pub-id-type="doi">10.1039/B917757D</pub-id><?supplied-pmid 20024327?><pub-id pub-id-type="pmid">20024327</pub-id></element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Levadala</surname><given-names>M. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Banerjee</surname><given-names>S. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maresca</surname><given-names>K. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Babich</surname><given-names>J. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zubieta</surname><given-names>J.</given-names></name>
+</person-group><source>Synthesis</source><year>2004</year><fpage>1759</fpage><lpage>1766</lpage></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Coord. Chem.</source><year>2020</year><volume>73</volume><fpage>1817</fpage><lpage>1832</lpage><pub-id pub-id-type="doi">10.1080/00958972.2020.1793966</pub-id></element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>W.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2019</year><volume>58</volume><fpage>12661</fpage><lpage>12666</lpage><pub-id pub-id-type="doi">10.1002/anie.201906203</pub-id><?supplied-pmid 31243832?><pub-id pub-id-type="pmid">31243832</pub-id></element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>Q. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>B. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>M. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>H.</given-names></name>
+</person-group><source>Eur. J. Med. Chem.</source><year>2019</year><volume>183</volume><fpage>111727</fpage><pub-id pub-id-type="doi">10.1016/j.ejmech.2019.111727</pub-id><?supplied-pmid 31563806?><pub-id pub-id-type="pmid">31563806</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fienberg</surname><given-names>H. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Simonds</surname><given-names>E. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fantl</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nolan</surname><given-names>G. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bodenmiller</surname><given-names>B.</given-names></name>
+</person-group><source>Cytometry, Part A</source><year>2012</year><volume>81A</volume><fpage>467</fpage><lpage>475</lpage><pub-id pub-id-type="doi">10.1002/cyto.a.22067</pub-id><?supplied-pmid 22577098?><pub-id pub-id-type="pmid">22577098</pub-id></element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hartmann</surname><given-names>F. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Simonds</surname><given-names>E. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bendall</surname><given-names>S. C.</given-names></name>
+</person-group><source>Sci. Rep.</source><year>2018</year><volume>8</volume><fpage>10</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-18422-7</pub-id><?supplied-pmid 29311571?><pub-id pub-id-type="pmid">29311571</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McCarthy</surname><given-names>R. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mak</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Burks</surname><given-names>J. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Barton</surname><given-names>M. C.</given-names></name>
+</person-group><source>Sci. Rep.</source><year>2017</year><volume>7</volume><fpage>6</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-00059-1</pub-id><?supplied-pmid 28127056?><pub-id pub-id-type="pmid">28127056</pub-id></element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>H. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Leipold</surname><given-names>M. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maecker</surname><given-names>H. T.</given-names></name>
+</person-group><source>Cytometry, Part A</source><year>2016</year><volume>89</volume><fpage>292</fpage><lpage>300</lpage><pub-id pub-id-type="doi">10.1002/cyto.a.22778</pub-id><?supplied-pmid 26355391?><pub-id pub-id-type="pmid">26355391</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ke</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhi</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>X.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2021</year><volume>33</volume><fpage>2008297</fpage><pub-id pub-id-type="doi">10.1002/adma.202008297</pub-id><?supplied-pmid 34309916?><pub-id pub-id-type="pmid">34309916</pub-id></element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bou Zerdan</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Geng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Narupai</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Diaz</surname><given-names>Y. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bates</surname><given-names>M. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Laitar</surname><given-names>D. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Souvagya</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Van Dyk</surname><given-names>A. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hawker</surname><given-names>C. J.</given-names></name>
+</person-group><source>J. Polym. Sci.</source><year>2020</year><volume>58</volume><fpage>1989</fpage><lpage>1997</lpage><pub-id pub-id-type="doi">10.1002/pol.20200287</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jochum</surname><given-names>F. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Theato</surname><given-names>P.</given-names></name>
+</person-group><source>Macromolecules</source><year>2009</year><volume>42</volume><fpage>5941</fpage><lpage>5945</lpage><pub-id pub-id-type="doi">10.1021/ma900945s</pub-id></element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boyle</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weinrich</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Scollard</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mbong</surname><given-names>G. N. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Reilly</surname><given-names>R. M.</given-names></name>
+</person-group><source>Pharm. Res.</source><year>2013</year><volume>30</volume><fpage>104</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.1007/s11095-012-0853-y</pub-id><?supplied-pmid 22907419?><pub-id pub-id-type="pmid">22907419</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dilruba</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kalayda</surname><given-names>G. V.</given-names></name>
+</person-group><source>Cancer Chemother. Pharmacol.</source><year>2016</year><volume>77</volume><fpage>1103</fpage><lpage>1124</lpage><pub-id pub-id-type="doi">10.1007/s00280-016-2976-z</pub-id><?supplied-pmid 26886018?><pub-id pub-id-type="pmid">26886018</pub-id></element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Balcells</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Eisenstein</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tilset</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nova</surname><given-names>A.</given-names></name>
+</person-group><source>Dalton Trans.</source><year>2016</year><volume>45</volume><fpage>5504</fpage><lpage>5513</lpage><pub-id pub-id-type="doi">10.1039/C5DT05014F</pub-id><?supplied-pmid 26905649?><pub-id pub-id-type="pmid">26905649</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>White</surname><given-names>J. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Osborn</surname><given-names>M. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moghaddam</surname><given-names>A. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guzman</surname><given-names>L. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Haley</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>DeRose</surname><given-names>V. J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2013</year><volume>135</volume><fpage>11680</fpage><lpage>11683</lpage><pub-id pub-id-type="doi">10.1021/ja402453k</pub-id><?supplied-pmid 23879391?><pub-id pub-id-type="pmid">23879391</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wirth</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>White</surname><given-names>J. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moghaddam</surname><given-names>A. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ginzburg</surname><given-names>A. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zakharov</surname><given-names>L. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Haley</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>DeRose</surname><given-names>V. J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2015</year><volume>137</volume><fpage>15169</fpage><lpage>15175</lpage><pub-id pub-id-type="doi">10.1021/jacs.5b09108</pub-id><?supplied-pmid 26512733?><pub-id pub-id-type="pmid">26512733</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lieber</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rao</surname><given-names>C. N. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chao</surname><given-names>T. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hoffman</surname><given-names>C. W. W.</given-names></name>
+</person-group><source>Anal. Chem.</source><year>1957</year><volume>29</volume><fpage>916</fpage><lpage>918</lpage><pub-id pub-id-type="doi">10.1021/ac60126a016</pub-id></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alberto</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Egli</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abram</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hegetschweiler</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gramlich</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schubiger</surname><given-names>P. A.</given-names></name>
+</person-group><source>J. Chem. Soc., Dalton Trans.</source><year>1994</year><fpage>2815</fpage><lpage>2820</lpage><pub-id pub-id-type="doi">10.1039/DT9940002815</pub-id></element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Deygen</surname><given-names>I. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kudryashova</surname><given-names>E. V.</given-names></name>
+</person-group><source>Colloids Surf., B</source><year>2016</year><volume>141</volume><fpage>36</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1016/j.colsurfb.2016.01.030</pub-id><?supplied-pmid 26826551?><pub-id pub-id-type="pmid">26826551</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marie</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sagan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cribier</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tribet</surname><given-names>C.</given-names></name>
+</person-group><source>J. Membr. Biol.</source><year>2014</year><volume>247</volume><fpage>861</fpage><lpage>881</lpage><pub-id pub-id-type="doi">10.1007/s00232-014-9679-3</pub-id><?supplied-pmid 24903487?><pub-id pub-id-type="pmid">24903487</pub-id></element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cocic</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jovanovic</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Radisavljevic</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Korzekwa</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Scheurer</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Puchta</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baskic</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Todorovic</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Popovic</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Matic</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Petrovic</surname><given-names>B.</given-names></name>
+</person-group><source>J. Inorg. Biochem.</source><year>2018</year><volume>189</volume><fpage>91</fpage><lpage>102</lpage><pub-id pub-id-type="doi">10.1016/j.jinorgbio.2018.09.005</pub-id><?supplied-pmid 30243122?><pub-id pub-id-type="pmid">30243122</pub-id></element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hadjiliadis</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ferderigos</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Butour</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Marzarguil</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gasmi</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Laussac</surname><given-names>J. P.</given-names></name>
+</person-group><source>Inorg. Chem.</source><year>1994</year><volume>33</volume><fpage>5057</fpage><lpage>5064</lpage><pub-id pub-id-type="doi">10.1021/ic00100a034</pub-id></element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>Y. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>S. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>L. G.</given-names></name>
+</person-group><source>Inorg. Chem.</source><year>1999</year><volume>38</volume><fpage>1474</fpage><lpage>1480</lpage><pub-id pub-id-type="doi">10.1021/ic9805473</pub-id></element-citation></ref><ref id="cit46"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Donghi</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maggioni</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>D'Alfonso</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amigoni</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ranucci</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ferruti</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Manfredi</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fenili</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bisazza</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cavalli</surname><given-names>R.</given-names></name>
+</person-group><source>Biomacromolecules</source><year>2009</year><volume>10</volume><fpage>3273</fpage><lpage>3282</lpage><pub-id pub-id-type="doi">10.1021/bm9008638</pub-id><?supplied-pmid 19911848?><pub-id pub-id-type="pmid">19911848</pub-id></element-citation></ref><ref id="cit47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Makris</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Karagiorgou</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Papagiannopoulou</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Panagiotopoulou</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Raptopoulou</surname><given-names>C. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Terzis</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Psycharis</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pelecanou</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pirmettis</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Papadopoulos</surname><given-names>M. S.</given-names></name>
+</person-group><source>Eur. J. Inorg. Chem.</source><year>2012</year><fpage>3132</fpage><lpage>3139</lpage><pub-id pub-id-type="doi">10.1002/ejic.201200056</pub-id></element-citation></ref><ref id="cit48"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sarkar</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ray</surname><given-names>P. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gupta</surname><given-names>P.</given-names></name>
+</person-group><source>Dalton Trans.</source><year>2020</year><volume>49</volume><fpage>1864</fpage><lpage>1872</lpage><pub-id pub-id-type="doi">10.1039/C9DT04720D</pub-id><?supplied-pmid 31967143?><pub-id pub-id-type="pmid">31967143</pub-id></element-citation></ref><ref id="cit49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seubert</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Boehme</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Koesters</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>W.-Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Freisinger</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mueller</surname><given-names>J. Z.</given-names></name>
+</person-group><source>Z. Anorg. Allg. Chem.</source><year>2012</year><volume>638</volume><fpage>1761</fpage><lpage>1767</lpage><pub-id pub-id-type="doi">10.1002/zaac.201200089</pub-id></element-citation></ref></ref-list></back></article>

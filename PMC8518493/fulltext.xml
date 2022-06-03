@@ -1,0 +1,1349 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="chem202102055" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chemistry</journal-id><journal-id journal-id-type="iso-abbrev">Chemistry</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3765</journal-id><journal-id journal-id-type="publisher-id">CHEM</journal-id><journal-title-group><journal-title>Chemistry (Weinheim an Der Bergstrasse, Germany)</journal-title></journal-title-group><issn pub-type="ppub">0947-6539</issn><issn pub-type="epub">1521-3765</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8518493</article-id><article-id pub-id-type="pmid">34289174</article-id><article-id pub-id-type="doi">10.1002/chem.202102055</article-id><article-id pub-id-type="publisher-id">CHEM202102055</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject><subj-group subj-group-type="heading"><subject>Hot Paper</subject></subj-group></subj-group></article-categories><title-group><article-title>Matrix Isolation Spectroscopic and Relativistic Quantum Chemical Study of Molecular Platinum Fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) Reveals Magnetic Bistability of PtF<sub>4</sub>
+</article-title></title-group><contrib-group><contrib id="chem202102055-cr-0001" contrib-type="author"><name><surname>Senges</surname><given-names>Gene</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1776-6718</contrib-id><xref rid="chem202102055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="chem202102055-note-1001" ref-type="author-notes">
+<sup>+</sup>
+</xref></contrib><contrib id="chem202102055-cr-0002" contrib-type="author"><name><surname>Li</surname><given-names>Lin</given-names><prefix>Dr.</prefix></name><xref rid="chem202102055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="chem202102055-note-1001" ref-type="author-notes">
+<sup>+</sup>
+</xref></contrib><contrib id="chem202102055-cr-0003" contrib-type="author"><name><surname>Wody&#x00144;ski</surname><given-names>Artur</given-names><prefix>Dr.</prefix></name><xref rid="chem202102055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="chem202102055-note-1001" ref-type="author-notes">
+<sup>+</sup>
+</xref></contrib><contrib id="chem202102055-cr-0004" contrib-type="author"><name><surname>Beckers</surname><given-names>Helmut</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7903-4291</contrib-id><xref rid="chem202102055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="chem202102055-cr-0005" contrib-type="author"><name><surname>M&#x000fc;ller</surname><given-names>Robert</given-names><prefix>Dr.</prefix></name><xref rid="chem202102055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="chem202102055-cr-0006" contrib-type="author" corresp="yes"><name><surname>Kaupp</surname><given-names>Martin</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1582-2819</contrib-id><xref rid="chem202102055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>martin.kaupp@tu-berlin.de</email></address></contrib><contrib id="chem202102055-cr-0007" contrib-type="author" corresp="yes"><name><surname>Riedel</surname><given-names>Sebastian</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4552-5719</contrib-id><xref rid="chem202102055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>s.riedel@fu-berlin.de</email></address></contrib></contrib-group><aff id="chem202102055-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Freie Universit&#x000e4;t Berlin</institution>
+<named-content content-type="organisation-division">Institut f&#x000fc;r Chemie und Biochemie&#x02013;Anorganische Chemie</named-content>
+<named-content content-type="street">Fabeckstrasse 34/36</named-content>
+<postal-code>14195</postal-code>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="chem202102055-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Technische Universit&#x000e4;t Berlin</institution>
+<named-content content-type="organisation-division">Institut f&#x000fc;r Chemie Theoretische Chemie/Quantenchemie</named-content>
+<named-content content-type="organisation-division">Sekr. C7</named-content>
+<named-content content-type="street">Strasse des 17.&#x02005;Juni 135</named-content>
+<postal-code>10623</postal-code>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><author-notes><fn id="chem202102055-note-1001"><label>+</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>19</day><month>8</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>24</day><month>9</month><year>2021</year></pub-date><volume>27</volume><issue seq="136420">54</issue><issue-id pub-id-type="doi">10.1002/chem.v27.54</issue-id><fpage>13642</fpage><lpage>13650</lpage><history>
+<date date-type="received"><day>10</day><month>6</month><year>2021</year></date>
+</history><permissions><!--&#x000a9; 2021 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. Chemistry&#x000a0;-&#x000a0;A European Journal published by Wiley-VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CHEM-27-13642.pdf"/><abstract><title>Abstract</title><p>Molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub>, <italic toggle="yes">n</italic>=1&#x02013;6, are prepared by two different routes, photo&#x02010;initiated fluorine elimination from PtF<sub>6</sub> embedded in solid noble&#x02010;gas matrices, and the reaction of elemental fluorine with laser&#x02010;ablated platinum atoms. IR spectra of the reaction products isolated in rare&#x02010;gas matrices under cryogenic conditions provide, for the first time, experimental vibrational frequencies of molecular PtF<sub>3</sub>, PtF<sub>4</sub> and PtF<sub>5</sub>. Photolysis of PtF<sub>6</sub> enabled a highly efficient and almost quantitative formation of molecular PtF<sub>4</sub>, whereas both PtF<sub>5</sub> and PtF<sub>3</sub> were formed simultaneously by subsequent UV irradiation of PtF<sub>4</sub>. The vibrational spectra of these molecular platinum fluorides were assigned with the help of one&#x02010; and two&#x02010;component quasirelativistic DFT computation to account for scalar relativistic and spin&#x02013;orbit coupling effects. Competing Jahn&#x02010;Teller and spin&#x02013;orbit coupling effects result in a magnetic bistability of PtF<sub>4</sub>, for which a spin&#x02010;triplet (<sup>3</sup>B<sub>2g</sub>, <italic toggle="yes">D</italic>
+<sub>2h</sub>) coexists with an electronic singlet state (<sup>1</sup>A<sub>1g</sub>, <italic toggle="yes">D</italic>
+<sub>4h</sub>) in solid neon matrices.</p></abstract><abstract abstract-type="graphical"><p>
+<bold>Spin cycle</bold>: The IR spectra of molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) isolated in rare&#x02010;gas matrices are presented. PtF<sub>4</sub> is formed almost quantitatively under blue light radiation of PtF<sub>6</sub>, while PtF<sub>5</sub> and PtF<sub>3</sub> were produced by subsequent UV radiation of PtF<sub>4</sub>. The coexistence of a singlet and a triplet electronic spin state of PtF<sub>4</sub> caused by competing Jahn&#x02010;Teller and spin&#x02013;orbit coupling effects has been verified spectroscopically in the low&#x02010;temperature matrix.<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="CHEM-27-13642-g006.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="chem202102055-kwd-0001">IR spectroscopy</kwd><kwd id="chem202102055-kwd-0002">matrix isolation</kwd><kwd id="chem202102055-kwd-0003">platinum fluorides</kwd><kwd id="chem202102055-kwd-0004">quantum chemistry</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>deutsche forschungsgemeinschaft
+</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>387284271</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="3"/><ref-count count="65"/><page-count count="9"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 24, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.8 mode:remove_FC converted:15.10.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="chem202102055-self">G. Senges, L. Li, A. Wody&#x00144;ski, H. Beckers, R. M&#x000fc;ller, M. Kaupp, S. Riedel, <italic toggle="yes">Chem. Eur. J.</italic>
+<bold>2021</bold>, <italic toggle="yes">27</italic>, 13642.</mixed-citation>
+</p><fn-group id="chem202102055-ntgp-0001"><fn id="chem202102055-note-2001"><p>Dedicated to Professor Helge Willner on the occasion of his 75th birthday</p></fn></fn-group></notes></front><body><sec id="chem202102055-sec-0001"><title>Introduction</title><p>The most common oxidation states for platinum are +2 and +4, but PtF<sub>6</sub> and the ions PtF<sub>6</sub>
+<sup>&#x02212;</sup> and PtF<sub>6</sub>
+<sup>2&#x02212;</sup> are probably the best known and most investigated binary platinum fluoride species.<xref rid="chem202102055-bib-0001" ref-type="bibr">
+<sup>[1]</sup>
+</xref> Unlike the solid mixed&#x02010;valence trifluoride (Pt<sup>II</sup>Pt<sup>IV</sup>F<sub>6</sub>),<xref rid="chem202102055-bib-0005" ref-type="bibr">
+<sup>[2]</sup>
+</xref> and solid tetrafluoride,<xref rid="chem202102055-bib-0006" ref-type="bibr">
+<sup>[3]</sup>
+</xref> platinum pentafluoride is a low&#x02010;melting (m.p. 80&#x02009;&#x000b0;C), deep&#x02010;red solid that disproportionates readily to yield PtF<sub>4</sub> and PtF<sub>6</sub> upon heating.[<xref rid="chem202102055-bib-0009" ref-type="bibr">
+<sup>3c</sup>
+</xref>, <xref rid="chem202102055-bib-0010" ref-type="bibr">
+<sup>4</sup>
+</xref>] The deep&#x02010;red platinum hexafluoride combines high volatility (m.p. 61.3&#x02009;&#x000b0;C)<xref rid="chem202102055-bib-0013" ref-type="bibr">
+<sup>[5]</sup>
+</xref> with the highest electron affinity (EA=7.09&#x02005;eV)<xref rid="chem202102055-bib-0016" ref-type="bibr">
+<sup>[6]</sup>
+</xref> of the known metal hexafluorides. Thus, PtF<sub>6</sub> is a useful and extremely strong one&#x02010;electron oxidizer that has found its place in chemical history as the first species that enabled the synthesis of a stable dioxygenyl salt, [O<sub>2</sub>]<sup>+</sup> [PtF<sub>6</sub>]<sup>&#x02212;</sup>, and of the first xenon compounds, likely [FXe]<sup>+</sup> [PtF<sub>6</sub>]<sup>&#x02212;</sup> and [FXe]<sup>+</sup> [Pt<sub>2</sub>F<sub>11</sub>]<sup>&#x02212;</sup>.[<xref rid="chem202102055-bib-0002" ref-type="bibr">
+<sup>1a</sup>
+</xref>, <xref rid="chem202102055-bib-0003" ref-type="bibr">
+<sup>1b</sup>
+</xref>, <xref rid="chem202102055-bib-0017" ref-type="bibr">
+<sup>7</sup>
+</xref>]</p><p>There are numerous investigations on molecular PtF<sub>6</sub> (see ref. [1b] and references therein), but only very few spectroscopic investigations on molecular fluorides of platinum in lower oxidation states. Platinum monofluoride (PtF) has been studied by microwave,<xref rid="chem202102055-bib-0021" ref-type="bibr">
+<sup>[8]</sup>
+</xref> laser absorption,<xref rid="chem202102055-bib-0022" ref-type="bibr">
+<sup>[9]</sup>
+</xref> and laser&#x02010;induced fluorescence spectroscopy.<xref rid="chem202102055-bib-0023" ref-type="bibr">
+<sup>[10]</sup>
+</xref> Very recently we have reported the infrared stretching frequencies of PtF and PtF<sub>2</sub> embedded in solid neon and argon matrices.<xref rid="chem202102055-bib-0026" ref-type="bibr">
+<sup>[11]</sup>
+</xref> PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=2&#x02013;4) were studied by means of high&#x02010;temperature Knudsen cell mass spectroscopy and their thermochemistry has been explored.<xref rid="chem202102055-bib-0027" ref-type="bibr">
+<sup>[12]</sup>
+</xref> However, experimental spectroscopic investigations on the molecular platinum fluorides PtF<sub>3</sub>, PtF<sub>4</sub> and PtF<sub>5</sub> are not yet available.</p><p>In this work, we present vibrational spectra and UV transitions of molecular PtF<sub>4</sub> embedded in cryogenic solid neon and argon matrices. We also report on a first systematic investigation of the molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) formed independently by two different routes, the reaction of laser&#x02010;ablated platinum atoms with elemental fluorine and the selective photodecomposition of PtF<sub>6</sub>. We were also interested in the IR spectroscopic detection of non&#x02010;classical PtF<sub>
+<italic toggle="yes">n</italic>
+</sub>&#x022c5;F<sub>2</sub> (<italic toggle="yes">n</italic>=4, 5) complexes. The existence of such complexes has so far only been predicted computationally, for example for AuF<sub>5</sub>&#x022c5;F<sub>2</sub> (AuF<sub>7</sub>),<xref rid="chem202102055-bib-0033" ref-type="bibr">
+<sup>[13]</sup>
+</xref> and [PtF<sub>5</sub>&#x022c5;F<sub>2</sub>] <sup>&#x02212;</sup> (PtF<sub>7</sub>
+<sup>&#x02212;</sup>),<xref rid="chem202102055-bib-0016" ref-type="bibr">
+<sup>[6]</sup>
+</xref> but has never been verified experimentally. One possible access to such non&#x02010;classical difluorine complexes of PtF<sub>4</sub> could be the photochemically initiated elimination of F<sub>2</sub> from PtF<sub>6</sub> in a solid noble&#x02010;gas matrix. Our experimental results are supplemented by ab initio CCSD(T) calculations, one&#x02010;component quasirelativistic DFT computations<xref rid="chem202102055-bib-0036" ref-type="bibr">
+<sup>[14]</sup>
+</xref> that include (spin&#x02010;free) scalar relativistic (SR) effects, as well as two&#x02010;component quasirelativistic DFT computations<xref rid="chem202102055-bib-0037" ref-type="bibr">
+<sup>[15]</sup>
+</xref> including spin&#x02013;orbit coupling (SOC) effects (for experimental and computational details see the Supporting Information).</p><p>In a previous computational study, only even&#x02010;numbered molecular platinum fluorides PtF<sub>2<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;4) were studied by scalar relativistic density functional and coupled&#x02010;cluster methods.<xref rid="chem202102055-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> However, more recent studies on PtF<sub>6</sub>
+<xref rid="chem202102055-bib-0039" ref-type="bibr">
+<sup>[17]</sup>
+</xref>, PtF<sub>6</sub>
+<sup>2&#x02212;</sup>,<xref rid="chem202102055-bib-0043" ref-type="bibr">
+<sup>[18]</sup>
+</xref> PtX<sub>4</sub>
+<sup>2&#x02212;</sup> (X=F, Cl, Br)<xref rid="chem202102055-bib-0044" ref-type="bibr">
+<sup>[19]</sup>
+</xref> and the related PdF<sub>4</sub>
+<xref rid="chem202102055-bib-0045" ref-type="bibr">
+<sup>[20]</sup>
+</xref> have shown that SOC effects have a dramatic impact on their electronic structure and spectra. SOC effects can open electronic decay channels, which were closed in non&#x02010;relativistic calculations.</p><p>For the neutral PtF<sub>6</sub> and PtF<sub>4</sub> molecules, which are most relevant in this work, ligand field theory predicts a triplet <sup>3</sup>T<sub>1g</sub> ground state for the t<sub>2g</sub>
+<sup>4</sup>e<sub>g</sub>
+<sup>0</sup> configuration of octahedral PtF<sub>6</sub> (<italic toggle="yes">O</italic>
+<sub>h</sub>) and a <sup>3</sup>E<sub>g</sub> ground state associated with the a<sub>g</sub>
+<sup>2</sup>e<sub>g</sub>
+<sup>3</sup>b<sub>2g</sub>
+<sup>1</sup> occupancy of a square planar PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>)<xref rid="chem202102055-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> (see Figure&#x02005;<xref rid="chem202102055-fig-0001" ref-type="fig">1</xref>, and ref. [21] for the d&#x02010;orbital splitting in octahedral and square planar transition metal complexes). The singly occupied molecular orbitals (MOs) in both molecules are predominantly Pt(5d) orbitals with some &#x003c0;* antibonding Pt&#x02212;F character. The Jahn&#x02010;Teller (JT) theorem predicts a geometrical distortion from the high&#x02010;symmetry configuration for degenerate electronic states of such nonlinear molecules, that lowers the symmetry and lifts the degeneracy.<xref rid="chem202102055-bib-0047" ref-type="bibr">
+<sup>[22]</sup>
+</xref> Hence, nonrelativistic and scalar&#x02010;relativistic electronic structure computations for PtF<sub>6</sub> predict JT&#x02010;distorted <italic toggle="yes">D</italic>
+<sub>4h</sub> or <italic toggle="yes">D</italic>
+<sub>3d</sub> molecular structures,[<xref rid="chem202102055-bib-0016" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="chem202102055-bib-0038" ref-type="bibr">
+<sup>16</sup>
+</xref>] but relativistic computations including SOC<xref rid="chem202102055-bib-0039" ref-type="bibr">
+<sup>[17]</sup>
+</xref> give, in accordance with experimental structural and spectroscopic data, a diamagnetic octahedral molecule with a closed&#x02010;shell singlet ground state (Figure&#x02005;<xref rid="chem202102055-fig-0001" ref-type="fig">1</xref>).<xref rid="chem202102055-bib-0003" ref-type="bibr">
+<sup>[1b]</sup>
+</xref> Thus, PtF<sub>6</sub> represents the rare case where relativistic spin&#x02013;orbit splitting leads to a qualitative change of molecular and electronic structure in a stable molecule.<xref rid="chem202102055-bib-0003" ref-type="bibr">
+<sup>[1b]</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0001"><label>Figure 1</label><caption><p>Simplified scheme of Jahn&#x02010;Teller (JT) distortion and spin&#x02013;orbit coupling (SOC) on the platinum 5d orbital splitting of singlet octahedral PtF<sub>6</sub> (<italic toggle="yes">O</italic>
+<sub>h</sub>, <sup>1</sup>A<sub>1g</sub>, left) and triplet square planar PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>, <sup>3</sup>B<sub>2g</sub>, right). &#x00394;JT and &#x00394;SO indicate the Jahn&#x02010;Teller and spin&#x02013;orbit splitting of degenerate orbitals in the high&#x02010;symmetry configuration, respectively, and &#x00394;CF that due to crystal field splitting.</p></caption><graphic xlink:href="CHEM-27-13642-g007" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="chem202102055-sec-0002"><title>Results and Discussion</title><sec id="chem202102055-sec-0003"><title>Conversion of PtF<sub>6</sub> to PtF<sub>4</sub>
+</title><p>We have studied the photochemistry of PtF<sub>6</sub> isolated in solid noble&#x02010;gas matrices. PtF<sub>6</sub> was prepared according to the original protocol of Weinstock et&#x02005;al.,<xref rid="chem202102055-bib-0014" ref-type="bibr">
+<sup>[5a]</sup>
+</xref> and its vapor was co&#x02010;deposited onto the matrix support together with an excess of pure neon and argon, respectively. In solid neon, the two IR active fundamentals of octahedral PtF<sub>6</sub> are observed at <italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>=705.6&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;<xref rid="chem202102055-fig-0002" ref-type="fig">2</xref>) and <italic toggle="yes">&#x003bd;</italic>
+<sub>4</sub>=274.6&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;S2.3 in the Supporting Information), where the former is accompanied by a weaker matrix site at 709.1&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;<xref rid="chem202102055-fig-0002" ref-type="fig">2</xref>). These frequencies are close to previously reported values for PtF<sub>6</sub> in a solid Ar matrix (<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>=705.2&#x02005;cm<sup>&#x02212;1</sup>, <italic toggle="yes">&#x003bd;</italic>
+<sub>4</sub>=274.2&#x02005;cm<sup>&#x02212;1</sup>),<xref rid="chem202102055-bib-0048" ref-type="bibr">
+<sup>[23]</sup>
+</xref> and reported vapor&#x02010;phase frequencies (705, 273&#x02005;cm<sup>&#x02212;1</sup>).<xref rid="chem202102055-bib-0049" ref-type="bibr">
+<sup>[24]</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0002"><label>Figure 2</label><caption><p>Pt&#x02212;F stretching band region of Ne matrix&#x02010;isolation IR spectra of PtF<sub>6</sub> and molecular PtF<sub>4</sub>: a) precursor PtF<sub>6</sub> seeded in excess Ne and co&#x02010;deposited for 85&#x02005;min at 6&#x02005;K, and b) after irradiation at <italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm (LED) for 70&#x02005;min. Impurity bands are marked by an asterisk.</p></caption><graphic xlink:href="CHEM-27-13642-g002" position="anchor" id="jats-graphic-5"/></fig><p>Upon irradiation of this deposit with blue LED light (<italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm) the red color of matrix&#x02010;isolated PtF<sub>6</sub> diminished and the deposit became almost colorless (Figure&#x02005;S2.1). In the Pt&#x02212;F stretching region four closely spaced new IR bands appeared at wavenumbers between 710 and 717&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;<xref rid="chem202102055-fig-0002" ref-type="fig">2</xref>). A similar band pattern occurred in all subsequent photolysis experiments, which indicates that these bands are likely associated with a single new species. It is assumed that the photodecomposition of PtF<sub>6</sub> either cleaves a single Pt&#x02212;F bond to give a fluorine free radical and PtF<sub>5</sub>, or it leads to the elimination of F<sub>2</sub> and molecular PtF<sub>4</sub>. For square pyramidal PtF<sub>5</sub> (Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>) at least two different Pt&#x02212;F stretching bands, a strong equatorial asymmetric PtF<sub>4</sub> stretching mode and a much weaker axial Pt&#x02212;F&#x02019; stretch, can be expected, while a square planar PtF<sub>4</sub> species will show only a single IR&#x02010;active Pt&#x02212;F stretching band. As mentioned above, the predicted <sup>3</sup>E<sub>g</sub> ground state for a square planar PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>; Figure&#x02005;<xref rid="chem202102055-fig-0001" ref-type="fig">1</xref>) will be subject to a Jahn&#x02010;Teller (JT) distortion,<xref rid="chem202102055-bib-0038" ref-type="bibr">
+<sup>[16]</sup>
+</xref> that lowers the symmetry and lifts the degeneracy.<xref rid="chem202102055-bib-0047" ref-type="bibr">
+<sup>[22]</sup>
+</xref> JT distortions of tetragonal <italic toggle="yes">D</italic>
+<sub>4h</sub> molecules have been studied much less frequently than those of trigonal or octahedral molecules.<xref rid="chem202102055-bib-0050" ref-type="bibr">
+<sup>[25]</sup>
+</xref> Generally, for centrosymmetric molecules JT effects will preserve the inversion symmetry, and the non&#x02010;degenerate vibrational modes b<sub>1g</sub> and b<sub>2g</sub> are JT active in <italic toggle="yes">D</italic>
+<sub>4h</sub> molecules.<xref rid="chem202102055-bib-0047" ref-type="bibr">
+<sup>[22]</sup>
+</xref> As a consequence, JT distortion of square planar PtF<sub>4</sub> will lead to a splitting of the single degenerate Pt&#x02212;F mode and therefore two closely spaced vibrational Pt&#x02212;F bands of almost equal intensity are expected to appear in the IR spectrum. Such a two&#x02010;band spectrum is indeed shown in Figure&#x02005;<xref rid="chem202102055-fig-0002" ref-type="fig">2</xref> for the observed photo&#x02010;dissociation product of PtF<sub>6</sub>, where both bands reveal an additional matrix&#x02010;site splitting like the PtF<sub>6</sub> precursor band. This spectrum already provides strong evidence for the formation of JT distorted planar PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>2h</sub> symmetry). After prolonged irradiation, the photo&#x02010;initiated transformation of PtF<sub>6</sub> to PtF<sub>4</sub> is almost quantitative and surprisingly selective, since no other bands occurred in the Pt&#x02212;F stretching region. This allowed us to additionally measure several much weaker bands of PtF<sub>4</sub>, such as two combination bands at 1281.8 and 1393.5&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;S2.2), as well as three weak bands in the far&#x02010;IR region at 270.5, 248.1, and 221.1&#x02005;cm<sup>&#x02212;1</sup> (Table&#x02005;<xref rid="chem202102055-tbl-0001" ref-type="table">1</xref>, Figure&#x02005;S2.3). The combination band positions in the infrared spectrum provide useful estimates for the two infrared&#x02010;inactive Pt&#x02212;F stretching modes of PtF<sub>4</sub> (a<sub>g</sub>+b<sub>1g</sub>). For example, the corresponding two combination bands observed for PtF<sub>6</sub> in solid Ne at 1305.8&#x02005;cm<sup>&#x02212;1</sup> (<italic toggle="yes">&#x003bd;</italic>
+<sub>2</sub>+<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>) and 1361.0&#x02005;cm<sup>&#x02212;1</sup> (<italic toggle="yes">&#x003bd;</italic>
+<sub>1</sub>+<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>; Figure&#x02005;S2.2), provide upper limits for the Raman bands of <italic toggle="yes">&#x003bd;</italic>
+<sub>2</sub>=600&#x02005;cm<sup>&#x02212;1</sup> (e<sub>g</sub>) and <italic toggle="yes">&#x003bd;</italic>
+<sub>1</sub>=655&#x02005;cm<sup>&#x02212;1</sup> (a<sub>1g</sub>), which are close to the reported Raman bands of PtF<sub>6</sub> at 601 and 655&#x02005;cm<sup>&#x02212;1</sup>, respectively.<xref rid="chem202102055-bib-0049" ref-type="bibr">
+<sup>[24]</sup>
+</xref> Accordingly, from the two combination bands of PtF<sub>4</sub>, we estimate upper limits for two unobserved Raman bands of 677&#x02005;cm<sup>&#x02212;1</sup> (<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>) and 569&#x02005;cm<sup>&#x02212;1</sup>, in good agreement with two&#x02010;component DFT calculations (<italic toggle="yes">&#x003bd;</italic>
+<sub>4</sub>, Table&#x02005;<xref rid="chem202102055-tbl-0001" ref-type="table">1</xref>).
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0003"><label>Figure 3</label><caption><p>Optimized structures of molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub>, <italic toggle="yes">n</italic>=1&#x02013;6, obtained at the 2c&#x02010;X2C&#x02010;TPSSh/x2c&#x02010;TZVPall&#x02010;2c level. Bond lengths are given in &#x000c5; and angles in degrees.</p></caption><graphic xlink:href="CHEM-27-13642-g003" position="anchor" id="jats-graphic-7"/></fig><table-wrap position="float" id="chem202102055-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Observed and computed vibrational frequencies [cm<sup>&#x02212;1</sup>] of PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>).</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr><th valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>i</sub>, i=1&#x02013;9<sup>[a]</sup>
+</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Exp.<sup>[b]</sup>
+</p>
+</th><th colspan="4" align="center" valign="top" rowspan="1">
+<p>Calcd. (Int.)<sup>[c]</sup>
+</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Modes<sup>[d]</sup>
+</p>
+</th></tr><tr><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th colspan="2" align="center" valign="top" rowspan="1">
+<p>
+<sup>3</sup>B<sub>2g</sub> (<italic toggle="yes">D</italic>
+<sub>2h</sub>)</p>
+</th><th colspan="2" align="center" valign="top" rowspan="1">
+<p>
+<sup>1</sup>A<sub>g</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>)</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>1c&#x02010;X2C</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>2c&#x02010;X2C</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>1c&#x02010;X2C</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>2c&#x02010;X2C</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>1</sub> (B<sub>3u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>716.6 (714.4)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>712 (93)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>707 (97)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>705 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>707 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>as</sub>(PtF), antisym. stretch (x)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>2</sub> (B<sub>2u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>712.7 (710.5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>701 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>702 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>705 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>706 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>as</sub>(PtF), antisym. stretch (y)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub> (A<sub>g</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>677<sup>[e]</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>685 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>675 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>692 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>681 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>s</sub>(PtF), in phase stretch</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>4</sub> (B<sub>1g</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">569</italic>
+<sup>[e]</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>426 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>579 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>629 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>599 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>(PtF), out of phase stretch</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>5</sub> (A<sub>g</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>n. o.</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>272 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>255 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>305 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>260 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>s</sub>(FPtF), in plane scissor</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>6</sub> (B<sub>3u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>270.5</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>256 (5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>252 (4)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>215 (12)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>240 (6)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>as</sub>(FPtF), antisym. bend (x)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>8</sub> (B<sub>2u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>248.1 (247.1)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>223 (8)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>223 (7)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>216 (12)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>239 (6)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>as</sub>(FPtF), antisym. bend (y)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>7</sub> (B<sub>1u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>221.1</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>234 (6)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>238 (5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>311 (6)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>233 (6)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>oop</sub>, out of plane bend (z)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">&#x003bd;</italic>
+<sub>9</sub> (A<sub>u</sub>)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>n. o.</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>165(0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>161 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>233 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>176 (0)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>oop</sub>, out of plane pucker</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="chem202102055-tnote-0001"><p>[a] In parentheses: symmetry species for the <italic toggle="yes">D</italic>
+<sub>2h</sub> symmetry. [b] Ne matrix, 6&#x02005;K, matrix&#x02010;site bands are given in parentheses, n.o.=not observed. [c] Values calculated at the 1c&#x02010; and 2c&#x02010;X2C&#x02010;TPSSh levels; relative intensities are given in parentheses. [d] Tentative mode description. [e] Estimated from the combination bands <italic toggle="yes">&#x003bd;</italic>
+<sub>2</sub>+<italic toggle="yes">&#x003bd;</italic>
+<sub>4</sub>=1281.8&#x02005;cm<sup>&#x02212;1</sup> and <italic toggle="yes">&#x003bd;</italic>
+<sub>1</sub>+<italic toggle="yes">&#x003bd;</italic>
+<sub>3</sub>=1393.5&#x02005;cm<sup>&#x02212;1</sup> (<sup>3</sup>B<sub>2g</sub> state) neglecting anharmonicity (Figure&#x02005;S2.2).</p></fn></table-wrap-foot><permissions><copyright-holder>Wiley&#x02010;VCH GmbH</copyright-holder></permissions></table-wrap><p>Investigating the photo&#x02010;decomposition of PtF<sub>6</sub> in a solid argon matrix we found a different photo&#x02010;behavior than in solid neon. In solid argon the PtF<sub>6</sub> band is also depleted by green light LED radiation of <italic toggle="yes">&#x003bb;</italic>=528&#x02005;nm (Figure&#x02005;S2.4). This photo&#x02010;decomposition is much less efficient than the blue light charge&#x02010;transfer (CT) excitation (Figure&#x02005;<xref rid="chem202102055-fig-0002" ref-type="fig">2</xref>), and a new band occurred at 679.8&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;S2.4). The new feature is assigned to the degenerate e&#x02010;type Pt&#x02212;F stretching mode of molecular PtF<sub>5</sub> based on the observed band positions and its photo&#x02010;behavior in further experiments (see below and Tables&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref> and S5.1). For the lowest&#x02010;energy electronic state of PtF<sub>5</sub> (<sup>2</sup>B<sub>2</sub>, <italic toggle="yes">C</italic>
+<sub>4v</sub>), a slightly distorted square pyramidal structure with an axial and four longer equatorial Pt&#x02212;F bonds is predicted (Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>). The much weaker computed axial Pt&#x02212;F stretching vibration of PtF<sub>5</sub> (Table&#x02005;S5.2) was not detected experimentally. Under subsequent blue light radiation (<italic toggle="yes">&#x003bb;</italic>=455&#x02005;nm) PtF<sub>4</sub> was formed again and the bands due to PtF<sub>6</sub> and PtF<sub>5</sub> diminished simultaneously (Figure&#x02005;S2.4). The frequency shift between the two Pt&#x02212;F stretching bands of PtF<sub>4</sub> isolated in solid argon (Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>) is smaller than that in neon, which likely indicates a smaller distortion of the PtF<sub>4</sub> molecule from the high&#x02010;symmetry <italic toggle="yes">D</italic>
+<sub>4h</sub> structure in the argon matrix.
+</p><table-wrap position="float" id="chem202102055-tbl-0002" content-type="Table"><label>Table 2</label><caption><p>Observed and computed IR active Pt&#x02212;F stretching frequencies [cm<sup>&#x02212;1</sup>] for PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6).</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr><th valign="top" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Sym.</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>State</p>
+</th><th colspan="2" align="center" valign="top" rowspan="1">
+<p>Exp.<sup>[a]</sup>
+</p>
+</th><th colspan="2" align="center" valign="top" rowspan="1">
+<p>Calcd.<sup>[b]</sup>
+</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Modes<sup>[c]</sup>
+</p>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Ne</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Ar</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>1c&#x02010;X2C</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>2c&#x02010;X2c</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">
+<p>PtF</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">C</italic>
+<sub>&#x0221e;v</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<sup>2</sup>&#x003a3;<sup>+</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>605.6</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>590.0</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>618 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>620 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd; (<sup>195</sup>Pt&#x02212;F), &#x003a3;<sup>+</sup>
+</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>PtF<sub>2</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">D</italic>
+<sub>&#x0221e;h</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<sup>3</sup>&#x003a3;<sub>g</sub>
+<sup>&#x02212;</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>710.1 (706.1)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>695.6</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>735 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>710 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd;<sub>as</sub> (<sup>195</sup>Pt&#x02212;F<sub>2</sub>), &#x003a3;<sub>u</sub>
+<sup>+</sup>
+</p>
+</td></tr><tr><td rowspan="2" valign="top" colspan="1">
+<p>PtF<sub>3</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<italic toggle="yes">C</italic>
+<sub>2v</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<sup>2</sup>A<sub>2</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>(685.7) 682.4 (680.5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>(671.5) 669.4</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>690 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>684 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd;<sub>as</sub> (<sup>195</sup>Pt&#x02212;F<sub>2</sub>), B<sub>1</sub>
+</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>635.3</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02013;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>645 (16)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>624 (23)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd; (<sup>195</sup>Pt&#x02212;F&#x02032;), A<sub>1</sub>
+</p>
+</td></tr><tr><td rowspan="2" valign="top" colspan="1">
+<p>PtF<sub>4</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<italic toggle="yes">D</italic>
+<sub>2h</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<sup>3</sup>B<sub>2g</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>716.6 (714.4)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>709.5</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>712 (93)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>707 (97)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd; (<sup>195</sup>Pt&#x02212;F<sub>2</sub>), B<sub>3u</sub>
+</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>712.7 (710.5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>708.1</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>701 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>702 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd; (<sup>195</sup>Pt&#x02212;F<sub>2</sub>&#x02032;), B<sub>2u</sub>
+</p>
+</td></tr><tr><td rowspan="2" valign="top" colspan="1">
+<p>PtF<sub>5</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<italic toggle="yes">C</italic>
+<sub>4v</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<sup>2</sup>B<sub>2</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>(694.8) 691.2</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>679.8</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>685 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>684 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd;<sub>as</sub> (<sup>195</sup>Pt&#x02212;F<sub>4</sub>), E</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>&#x02013;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02013;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>697 (4) <sup>[d]</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>646 (9) <sup>[d]</sup>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd; (<sup>195</sup>Pt&#x02212;F&#x02032;), A<sub>1</sub>
+</p>
+</td></tr><tr><td rowspan="2" valign="top" colspan="1">
+<p>PtF<sub>6</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<italic toggle="yes">O</italic>
+<sub>h</sub>
+</p>
+</td><td rowspan="2" valign="top" colspan="1">
+<p>
+<sup>1</sup>A<sub>1g</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>(709.1) 705.6</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>705.5 (701.8)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>698 (100)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003bd;<sub>as</sub> (<sup>195</sup>PtF<sub>6</sub>), T<sub>1u</sub>
+</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>274.6</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>276 (8)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x003b4;<sub>as</sub>(<sup>195</sup>PtF<sub>6</sub>), T<sub>1u</sub>
+</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="chem202102055-tnote-0002"><p>[a] Matrix sites are given in parentheses. [b] Values calculated at one and two&#x02010;component X2C&#x02010;TPSSh level, respectively. Relative IR intensities are given in parentheses and a complete list of computed frequencies is provided in the Supporting Information. [c] Tentative mode description; Platinum isotope splitting is experimentally not resolved. Computed isotope splitting is listed in the Supporting Information. [d] Computed frequencies and relative intensities (in parentheses) of &#x003bd;<sub>s</sub> (<sup>195</sup>Pt&#x02212;F<sub>4</sub>), A<sub>1</sub>, are at 665&#x02005;cm<sup>&#x02212;1</sup> (0, 1c&#x02010;X2C) and 670&#x02005;cm<sup>&#x02212;1</sup> (3, 2c&#x02010;X2C), respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>Wiley&#x02010;VCH GmbH</copyright-holder></permissions></table-wrap><p>UV/Vis spectra of the PtF<sub>6</sub> precursor embedded in a neon matrix were recorded before and after the <italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm irradiation (Figures&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref>, S2.5, and S2.6). In agreement with reported gas&#x02010;phase spectra<xref rid="chem202102055-bib-0053" ref-type="bibr">
+<sup>[26]</sup>
+</xref> and with spectra obtained from PtF<sub>6</sub> in a solid nitrogen matrix[<xref rid="chem202102055-bib-0041" ref-type="bibr">
+<sup>17b</sup>
+</xref>, <xref rid="chem202102055-bib-0048" ref-type="bibr">
+<sup>23</sup>
+</xref>] two strong F&#x02010;to&#x02010;Pt charge&#x02010;transfer (CT) bands of PtF<sub>6</sub> were observed centered at 436 and 312&#x02005;nm (Figures&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref>a and S2.5). Both bands reveal a resolved vibrational structure with an averaged vibrational spacing of 498&#x000b1;10 and 551&#x000b1;12&#x02005;cm<sup>&#x02212;1</sup>, respectively (Table&#x02005;S3.1). These frequencies were previously assigned to the totally symmetric stretching modes in the corresponding excited states.[<xref rid="chem202102055-bib-0048" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="chem202102055-bib-0053" ref-type="bibr">
+<sup>26</sup>
+</xref>] The UV spectrum obtained for PtF<sub>4</sub> is very similar to that of PtF<sub>6</sub> (Figure&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref>b). There are two strong CT bands blue shifted from the PtF<sub>6</sub> bands with <italic toggle="yes">&#x003bb;</italic>
+<sub>max</sub>=325&#x02005;nm and 272&#x02005;nm. The lower&#x02010;wavelength band revealed a well&#x02010;resolved vibrational progression with an average spacing of 542&#x000b1;15&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;S2.6, Table&#x02005;S4.1).
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0004"><label>Figure 4</label><caption><p>UV/Vis spectra (resolution: 0.1&#x02005;nm) of a) PtF<sub>6</sub> and b) PtF<sub>4</sub> in the range from 667 to 210&#x02005;nm. Spectrum (a) was recorded from PtF<sub>6</sub> isolated in solid neon after deposition at 6&#x02005;K for 36&#x02005;min and spectrum (b) was obtained after irradiation of the initial deposit with blue LED light (<italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm) for 75&#x02005;min.</p></caption><graphic xlink:href="CHEM-27-13642-g005" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="chem202102055-sec-0004"><title>Quantum&#x02010;chemical calculations on PtF<sub>6</sub> and PtF<sub>4</sub>
+</title><p>To support our assignments, quasi&#x02010;relativistic DFT (density functional theory) calculations were carried out on the molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) at scalar relativistic one&#x02010;component (1c&#x02010;X2C)<xref rid="chem202102055-bib-0036" ref-type="bibr">
+<sup>[14]</sup>
+</xref> and two&#x02010;component (2c&#x02010;X2C and 2c&#x02010;ZORA)[<xref rid="chem202102055-bib-0037" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="chem202102055-bib-0054" ref-type="bibr">
+<sup>27</sup>
+</xref>] levels to include spin&#x02013;orbit coupling (SOC) effects (for computational details see the Supporting Information). Our computed structures and vibrational frequencies at the 2c&#x02010;X2C level for the PtF<sub>6</sub> ground state (<italic toggle="yes">O</italic>
+<sub>h</sub> symmetry) are fully consistent with previous results (Table&#x02005;S3.2).<xref rid="chem202102055-bib-0039" ref-type="bibr">
+<sup>[17]</sup>
+</xref> We note that SOC splits the degenerate spin&#x02010;free t<sub>2g</sub> MOs into a fourfold degenerate HOMO ((f<sub>(3/2)g</sub>)<sup>4</sup> configuration) and an unoccupied twofold degenerate LUMO (e<sub>(5/2)g</sub>) level (Figure&#x02005;<xref rid="chem202102055-fig-0001" ref-type="fig">1</xref>). Based on 2c&#x02010;X2C and 2c&#x02010;ZORA TDDFT calculations the observed two strong CT bands of PtF<sub>6</sub> (Figures&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref> and S2.6) are assigned to threefold degenerate (T<sub>1u</sub>) excitations involving transitions from occupied fluorine lone&#x02010;pair (&#x003c0;(F)) levels (f<sub>(3/2)u</sub> and e<sub>(5/2)u</sub>) to the lowest unoccupied level (e<sub>(5/2)g</sub> LUMO) of PtF<sub>6</sub> (Table&#x02005;S3.4). The longer&#x02010;wavelength band centered at 436&#x02005;nm accounts for the reddish color and the observed photo&#x02010;decomposition of PtF<sub>6</sub> under the <italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm irradiation to yield PtF<sub>4</sub>. Further low&#x02010;energy HOMO&#x02010;LUMO excitations give rise to additional weak absorptions down to the near&#x02010;IR (Table&#x02005;S3.1).[<xref rid="chem202102055-bib-0048" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="chem202102055-bib-0053" ref-type="bibr">
+<sup>26</sup>
+</xref>]</p><p>For PtF<sub>4</sub> the lowest&#x02010;energy singlet and triplet configurations were evaluated at 1c&#x02010;X2C and 2c&#x02010;X2C levels. At both levels, the JT distorted open&#x02010;shell triplet configuration (<sup>3</sup>B<sub>2g</sub>) of <italic toggle="yes">D</italic>
+<sub>2h</sub> symmetry (Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>) was found to be slightly lower in energy than the square&#x02010;planar closed&#x02010;shell <sup>1</sup>A<sub>1g</sub> state (<italic toggle="yes">D</italic>
+<sub>4h</sub>, Table&#x02005;S4.2). Generally, JT interactions (of electrostatic origin) and SOC (of relativistic origin) compete with each other,<xref rid="chem202102055-bib-0052" ref-type="bibr">
+<sup>[25b]</sup>
+</xref> and SOC reduces the singlet&#x02010;triplet energy gap for PtF<sub>4</sub> considerably from 56&#x02005;kJ&#x02009;mol<sup>&#x02212;1</sup> in the spin&#x02010;free 1c&#x02010;X2C computation to about 11&#x02005;kJ&#x02009;mol<sup>&#x02212;1</sup> in the two&#x02010;component 2c&#x02010;X2C computations (TPSSh level, Table&#x02005;S4.2). However, in contrast to PtF<sub>6</sub>, in which SOC completely suppresses the expected JT distortion, the JT distortion of PtF<sub>4</sub> in its lowest&#x02010;energy triplet state is only partly quenched by SOC. The effect of JT distortion and SOC on the platinum d orbital splitting of planar PtF<sub>4</sub> is illustrated in Figure&#x02005;<xref rid="chem202102055-fig-0005" ref-type="fig">5</xref>. The <italic toggle="yes">D</italic>
+<sub>4h</sub>&#x02192;<italic toggle="yes">D</italic>
+<sub>2h</sub> distortion of the triplet state increases the gap between the highest occupied and the lowest unoccupied MOs, while this gap is further increased by SOC. As expected, the experimentally observed splitting of the degenerate e<sub>u</sub> stretching fundamental of PtF<sub>4</sub> (<italic toggle="yes">D</italic>
+<sub>4h</sub>) into two (Pt&#x02212;F) stretching modes (b<sub>2u</sub>+b<sub>3u</sub>) with similar intensities is predicted at both levels, the 1c&#x02010; and the 2c computations. While this mode splitting is consistently&#x0003e;10&#x02005;cm<sup>&#x02212;1</sup> in the scalar&#x02010;relativistic 1c&#x02010;X2C calculation using different DFT functionals, it is reduced significantly by the inclusion of SOC (Table&#x02005;S4.3) to values close to the experimentally observed frequencies (Table&#x02005;<xref rid="chem202102055-tbl-0001" ref-type="table">1</xref>).
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0005"><label>Figure 5</label><caption><p>Effect of JT distortion (<italic toggle="yes">D</italic>
+<sub>4h</sub>&#x02192;<italic toggle="yes">D</italic>
+<sub>2h</sub>, left) and spin&#x02013;orbit coupling (right) on the orbital splitting of square planar PtF<sub>4</sub>. Note that &#x003b1; (blue) and &#x003b2; (red) orbitals are not energetically degenerate in the unrestricted triplet states calculation including spin polarization. The code used at the 2c level does not allow symmetry assignment of the spinors at Kramers&#x02019; unrestricted levels. The characterization of the spinors (right) has been guided by relation to the scalar&#x02010;relativistic MO assignments.</p></caption><graphic xlink:href="CHEM-27-13642-g001" position="anchor" id="jats-graphic-11"/></fig><p>Apart from the splitting of the degenerate fundamentals, predicted IR frequencies for the lowest&#x02010;energy <sup>3</sup>B<sub>2g</sub> and <sup>1</sup>A<sub>1g</sub> states of PtF<sub>4</sub> are rather similar (Table&#x02005;<xref rid="chem202102055-tbl-0001" ref-type="table">1</xref>), reflecting the small distortion in the triplet ground state from <italic toggle="yes">D</italic>
+<sub>4h</sub> symmetry (Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>). Due to their different spin multiplicity, however, the two states can be easily distinguished by their different UV/Vis spectra. For the triplet state, four low&#x02010;energy CT excitation bands are predicted at the 1c&#x02010;ZORA TDDFT level and their number increases up to eight CT excitations in the range of 250&#x02013;370&#x02005;nm when SOC is taken into account at the 2c&#x02010;ZORA TDDFT level (Tables&#x02005;S4.7 and S4.8). As expected, the UV/Vis spectrum predicted for the closed&#x02010;shell singlet PtF<sub>4</sub> (<sup>1</sup>A<sub>1g</sub>, <italic toggle="yes">D</italic>
+<sub>4h</sub>) is much simpler, and only two twofold degenerate UV transitions are predicted at the 2c&#x02010;X2C TDDFT level using different functionals (Table&#x02005;S4.9). With excitation wavelengths of 288 and 314&#x02005;nm, the former transition is predicted to be about 3.4 times stronger than the latter (TDDFT 2c&#x02010;X2C TPSSh result, Table&#x02005;S4.9). These computed low&#x02010;energy CT transitions of singlet PtF<sub>4</sub> (<sup>1</sup>A<sub>1g</sub>, <italic toggle="yes">D</italic>
+<sub>4h</sub>) agree well with the experimentally observed transitions at <italic toggle="yes">&#x003bb;</italic>
+<sub>max</sub>=272 and 325&#x02005;nm (Figures&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref> and S2.6). Hence, based on the UV/Vis spectrum we must consider a second closed&#x02010;shell isomer of PtF<sub>4</sub> with <italic toggle="yes">D</italic>
+<sub>4h</sub> symmetry, simultaneously formed by the photo&#x02010;destruction of PtF<sub>6</sub> and co&#x02010;existing with the lower&#x02010;energy triplet isomer in the solid neon matrix.</p><p>The UV/Vis spectrum of PtF<sub>4</sub> is clearly dominated by transitions of the singlet isomer. This is particularly true for the vibrationally resolved excitation at shorter wavelengths, which is predicted to be more intense. On the other side, the higher intensity of the experimental transition around 325&#x02005;nm (Figures&#x02005;<xref rid="chem202102055-fig-0004" ref-type="fig">4</xref> and S2.6) can probably be attributed to a superposition of excitations of both isomers. The singlet isomer, on the other hand, is difficult to detect in the experimental IR spectrum. Because of similar bond lengths and vibrational frequencies of these isomers, the strong degenerate Pt&#x02212;F stretching band of the minor isomer is predicted within the region of the two closely spaced stretching bands of the triplet isomer, and the much weaker deformation bands of the minor isomer (Tables&#x02005;<xref rid="chem202102055-tbl-0001" ref-type="table">1</xref> and S4.6) are difficult to detect experimentally anyway.</p><p>Even if the solid matrix confinement and host&#x02010;guest interactions in a Ne&#x02010;matrix site at 6&#x02005;K prevent a structural rearrangement from <italic toggle="yes">D</italic>
+<sub>4h</sub> to <italic toggle="yes">D</italic>
+<sub>2h</sub> symmetry, it cannot be ruled out that the DFT calculations overestimate the energy difference of these spin isomers. Thus, the combination of JT distortion and SOC leads to two co&#x02010;existing configurations with different magnetic spin states (magnetic bistability) for molecular PtF<sub>4</sub>. The considerable SOC effects observed for the fluorides PtF<sub>6</sub> and PtF<sub>4</sub> are remarkable. It has also been shown that the strength of SOC in related platinum complexes depends on the nature of the ligands. Computational studies on the dianions PtX<sub>6</sub>
+<sup>2&#x02212;</sup> (X=F, Cl)[<xref rid="chem202102055-bib-0043" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="chem202102055-bib-0058" ref-type="bibr">
+<sup>28</sup>
+</xref>] and PtX<sub>4</sub>
+<sup>2&#x02212;</sup> (X=F, Cl, Br)<xref rid="chem202102055-bib-0044" ref-type="bibr">
+<sup>[19]</sup>
+</xref> have shown that SOC effects are most dramatic in the fluorides (X=F). This is caused by the high platinum 5d orbital dominance of the corresponding partially occupied &#x003c0;* MOs in the fluorides and due to the redox&#x02010;innocent character of the fluorine ligand in these complexes.</p><p>The experimental observations in the solid Ar matrix suggest a stepwise elimination of F atoms from PtF<sub>6</sub> via PtF<sub>5</sub> to yield PtF<sub>4</sub> according to the Equations&#x02005;(1) and (2), where both steps can be triggered successively by selective irradiations. In contrast to this, the PtF<sub>5</sub> intermediate was not detected during the photo&#x02010;decomposition of PtF<sub>6</sub> in the Ne matrix. It can, however, not be ruled out that the F atom initially formed in solid neon by Pt&#x02212;F bond cleavage [Eq.&#x02005;(1)] during irradiation abstracts a second F ligand from the PtF<sub>5</sub> intermediate and reacts irreversibly to PtF<sub>4</sub>+F<sub>2</sub> [Eq.&#x02005;(2)], and that a multistate process is involved.<disp-formula id="chem202102055-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>PtF</mml:mi><mml:msub><mml:mrow/><mml:mn>6</mml:mn></mml:msub><mml:munderover><mml:mo>&#x02194;</mml:mo><mml:mrow/><mml:mrow><mml:mi>h</mml:mi><mml:mi>&#x003bd;</mml:mi></mml:mrow></mml:munderover><mml:mi>PtF</mml:mi><mml:msub><mml:mrow/><mml:mn>5</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="normal">F</mml:mi></mml:mrow></mml:mstyle></mml:math>
+</disp-formula>
+<disp-formula id="chem202102055-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-2" display="block"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>PtF</mml:mi><mml:msub><mml:mrow/><mml:mn>5</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="normal">F</mml:mi><mml:munderover><mml:mo>&#x02192;</mml:mo><mml:mrow/><mml:mrow><mml:mi>h</mml:mi><mml:mi>&#x003bd;</mml:mi></mml:mrow></mml:munderover><mml:mi>PtF</mml:mi><mml:msub><mml:mrow/><mml:mn>4</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="normal">F</mml:mi><mml:msub><mml:mrow/><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mstyle></mml:math>
+</disp-formula>
+</p><p>From a purely ground&#x02010;state thermochemical perspective, process <bold>2</bold> is clearly feasible (Table&#x02005;<xref rid="chem202102055-tbl-0003" ref-type="table">3</xref>), as addition of a fluorine atom to PtF<sub>5</sub> to form PtF<sub>6</sub> (Table&#x02005;<xref rid="chem202102055-tbl-0003" ref-type="table">3</xref>, reaction 5) generates more free energy than needed for subsequent F<sub>2</sub> elimination (Table&#x02005;<xref rid="chem202102055-tbl-0003" ref-type="table">3</xref>, reaction 9).
+</p><table-wrap position="float" id="chem202102055-tbl-0003" content-type="Table"><label>Table 3</label><caption><p>Reaction enthalpies (&#x00394;<italic toggle="yes">H</italic>) and free energies (&#x00394;<italic toggle="yes">G</italic>) (calculated for <italic toggle="yes">T</italic>=5&#x02005;K and <italic toggle="yes">p</italic>=1&#x02005;bar) for the F atom and F<sub>2</sub> addition to PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=2&#x02013;6)<sup>[a]</sup>
+</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>Reaction</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x00394;<italic toggle="yes">H</italic> [kJ/mol]</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>&#x00394;<italic toggle="yes">G</italic> [kJ/mol]</p>
+</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">
+<p>1. PtF+F&#x02192;PtF<sub>2</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;424.4</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;424.1</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>2. PtF<sub>2</sub>+F&#x02192;PtF<sub>3</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;214.0</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;213.7</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>3. PtF<sub>3</sub>+F&#x02192;PtF<sub>4</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;285.7</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;285.3</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>4. PtF<sub>4</sub>+F&#x02192;PtF<sub>5</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;120.0</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;119.7</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>5. PtF<sub>5</sub> + F&#x02192;PtF<sub>6</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;181.5</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;181.2</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>6. PtF+F<sub>2</sub>&#x02192;PtF<sub>3</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;490.9</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;490.6</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>7. PtF<sub>2</sub>+F<sub>2</sub>&#x02192;PtF<sub>4</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;352.2</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;351.9</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>8. PtF<sub>3</sub>+F<sub>2</sub>&#x02192;PtF<sub>5</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;258.3</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;257.9</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>9. PtF<sub>4</sub>+F<sub>2</sub>&#x02192;PtF<sub>6</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;154.1</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02212;153.7</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="chem202102055-tnote-0003"><p>[a] Electronic energies have been obtained at the 2c&#x02010;X2C&#x02010;B3LYP level.</p></fn></table-wrap-foot><permissions><copyright-holder>Wiley&#x02010;VCH GmbH</copyright-holder></permissions></table-wrap></sec><sec id="chem202102055-sec-0005"><title>Photochemistry of PtF<sub>4</sub>
+</title><p>As the chemistry of the molecular platinum fluorides is still largely unknown, we carried out additional experiments to explore the photochemistry of PtF<sub>4</sub> and the reaction of IR laser&#x02010;ablated platinum atoms with elemental fluorine gas diluted in the rare gases neon and argon. For irradiation of PtF<sub>4</sub> we used a <italic toggle="yes">&#x003bb;</italic>=266&#x02005;nm laser to avoid a simultaneous excitation of the broad PtF<sub>6</sub> CT bands. However, mainly the strong Pt&#x02212;F stretching bands of PtF<sub>6</sub> and PtF<sub>5</sub> increased at the expense of the PtF<sub>4</sub> bands under the 266&#x02005;nm radiation. Analogous to the above described Ar&#x02010;matrix spectrum (Figure&#x02005;S2.4), for molecular PtF<sub>5</sub> only the intense degenerate e&#x02010;type Pt&#x02212;F stretching band at 691.2&#x02005;cm<sup>&#x02212;1</sup> (accompanied by a weaker matrix site at 694.8&#x02005;cm<sup>&#x02212;1</sup>) could be safely assigned in this experiment (Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>). In addition, much weaker Pt&#x02212;F stretching bands appeared at 682.4, 635.3 and 617.9&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;<xref rid="chem202102055-fig-0006" ref-type="fig">6</xref>). Similar results were obtained with <italic toggle="yes">&#x003bb;</italic>=254&#x02013;400&#x02005;nm broad&#x02010;band UV or 254&#x000b1;5&#x02005;nm radiation (Figure&#x02005;S2.7). These observations suggest a photo&#x02010;dissociation of F<sub>2</sub> molecules rather than a Pt&#x02212;F bond cleavage of PtF<sub>4</sub>, followed by a stepwise fluorination of PtF<sub>4</sub> to PtF<sub>6</sub> (reactions 4 and 5, Table&#x02005;<xref rid="chem202102055-tbl-0003" ref-type="table">3</xref>). These experiments support our previous assignment of the PtF<sub>5</sub> stretching band and provide Pt&#x02212;F band positions for the hitherto unknown molecular PtF<sub>3</sub> (Tables&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref> and S7.5). For PtF<sub>3</sub> in its <sup>2</sup>A<sub>2</sub> ground state a T&#x02010;type structure with one shorter and two longer Pt&#x02212;F bonds has been computed at the 2c&#x02010;X2C DFT level (Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>, Table&#x02005;S7.4). Photo&#x02010;dissociation of F<sub>2</sub> is also efficient under <italic toggle="yes">&#x003bb;</italic>=375&#x000b1;10&#x02005;nm UV&#x02013;LED radiation and the F&#x02010;atoms thus formed react with PtF<sub>5</sub> and PtF<sub>3</sub> back to PtF<sub>4</sub> and traces of PtF<sub>6</sub> (Figure&#x02005;<xref rid="chem202102055-fig-0006" ref-type="fig">6</xref>c). Because of their limited mobility in a solid neon matrix, F&#x02010;atoms are very efficient fluorinating agents under matrix isolation conditions.<xref rid="chem202102055-bib-0059" ref-type="bibr">
+<sup>[29]</sup>
+</xref> The addition of a fluorine radical is strongly exothermic for the lower platinum fluorides (Table&#x02005;<xref rid="chem202102055-tbl-0003" ref-type="table">3</xref>) and is expected to proceed without activation barrier.
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0006"><label>Figure 6</label><caption><p>Infrared matrix&#x02010;isolation spectra obtained in solid neon at 6&#x02005;K. a) IR recorded after <italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm (blue LED) irradiation of the initial deposit of the PtF<sub>6</sub> precursor seeded in excess Ne. The difference spectra (b) and (c) show spectral changes obtained after <italic toggle="yes">&#x003bb;</italic>=266&#x02005;nm (UV laser) irradiation for 60&#x02005;min and subsequent <italic toggle="yes">&#x003bb;</italic>=375&#x02005;nm (UV LED) irradiation for 80&#x02005;min, respectively. Downward&#x02010;pointing bands in the difference spectra are formed at the expense of upward&#x02010;pointing bands.</p></caption><graphic xlink:href="CHEM-27-13642-g008" position="anchor" id="jats-graphic-13"/></fig><p>These results suggest that the photochemistry of the system described is dominated by the photo&#x02010;dissociation of F<sub>2</sub> and F&#x02010;atom reactions rather than the photo&#x02010;destruction of molecular PtF<sub>4</sub>. Due to the restrictions of the matrix environment, the F<sub>2</sub> fragment formed by the initial photolysis of PtF<sub>6</sub> remains close to the PtF<sub>4</sub> molecules or could even be trapped within the same matrix cage together with PtF<sub>4</sub>. In this latter case a PtF<sub>4</sub>&#x022c5;F<sub>2</sub> complex could possibly be formed that reacts under near&#x02010;UV photolysis back to PtF<sub>6</sub>. This led us to compute PtF<sub>4</sub>&#x022c5;F<sub>2</sub> complexes in both side&#x02010;on and end&#x02010;on coordination to platinum (Figure&#x02005;<xref rid="chem202102055-fig-0007" ref-type="fig">7</xref>), comparing the lowest triplet and singlet states. The interaction energies for these complexes are small. They are dominated by dispersion interactions (for details see the Supporting Information), consistent with weak van&#x02010;der&#x02010;Waals complexes, and the side&#x02010;on complex was found to be somewhat lower in energy at all levels (Table&#x02005;S6.1). Computed structural and vibrational data for the side&#x02010;on and end&#x02010;on PtF<sub>4</sub>&#x022c5;F<sub>2</sub> complexes, respectively, at various 1c&#x02010; and 2c&#x02010;levels (Tables&#x02005;S6.2&#x02013;S6.5) show only small vibrational frequency shifts (by &#x0003c;3&#x02005;cm<sup>&#x02212;1</sup> at 2c&#x02010;X2C level using the TPSSh functional and D3 dispersion corrections) compared to free PtF<sub>4</sub>, which corroborates the relatively weak interactions.
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0007"><label>Figure 7</label><caption><p>Computed structures of the difluorine complexes PtF<sub>
+<italic toggle="yes">n</italic>
+</sub>&#x022c5;F<sub>2</sub>, <italic toggle="yes">n</italic>=4, 5. For <italic toggle="yes">n</italic>=4, the 2c&#x02010;X2C TPSSh&#x02010;D3 level was used, for <italic toggle="yes">n</italic>=5, the B3LYP&#x02010;D3 level, as TPSSh&#x02010;D3 leads to dissociation of F<sub>2</sub>. Bond lengths are given in &#x000c5; and angles in degrees.</p></caption><graphic xlink:href="CHEM-27-13642-g004" position="anchor" id="jats-graphic-15"/></fig><p>Results for PtF<sub>4</sub>&#x022c5;F<sub>2</sub> and the previously detected AuF<sub>5</sub>&#x022c5;F<sub>2</sub> (AuF<sub>7</sub>) complex<xref rid="chem202102055-bib-0033" ref-type="bibr">
+<sup>[13]</sup>
+</xref> prompted us also to consider complexes of PtF<sub>5</sub> with F<sub>2</sub>. In contrast to PtF<sub>4</sub>, an end&#x02010;on bent <italic toggle="yes">C</italic>
+<sub>s</sub>&#x02010;symmetrical coordination with a F&#x02212;Pt&#x02212;F angle of around 112&#x02013;115&#x000b0; (Figure&#x02005;<xref rid="chem202102055-fig-0007" ref-type="fig">7</xref>, Table&#x02005;S6.6) has been found to be energetically favored over a <italic toggle="yes">C</italic>
+<sub>2v</sub>&#x02010;symmetrical side&#x02010;on coordination in this case (by about 37&#x02005;kJ/mol at B3LYP 1c&#x02010;X2C level). Here the larger interaction is not anymore dominated by dispersion contributions. Indeed, optimization at TPSSh&#x02010;D3 level leads to dissociation of the F&#x02212;F bond. While the interaction is thus more pronounced, the spectra provided no evidence for the formation of this complex.</p></sec><sec id="chem202102055-sec-0006"><title>Reaction of Pt atoms with fluorine</title><p>The initially formed product of the exothermic reaction between laser&#x02010;ablated platinum atoms and F<sub>2</sub> is expected to be the linear PtF<sub>2</sub>.<xref rid="chem202102055-bib-0026" ref-type="bibr">
+<sup>[11]</sup>
+</xref> Due to a low concentration of F<sub>2</sub> gas diluted in the corresponding noble gas (1&#x02009;:&#x02009;1000&#x02013;1&#x02009;:&#x02009;200) and, owing to the short reaction time prior to solidification of the deposit on the matrix support, the formation of higher platinum fluorides is suppressed. However, fluorine atoms are also obtained from the noble gas/fluorine stream by dissociation of F<sub>2</sub> within the hot plasma plume and also by the broad&#x02010;band radiation produced by the laser ablation of metals.<xref rid="chem202102055-bib-0060" ref-type="bibr">
+<sup>[30]</sup>
+</xref> These fluorine atoms allow for a successive fluorination of the initially formed Pt atoms and of PtF<sub>2</sub> during condensation of the gas mixture on the cold matrix support. Although the noble gases neon and argon are considered to be inert matrix hosts, they differ in their specific host&#x02013;guest interactions and often also in terms of the observed reaction products. In fact, infrared spectra of the reaction products of laser&#x02010;ablated Pt atoms with F<sub>2</sub> in neon and argon matrices (Figure&#x02005;<xref rid="chem202102055-fig-0008" ref-type="fig">8</xref>) appear rather different at first glance, and the Ar&#x02010;spectrum of the Pt&#x02212;F stretching region is much simpler. This is partly because of stronger argon&#x02013;guest interactions, which give rise to significant neon&#x02010;to&#x02010;argon matrix&#x02010;shifts, particularly for the lower platinum fluorides PtF (&#x00394;<italic toggle="yes">&#x003bd;</italic>=&#x02212;15.6&#x02005;cm<sup>&#x02212;1</sup>) and PtF<sub>2</sub> (&#x00394;<italic toggle="yes">&#x003bd;</italic>=&#x02212;14.5&#x02005;cm<sup>&#x02212;1</sup>) compared to a much smaller shift of the strong PtF<sub>6</sub> stretching band of &#x0003c;4&#x02005;cm<sup>&#x02212;1</sup> (Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>). Substantial neon&#x02010;to&#x02010;argon matrix shifts have also been observed for AuF (&#x00394;<italic toggle="yes">&#x003bd;</italic>=+18.7&#x02005;cm<sup>&#x02212;1</sup>, ArAuF in solid Ne compared to NeAuF) and AuF<sub>2</sub> (&#x00394;<italic toggle="yes">&#x003bd;</italic>=&#x02212;24.7&#x02005;cm<sup>&#x02212;1</sup> for pure Ar and Ne matrices, respectively).<xref rid="chem202102055-bib-0061" ref-type="bibr">
+<sup>[31]</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="chem202102055-fig-0008"><label>Figure 8</label><caption><p>Infrared spectra obtained from the reaction products of laser&#x02010;ablated Pt atoms with F<sub>2</sub> after co&#x02010;deposition for 60&#x02005;min seeded a) in excess Ar at 10&#x02005;K, and b) in excess Ne at 5&#x02005;K. Difference spectra (see legend to Figure&#x02005;<xref rid="chem202102055-fig-0006" ref-type="fig">6</xref>) obtained from spectra recorded before and after c) <italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm (blue LED) irradiation for 30&#x02005;min, and d) subsequent <italic toggle="yes">&#x003bb;</italic>=278&#x02005;nm (UV LED) irradiation for 35&#x02005;min.</p></caption><graphic xlink:href="CHEM-27-13642-g009" position="anchor" id="jats-graphic-17"/></fig><p>In the Ne spectrum (Figure&#x02005;<xref rid="chem202102055-fig-0008" ref-type="fig">8</xref>b&#x02013;d), the intense IR bands of the species with linear Pt&#x02212;F bonds (PtF<sub>2</sub>, PtF<sub>4</sub>, and PtF<sub>6</sub>) are grouped together in the spectral region between 705&#x02013;717&#x02005;cm<sup>&#x02212;1</sup> (Figure&#x02005;<xref rid="chem202102055-fig-0008" ref-type="fig">8</xref>b&#x02013;d). However, their assignment is made possible by their different photo&#x02010;behaviors. Interestingly, the higher platinum fluorides PtF<sub>5</sub> and PtF<sub>6</sub> were not observed in laser ablation experiments using argon as a host gas (Figure&#x02005;<xref rid="chem202102055-fig-0008" ref-type="fig">8</xref>a). This can probably be explained by the slower condensation rate of neon (25&#x02005;K f.p.) on a 6&#x02005;K surface compared to that for argon (84&#x02005;K f. p.),<xref rid="chem202102055-bib-0062" ref-type="bibr">
+<sup>[32]</sup>
+</xref> leaving more time for the successive fluorination of the initially formed PtF<sub>2</sub> during condensation of neon gas onto a solid matrix. Fluorination by photo&#x02010;mobilized F atoms is also more efficient in solid neon than in solid argon. A list of all observed Pt&#x02212;F stretching frequencies for the observed PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) species is given in Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>, where they are compared to computed frequencies at the one and two&#x02010;component X2C&#x02010;TPSSh level, from which the influence of SOC effects on these frequencies can be evaluated. We note that the computed Pt&#x02212;F bond lengths of PtF<sub>2</sub> (1.837&#x02005;&#x000c5;), PtF<sub>4</sub> (<sup>3</sup>B<sub>2g</sub>: 1.852&#x02005;&#x000c5;) and PtF<sub>6</sub> (1.861&#x02005;&#x000c5;, Figure&#x02005;<xref rid="chem202102055-fig-0003" ref-type="fig">3</xref>) increase slightly within this series. This trend correlates well with computed frequencies for the antisymmetric stretching modes of their linear F&#x02212;Pt&#x02212;F units (PtF<sub>2</sub>: 710&#x02005;cm<sup>&#x02212;1</sup>; PtF<sub>4</sub> (<sup>3</sup>B<sub>2g</sub>) averaged value: 705&#x02005;cm<sup>&#x02212;1</sup>; PtF<sub>6</sub>: 698&#x02005;cm<sup>&#x02212;1</sup>, 2c&#x02010;X2C&#x02010;TPSSh results, Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>), and there is an excellent agreement between these computed and the experimentally observed frequencies in the solid Ne matrix: PtF<sub>2</sub>: 710&#x02005;cm<sup>&#x02212;1</sup>, PtF<sub>4</sub> (<sup>3</sup>B<sub>2g</sub>): 715&#x02005;cm<sup>&#x02212;1</sup> (average value), and PtF<sub>6</sub>: 706&#x02005;cm<sup>&#x02212;1</sup> (Table&#x02005;<xref rid="chem202102055-tbl-0002" ref-type="table">2</xref>), considering that the largest matrix&#x02010;shift compared to the gas&#x02010;phase value is expected for the low&#x02010;valent PtF<sub>2</sub> species.</p><p>Computed natural (NPA) atomic charges and Pt&#x02010;orbital populations (Table&#x02005;S7.6) indicate decreasing charge on the fluorine atoms within the series PtF<sub>2</sub> (&#x02212;0.525), PtF<sub>4</sub> (<sup>3</sup>B<sub>2g</sub>, &#x02212;0.456) and, PtF<sub>6</sub> (&#x02212;0.384, 2c&#x02010;X2C&#x02010;B3LYP), and they follow the same trend on average for PtF<sub>3</sub> and PtF<sub>5</sub>. As previously discussed for other examples,<xref rid="chem202102055-bib-0063" ref-type="bibr">
+<sup>[33]</sup>
+</xref> the computed atomic charges of platinum show the expected correlation with its formal oxidation numbers (Figure&#x02005;S2.9). While the computed natural electron population of the 5d orbitals of PtF<sub>2</sub> (8.03, Table&#x02005;S7.6) corresponds well to a formal d<sup>8</sup> configuration of a Pt<sup>II</sup> compound, that of PtF<sub>4</sub> (5d population: 7.57) and PtF<sub>6</sub> (7.24) differ significantly from a formal d<sup>6</sup> (Pt(IV)) and d<sup>4</sup> (Pt(VI)) configuration. In addition, these calculations also reveal significant 6&#x02005;s&#x02010;occupations, particularly for PtF<sub>2</sub> (0.88, Table&#x02005;S7.6), thus indicating 5d, 6s&#x02010;hybridization. Thus, the fully ionic approximation appears to be a worse bonding model for these binary platinum fluorides, for which the degree of covalency increases significantly along the series.</p></sec></sec><sec id="chem202102055-sec-0007"><title>Conclusion</title><p>We have presented a systematic spectroscopic study of the series of molecular platinum fluorides PtF<sub>
+<italic toggle="yes">n</italic>
+</sub> (<italic toggle="yes">n</italic>=1&#x02013;6) and, for the first time, vibrational frequencies of the molecules PtF<sub>3</sub>, PtF<sub>4</sub> and PtF<sub>5</sub>. These species were prepared by a photo&#x02010;initiated defluorination of PtF<sub>6</sub> and the reaction of fluorine atoms or F<sub>2</sub> molecules with laser&#x02010;ablated platinum atoms, respectively, and were isolated under cryogenic conditions in rare&#x02010;gas matrices. The platinum fluorides produced in the laser&#x02010;ablation experiments depend on the noble&#x02010;gas host. However, it was found that the formation of PtF<sub>4</sub> by blue&#x02010;light (<italic toggle="yes">&#x003bb;</italic>=470&#x02005;nm) irradiation of PtF<sub>6</sub> is almost quantitative in both solid neon and argon. PtF<sub>5</sub> and PtF<sub>3</sub> were formed simultaneously by subsequent UV irradiation of PtF<sub>4</sub>. The assignment of their vibrational spectra is supported by one&#x02010; and two&#x02010;component quasirelativistic DFT computations, which account for scalar relativistic (SR) and SOC effects. Computations at the lowest&#x02010;energy triplet and singlet surfaces of PtF<sub>4</sub> show competing JT and SOC effects, which result in a magnetic bistability with the co&#x02010;existence of <sup>3</sup>B<sub>2g</sub> and <sup>1</sup>A<sub>1g</sub> electronic states having <italic toggle="yes">D</italic>
+<sub>2h</sub> and <italic toggle="yes">D</italic>
+<sub>4h</sub> symmetry, respectively. The presence of both of these states in the solid neon matrices has been verified spectroscopically: five fundamental and two combination bands of the lowest&#x02010;energy triplet state of PtF<sub>4</sub> were assigned in its IR spectrum, whereas the UV/Vis spectrum is dominated by the CT bands of singlet PtF<sub>4</sub>. Although further calculations predict structures and IR spectra of PtF<sub>4</sub> and PtF<sub>5</sub> complexes with F<sub>2</sub> at 1c&#x02010; and 2c&#x02010;DFT levels using different functionals, such difluorine complexes could not be assigned in the experimental spectra.</p></sec><sec sec-type="COI-statement" id="chem202102055-sec-0009"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material position="float" content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="CHEM-27-13642-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="chem202102055-sec-0008"><title>Acknowledgements</title><p>We gratefully acknowledge the Zentraleinrichtung f&#x000fc;r Datenverarbeitung (ZEDAT) of the Freie Universit&#x000e4;t Berlin for the allocation of computing resources. We thank the ERC Project HighPotOx as well as the CRC 1349 (SFB 1349) Fluorine Specific Interactions&#x02010;Project&#x02010;ID 387284271&#x02010;for continuous support. Open access funding enabled and organized by Project DEAL. Open access funding enabled and organized by Projekt DEAL.</p></ack><ref-list><ref id="chem202102055-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0001">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0002"><label>1a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0002">
+<string-name>
+<given-names>N.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>1968</year>, <volume>7</volume>, <fpage>433</fpage>&#x02013;<lpage>43</lpage> 9;</mixed-citation></ref><ref id="chem202102055-bib-0003"><label>1b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0003">
+<string-name>
+<given-names>K.</given-names>
+<surname>Seppelt</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2015</year>, <volume>115</volume>,<fpage>1296</fpage>&#x02013;<lpage>130</lpage>;<pub-id pub-id-type="pmid">25418862</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0004"><label>1c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0004">
+<string-name>
+<given-names>A. V.</given-names>
+<surname>Dzhalavyan</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Dudin</surname>
+</string-name>, <source>Russ. Chem. Rev.</source>
+<year>1983</year>, <volume>52</volume>, <fpage>960</fpage>&#x02013;<lpage>97</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0005"><label>2</label><mixed-citation publication-type="journal" id="chem202102055-cit-0005">
+<string-name>
+<given-names>A.</given-names>
+<surname>Tressaud</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pintchovski</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lozano</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wold</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hagenmuller</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>1976</year>, <volume>11</volume>, <fpage>689</fpage>&#x02013;<lpage>693</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0006"><label>3</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0006">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0007"><label>3a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0007">
+<string-name>
+<given-names>A. G.</given-names>
+<surname>Sharpe</surname>
+</string-name>, <source>J. Chem. Soc.</source>
+<year>1950</year>, <fpage>3444</fpage>&#x02013;<lpage>3450</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0008"><label>3b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0008">
+<string-name>
+<given-names>J.</given-names>
+<surname>Slivnik</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>&#x0017d;emva</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dru&#x0007a;&#x00306;ina</surname>
+</string-name>, <source>J. Fluorine Chem.</source>
+<year>1980</year>, <volume>15</volume>, <fpage>351</fpage>&#x02013;<lpage>352</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0009"><label>3c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0009">
+<string-name>
+<given-names>B. G.</given-names>
+<surname>Mueller</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Serafin</surname>
+</string-name>, <source>Eur. J. Solid State Inorg. Chem.</source>
+<year>1992</year>, <volume>29</volume>, <fpage>625</fpage>&#x02013;<lpage>633</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0010"><label>4</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0010">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0011"><label>4a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0011">
+<string-name>
+<given-names>N.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Lohmann</surname>
+</string-name>, <source>J. Chem. Soc.</source>
+<year>1964</year>, <fpage>619</fpage>&#x02013;<lpage>626</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0012"><label>4b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0012">
+<string-name>
+<given-names>E. G.</given-names>
+<surname>Hope</surname>
+</string-name>, <source>Polyhedron</source>
+<year>1993</year>, <volume>12</volume>, <fpage>2977</fpage>&#x02013;<lpage>2980</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0013"><label>5</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0013">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0014"><label>5a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0014">
+<string-name>
+<given-names>B.</given-names>
+<surname>Weinstock</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Claassen</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Malm</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>1957</year>, <volume>79</volume>, <fpage>5832</fpage>;</mixed-citation></ref><ref id="chem202102055-bib-0015"><label>5b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0015">
+<string-name>
+<given-names>S.</given-names>
+<surname>Siegel</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Northrop</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>1966</year>, <volume>5</volume>, <fpage>2187</fpage>&#x02013;<lpage>2188</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0016"><label>6</label><mixed-citation publication-type="journal" id="chem202102055-cit-0016">
+<string-name>
+<given-names>R.</given-names>
+<surname>Craciun</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Picone</surname>
+</string-name>, <string-name>
+<given-names>R. T.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Dixon</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Peterson</surname>
+</string-name>, <string-name>
+<given-names>K. O.</given-names>
+<surname>Christe</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>1056</fpage>&#x02013;<lpage>1070</lpage>.<pub-id pub-id-type="pmid">20052991</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0017"><label>7</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0017">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0018"><label>7a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0018">
+<string-name>
+<given-names>L.</given-names>
+<surname>Graham</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Graudejus</surname>
+</string-name>, <string-name>
+<given-names>N. K.</given-names>
+<surname>Jha</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <source>Coord. Chem. Rev.</source>
+<year>2000</year>, <volume>197</volume>, <fpage>321</fpage>&#x02013;<lpage>334</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0019"><label>7b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0019">
+<string-name>
+<given-names>N.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <source>Proc. Chem. Soc. London</source>
+<year>1962</year>, <volume>218</volume>;</mixed-citation></ref><ref id="chem202102055-bib-0020"><label>7c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0020">
+<string-name>
+<given-names>N.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Lohmann</surname>
+</string-name>, <source>Proc. Chem. Soc. London</source>
+<year>1962</year>, <fpage>115</fpage>&#x02013;<lpage>116</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0021"><label>8</label><mixed-citation publication-type="journal" id="chem202102055-cit-0021">
+<string-name>
+<given-names>T.</given-names>
+<surname>Okabayashi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kurahara</surname>
+</string-name>, <string-name>
+<given-names>E. Y.</given-names>
+<surname>Okabayashi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tanimoto</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>2012</year>, <volume>136</volume>, <fpage>174311</fpage>&#x02013;<lpage>174319</lpage>.<pub-id pub-id-type="pmid">22583234</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0022"><label>9</label><mixed-citation publication-type="journal" id="chem202102055-cit-0022">
+<string-name>
+<given-names>K. G.</given-names>
+<surname>Handler</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>L. C.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <source>J. Mol. Spectrosc.</source>
+<year>2011</year>, <volume>265</volume>, <fpage>39</fpage>&#x02013;<lpage>46</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0023"><label>10</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0023">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0024"><label>10a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0024">
+<string-name>
+<given-names>C. B.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T. C.</given-names>
+<surname>Steimle</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>2012</year>, <volume>137</volume>, <fpage>54309</fpage>;</mixed-citation></ref><ref id="chem202102055-bib-0025"><label>10b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0025">
+<string-name>
+<given-names>K. F.</given-names>
+<surname>Ng</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Southam</surname>
+</string-name>, <string-name>
+<given-names>A. S.-C.</given-names>
+<surname>Cheung</surname>
+</string-name>, <source>J. Mol. Spectrosc.</source>
+<year>2016</year>, <volume>328</volume>, <fpage>32</fpage>&#x02013;<lpage>36</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0026"><label>11</label><mixed-citation publication-type="journal" id="chem202102055-cit-0026">
+<string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Beckers</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>St&#x000fc;ker</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lindi&#x0010d;</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Schl&#x000f6;der</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Andrae</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Riedel</surname>
+</string-name>, <source>Inorg. Chem. Front.</source>
+<year>2021</year>, <volume>8</volume>, <fpage>1215</fpage>&#x02013;<lpage>1228</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0027"><label>12</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0027">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0028"><label>12a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0028">
+<string-name>
+<given-names>M. V.</given-names>
+<surname>Korobov</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Bondarenko</surname>
+</string-name>, <string-name>
+<given-names>L. N.</given-names>
+<surname>Sidorov</surname>
+</string-name>, <string-name>
+<given-names>V. V.</given-names>
+<surname>Nikilin</surname>
+</string-name>, <source>High Temp. Sci.</source>
+<year>1983</year>, <volume>16</volume>, <fpage>411</fpage>&#x02013;<lpage>420</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0029"><label>12b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0029">
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Bondarenko</surname>
+</string-name>, <string-name>
+<given-names>M. V.</given-names>
+<surname>Korobov</surname>
+</string-name>, <string-name>
+<given-names>V. N.</given-names>
+<surname>Mitkin</surname>
+</string-name>, <string-name>
+<given-names>L. N.</given-names>
+<surname>Sidorov</surname>
+</string-name>, <source>J. Chem. Thermodyn.</source>
+<year>1988</year>, <volume>20</volume>, <fpage>299</fpage>&#x02013;<lpage>303</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0030"><label>12c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0030">
+<string-name>
+<given-names>M. I.</given-names>
+<surname>Nikitin</surname>
+</string-name>, <string-name>
+<given-names>E. N.</given-names>
+<surname>Karpukhina</surname>
+</string-name>, <source>Russ. J. Inorg. Chem.</source>
+<year>2007</year>, <volume>52</volume>, <fpage>334</fpage>&#x02013;<lpage>337</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0031"><label>12d</label><mixed-citation publication-type="journal" id="chem202102055-cit-0031">
+<string-name>
+<given-names>M. I.</given-names>
+<surname>Nikitin</surname>
+</string-name>, <string-name>
+<given-names>E. V.</given-names>
+<surname>Karpukhina</surname>
+</string-name>, <source>Russ. J. Inorg. Chem.</source>
+<year>2007</year>, <volume>52</volume>, <fpage>475</fpage>&#x02013;<lpage>478</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0032"><label>12e</label><mixed-citation publication-type="journal" id="chem202102055-cit-0032">
+<string-name>
+<given-names>M. I.</given-names>
+<surname>Nikitin</surname>
+</string-name>, <source>Russ. J. Inorg. Chem.</source>
+<year>2008</year>, <volume>53</volume>, <fpage>1292</fpage>&#x02013;<lpage>1296</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0033"><label>13</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0033">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0034"><label>13a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0034">
+<string-name>
+<given-names>D.</given-names>
+<surname>Himmel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Riedel</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2007</year>, <volume>46</volume>, <fpage>5338</fpage>&#x02013;<lpage>5342</lpage>;<pub-id pub-id-type="pmid">17511450</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0035"><label>13b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0035">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Nabiev</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Palkina</surname>
+</string-name>, <source>Russ. J. Phys. Chem. B</source>
+<year>2020</year>, <volume>14</volume>, <fpage>243</fpage>&#x02013;<lpage>253</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0036"><label>14</label><mixed-citation publication-type="journal" id="chem202102055-cit-0036">
+<string-name>
+<given-names>M. K.</given-names>
+<surname>Armbruster</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Weigend</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>van W&#x000fc;llen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Klopper</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>1748</fpage>.<pub-id pub-id-type="pmid">18350180</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0037"><label>15</label><mixed-citation publication-type="journal" id="chem202102055-cit-0037">
+<string-name>
+<given-names>A.</given-names>
+<surname>Baldes</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Weigend</surname>
+</string-name>, <source>Mol. Phys.</source>
+<year>2013</year>, <volume>111</volume>, <fpage>2617</fpage>&#x02013;<lpage>2624</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0038"><label>16</label><mixed-citation publication-type="journal" id="chem202102055-cit-0038">
+<string-name>
+<given-names>R.</given-names>
+<surname>Wesendrup</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Schwerdtfeger</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2001</year>, <volume>40</volume>, <fpage>3351</fpage>&#x02013;<lpage>3354</lpage>.<pub-id pub-id-type="pmid">11421679</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0039"><label>17</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0039">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0040"><label>17a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0040">
+<string-name>
+<given-names>L.</given-names>
+<surname>Alvarez-Thon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>David</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Arratia-P&#x000e9;rez</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Seppelt</surname>
+</string-name>, <source>Phys. Rev. A</source>
+<year>2008</year>, <volume>77</volume>, <fpage>34502</fpage>;</mixed-citation></ref><ref id="chem202102055-bib-0041"><label>17b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0041">
+<string-name>
+<given-names>J.</given-names>
+<surname>David</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Fuentealba</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Restrepo</surname>
+</string-name>, <source>Chem. Phys. Lett.</source>
+<year>2008</year>, <volume>457</volume>, <fpage>42</fpage>&#x02013;<lpage>44</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0042"><label>17c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0042">
+<string-name>
+<given-names>J.</given-names>
+<surname>David</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Guerra</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Restrepo</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>1480</fpage>&#x02013;<lpage>1483</lpage>.<pub-id pub-id-type="pmid">21214260</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0043"><label>18</label><mixed-citation publication-type="journal" id="chem202102055-cit-0043">
+<string-name>
+<given-names>M.</given-names>
+<surname>Pernpointner</surname>
+</string-name>, <string-name>
+<given-names>L. S.</given-names>
+<surname>Cederbaum</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>2007</year>, <volume>126</volume>, <elocation-id>144310</elocation-id>.<pub-id pub-id-type="pmid">17444715</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0044"><label>19</label><mixed-citation publication-type="journal" id="chem202102055-cit-0044">
+<string-name>
+<given-names>M.</given-names>
+<surname>Pernpointner</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rapps</surname>
+</string-name>, <string-name>
+<given-names>L. S.</given-names>
+<surname>Cederbaum</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>2008</year>, <volume>129</volume>, <elocation-id>174302</elocation-id>.<pub-id pub-id-type="pmid">19045342</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0045"><label>20</label><mixed-citation publication-type="journal" id="chem202102055-cit-0045">
+<string-name>
+<given-names>A. V.</given-names>
+<surname>Wilson</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Brosi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Riedel</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Bridgeman</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Young</surname>
+</string-name>, <source>Inorg. Chem.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>1108</fpage>&#x02013;<lpage>1123</lpage>.<pub-id pub-id-type="pmid">26745551</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0046"><label>21</label><mixed-citation publication-type="journal" id="chem202102055-cit-0046">
+<string-name>
+<given-names>J.</given-names>
+<surname>B&#x000f6;rgel</surname>
+</string-name>, <string-name>
+<given-names>M. G.</given-names>
+<surname>Campbell</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ritter</surname>
+</string-name>, <source>J. Chem. Educ.</source>
+<year>2016</year>, <volume>93</volume>, <fpage>118</fpage>&#x02013;<lpage>121</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0047"><label>22</label><mixed-citation publication-type="journal" id="chem202102055-cit-0047">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Jotham</surname>
+</string-name>, <string-name>
+<given-names>S. F. A.</given-names>
+<surname>Kettle</surname>
+</string-name>, <source>Inorg. Chim. Acta</source>
+<year>1971</year>, <volume>5</volume>, <fpage>183</fpage>&#x02013;<lpage>187</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0048"><label>23</label><mixed-citation publication-type="journal" id="chem202102055-cit-0048">
+<string-name>
+<given-names>J. H.</given-names>
+<surname>Holloway</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Stanger</surname>
+</string-name>, <string-name>
+<given-names>E. G.</given-names>
+<surname>Hope</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Levason</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Ogden</surname>
+</string-name>, <source>J. Chem. Soc. Dalton Trans.</source>
+<year>1988</year>, <fpage>1341</fpage>&#x02013;<lpage>1345</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0049"><label>24</label><mixed-citation publication-type="journal" id="chem202102055-cit-0049">
+<string-name>
+<given-names>B.</given-names>
+<surname>Weinstock</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Claassen</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Malm</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>1960</year>, <volume>32</volume>, <fpage>181</fpage>&#x02013;<lpage>185</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0050"><label>25</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0050">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0051"><label>25a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0051">
+<string-name>
+<given-names>L. V.</given-names>
+<surname>Poluyanov</surname>
+</string-name>, <string-name>
+<given-names>V. M.</given-names>
+<surname>Volokhov</surname>
+</string-name>, <source>Russ. J. Phys. Chem. B</source>
+<year>2018</year>, <volume>12</volume>, <fpage>943</fpage>&#x02013;<lpage>949</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0052"><label>25b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0052">
+<string-name>
+<given-names>L. V.</given-names>
+<surname>Poluyanov</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Domcke</surname>
+</string-name>, <source>Chem. Phys.</source>
+<year>2012</year>, <volume>407</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0053"><label>26</label><mixed-citation publication-type="journal" id="chem202102055-cit-0053">
+<string-name>
+<given-names>W.</given-names>
+<surname>Moffitt</surname>
+</string-name>, <string-name>
+<given-names>G. L.</given-names>
+<surname>Goodman</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fred</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Weinstock</surname>
+</string-name>, <source>Mol. Phys.</source>
+<year>1959</year>, <volume>2</volume>, <fpage>109</fpage>&#x02013;<lpage>122</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0054"><label>27</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0054">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0055"><label>27a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0055">
+<string-name>
+<given-names>Ch.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pelissier</surname>
+</string-name>, <string-name>
+<given-names>Ph.</given-names>
+<surname>Durand</surname>
+</string-name>, <source>Phys. Scr.</source>
+<year>1986</year>, <volume>34</volume>, <fpage>394</fpage>&#x02013;<lpage>404</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0056"><label>27b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0056">
+<string-name>
+<given-names>E.</given-names>
+<surname>van Lenthe</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Baerends</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Snijders</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>1993</year>, <volume>99</volume>, <fpage>4597</fpage>&#x02013;<lpage>4610</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0057"><label>27c</label><mixed-citation publication-type="journal" id="chem202102055-cit-0057">
+<string-name>
+<given-names>E.</given-names>
+<surname>van Lenthe</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Baerends</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Snijders</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>1994</year>, <volume>101</volume>, <fpage>9783</fpage>&#x02013;<lpage>9792</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0058"><label>28</label><mixed-citation publication-type="journal" id="chem202102055-cit-0058">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Kaufman</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pernpointner</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<year>2013</year>, <volume>139</volume>, <elocation-id>194310</elocation-id>.<pub-id pub-id-type="pmid">24320329</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0059"><label>29</label><mixed-citation publication-type="journal" id="chem202102055-cit-0059">
+<string-name>
+<given-names>V. A.</given-names>
+<surname>Apkarian</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Schwentner</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>1999</year>, <volume>99</volume>, <fpage>1481</fpage>&#x02013;<lpage>1514</lpage>.<pub-id pub-id-type="pmid">11849000</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0060"><label>30</label><mixed-citation publication-type="journal" id="chem202102055-cit-0060">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Harilal</surname>
+</string-name>, <string-name>
+<given-names>C. V.</given-names>
+<surname>Bindhu</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Tillack</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Najmabadi</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Gaeris</surname>
+</string-name>, <source>J. Appl. Phys.</source>
+<year>2003</year>, <volume>93</volume>, <fpage>2380</fpage>&#x02013;<lpage>2388</lpage>.</mixed-citation></ref><ref id="chem202102055-bib-0061"><label>31</label><mixed-citation publication-type="journal" id="chem202102055-cit-0061">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Brosi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Riedel</surname>
+</string-name>, <source>Chem. Eur. J.</source>
+<year>2013</year>, <volume>19</volume>, <fpage>1397</fpage>&#x02013;<lpage>1409</lpage>.<pub-id pub-id-type="pmid">23203256</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0062"><label>32</label><mixed-citation publication-type="journal" id="chem202102055-cit-0062">
+<string-name>
+<given-names>L.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2018</year>, <volume>20</volume>, <fpage>23378</fpage>&#x02013;<lpage>23385</lpage>.<pub-id pub-id-type="pmid">30178803</pub-id></mixed-citation></ref><ref id="chem202102055-bib-0063"><label>33</label><mixed-citation publication-type="miscellaneous" id="chem202102055-cit-0063">&#x000a0;</mixed-citation></ref><ref id="chem202102055-bib-0064"><label>33a</label><mixed-citation publication-type="journal" id="chem202102055-cit-0064">
+<string-name>
+<given-names>G.</given-names>
+<surname>Aullon</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Alvarez</surname>
+</string-name>, <source>Theor. Chem. Acc.</source>
+<year>2009</year>, <volume>123</volume>, <fpage>67</fpage>&#x02013;<lpage>73</lpage>;</mixed-citation></ref><ref id="chem202102055-bib-0065"><label>33b</label><mixed-citation publication-type="journal" id="chem202102055-cit-0065">
+<string-name>
+<given-names>M.</given-names>
+<surname>Jansen</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Wedig</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2008</year>, <volume>47</volume>, <fpage>10026</fpage>&#x02013;<lpage>10029</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="chem202102055-cit-0066">
+<source>Angew. Chem.</source>
+<year>2008</year>, <volume>120</volume>, <fpage>10176</fpage>&#x02013;<lpage>10180</lpage>.</mixed-citation></ref></ref-list></back></article>

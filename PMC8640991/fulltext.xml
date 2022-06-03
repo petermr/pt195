@@ -1,0 +1,530 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Chem Soc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Chem Soc</journal-id><journal-id journal-id-type="publisher-id">ja</journal-id><journal-id journal-id-type="coden">jacsat</journal-id><journal-title-group><journal-title>Journal of the American Chemical Society</journal-title></journal-title-group><issn pub-type="ppub">0002-7863</issn><issn pub-type="epub">1520-5126</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8640991</article-id><article-id pub-id-type="pmid">34793152</article-id><article-id pub-id-type="doi">10.1021/jacs.1c08277</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Sensitivity
+Enhancement by Progressive Saturation
+of the Proton Reservoir: A Solid-State NMR Analogue
+of Chemical Exchange Saturation Transfer</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Jaroszewicz</surname><given-names>Michael
+J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Altenhof</surname><given-names>Adam R.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5093-400X</contrib-id><name><surname>Schurko</surname><given-names>Robert W.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8208-3521</contrib-id><name><surname>Frydman</surname><given-names>Lucio</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemical and Biological Physics, <institution>Weizmann
+Institute of Science</institution>, Rehovot 7610001, <country>Israel</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Chemistry and Biochemistry, <institution>Florida State
+University</institution>, Tallahassee, Florida 32306, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>National
+High Magnetic Field Laboratory</institution>, 1800 East Paul Dirac Drive, Tallahassee, Florida 32310, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>rschurko@fsu.edu</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>lucio.frydman@weizmann.ac.il</email>.</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>11</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>01</day><month>12</month><year>2021</year></pub-date><volume>143</volume><issue>47</issue><fpage>19778</fpage><lpage>19784</lpage><history><date date-type="received"><day>11</day><month>08</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 American Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_0004" id="ab-tgr1"/></p><p>Chemical
+exchange saturation transfer (CEST) enhances solution-state
+NMR signals of labile and otherwise invisible chemical sites, by indirectly
+detecting their signatures as a highly magnified saturation of an
+abundant resonance&#x02014;for instance, the <sup>1</sup>H resonance
+of water. Stimulated by this sensitivity magnification, this study
+presents PROgressive Saturation of the Proton Reservoir (PROSPR),
+a method for enhancing the NMR sensitivity of dilute heteronuclei
+in static solids. PROSPR aims at using these heteronuclei to progressively
+deplete the abundant <sup>1</sup>H polarization found in most organic
+and several inorganic solids, and implements this <sup>1</sup>H signal
+depletion in a manner that reflects the spectral intensities of the
+heteronuclei as a function of their chemical shifts or quadrupolar
+offsets. To achieve this, PROSPR uses a looped cross-polarization
+scheme that repeatedly depletes <sup>1</sup>H&#x02013;<sup>1</sup>H
+local dipolar order and then relays this saturation throughout the
+full <sup>1</sup>H reservoir via spin-diffusion processes that act
+as analogues of chemical exchanges in the CEST experiment. Repeating
+this cross-polarization/spin-diffusion procedure multiple times results
+in an effective magnification of each heteronucleus&#x02019;s response
+that, when repeated in a frequency-stepped fashion, indirectly maps
+their NMR spectrum as sizable attenuations of the abundant <sup>1</sup>H NMR signal. Experimental PROSPR examples demonstrate that, in this
+fashion, faithful wideline NMR spectra can be obtained. These <sup>1</sup>H-detected heteronuclear NMR spectra can have their sensitivity
+enhanced by orders of magnitude in comparison to optimized direct-detect
+experiments targeting unreceptive nuclei at low natural abundance,
+using modest hardware requirements and conventional NMR equipment
+at room temperature.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>National Science Foundation</institution><institution-id institution-id-type="doi">10.13039/100000001</institution-id></institution-wrap></funding-source><award-id>2003854</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>State of Florida</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Israel Science Foundation</institution><institution-id institution-id-type="doi">10.13039/501100003977</institution-id></institution-wrap></funding-source><award-id>965/18</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Perlman Family Foundation</institution><institution-id institution-id-type="doi">10.13039/100016267</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>H2020 Marie Sk&#x000c3;&#x00085;?odowska-Curie Actions</institution><institution-id institution-id-type="doi">10.13039/100010665</institution-id></institution-wrap></funding-source><award-id>642773</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Materials Research</institution><institution-id institution-id-type="doi">10.13039/100000078</institution-id></institution-wrap></funding-source><award-id>DMR-1644779</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ja1c08277</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ja1c08277</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Chemical exchange saturation
+transfer (CEST)<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> is an approach that can
+dramatically enhance the NMR sensitivity
+of nuclei in sites undergoing chemical exchange and has opened up
+numerous applications in solution-state magnetic resonance.<sup><xref ref-type="bibr" rid="ref2">2</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> CEST amplifies the signatures of labile protons in metabolites and
+biomacromolecules by up to 3 orders of magnitude, leading to unprecedented
+imaging possibilities and providing a unique source of metabolic <italic>in vivo</italic> MRI contrast.<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> CEST also enables the detection of invisible structural conformation
+states in the solution NMR of nucleic acids<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> and proteins,<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> the observation of transient reaction intermediates,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and the enhancement of structurally relevant
+cross peaks in multidimensional correlation NMR measurements.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> CEST magnifies the weak response from dilute chemical sites by repeatedly
+saturating their spin polarization using a weak radio frequency (RF)
+field and then relying on chemical exchanges to pass this information
+to an abundant spin pool with a much stronger NMR resonance, which
+can report on the dilute spins&#x02019; spectrum with a substantial
+sensitivity enhancement. Given a chemical exchange rate <italic>k</italic><sub>ex</sub> between the dilute and abundant spin pools and a longitudinal
+relaxation time <italic>T</italic><sub>1</sub> for the abundant spins,
+this signal magnification can be on the order of <italic>k</italic><sub>ex</sub> &#x000d7; <italic>T</italic><sub>1</sub>. This factor
+can exceed the original signal from the dilute spins by several orders
+of magnitude, providing dramatic increases in sensitivity from on/off
+saturation-difference experiments. Besides providing an on/off contrast,
+this concept also allows for the indirect detection of the dilute
+spins&#x02019; NMR spectrum, by stepping the carrier frequency of the
+saturation pulse over a suitable spectral range. Measuring and plotting
+the resulting drop in the resonance of the abundant spins as a function
+of the RF offset provides a so-called <italic>z</italic> spectrum
+of the labile sites,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> which is akin to a normal NMR
+spectrum, but with a dramatically enhanced signal-to-noise ratio (SNR).
+This leveraging of saturation and chemical exchanges to indirectly
+map the NMR spectra of dilute sites has led to the generation of numerous
+solution-state NMR methods that provide SNR enhancements not only
+for labile sites<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> but also for nonlabile<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> and heteronuclear ones.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> Sites of interest
+that give rise to weak signals as a result of chemical dilution or
+low natural abundance, or both of these, can thus have their NMR spectra
+magnified (under suitable conditions) by factors comparable to those
+obtained by nuclear hyperpolarization.</p><p>These CEST ideas and
+experiments have found extensive uses in solution-state
+NMR. Even when targeting semisolid tissues <italic>in vivo</italic>, it is chemical exchange with water molecules and their &#x0223c;50
+M <sup>1</sup>H pool that ends up providing the desired signal enhancement.
+By contrast, the present study introduces and exemplifies a saturation
+transfer-based method designed to specifically enhance the NMR sensitivity
+of dilute heteronuclei in polycrystalline solids. Unlike in its solution-state
+counterparts, a water resonance involving protons that can undergo
+chemical exchanges with a labile site of interest is not available.
+As an alternative, the NMR experiment here envisioned relies on the
+highly abundant pool of protons that is typically present in polycrystalline
+solids. This is a polarization reservoir that is usually underutilized
+in heteronuclear-based NMR experiments (<italic>vide infra</italic>). It is via the depletion of this abundant <sup>1</sup>H signal
+that we propose to magnify the NMR signals of dilute heteronuclei,
+in what we denominate the PROgressive Saturation of the Proton Reservoir
+(PROSPR) approach for recording static solid-state NMR spectra. The
+details pertaining to the engineering of such a method functioning
+as a solid-state NMR analogue of CEST are discussed in the following
+section.</p></sec><sec id="sec2"><title>Method</title><p>The prototypical polycrystalline solid considered
+for the execution
+of PROSPR is here visualized as made up of three distinct spin pools
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A). These
+include a heteronuclear site whose signals we are interested in magnifying
+(red circle, <italic>X</italic>) and which, by virtue of its low chemical
+or isotopic natural abundance, is dilute in the sample. These <italic>X</italic> nuclei will couple, via the heteronuclear dipolar interaction,
+with a fraction of the total protons in the sample (green circle,
+heteronuclear dipolar-coupled <sup>1</sup>H spins) to which they are
+proximate. These <sup>1</sup>Hs are also dilute but are coupled via
+the homonuclear dipolar interaction to the majority of <sup>1</sup>Hs in the sample (blue circle, abundant <sup>1</sup>H spin pool).
+We identify this abundant reservoir of <italic>X</italic>-decoupled <sup>1</sup>H spins in the naturally abundant solid as akin to CEST&#x02019;s
+water <sup>1</sup>H spin pool, and it is PROSPR&#x02019;s aim to exploit
+it for facilitating the observation of the heteronuclear NMR spectrum.
+Unlike the solution-state <sup>1</sup>H NMR case, however, the abundant
+and dilute <sup>1</sup>H spin reservoirs cannot be differentiated
+on the basis of chemical shifts. Instead, we assume that the dilute <sup>1</sup>H reservoir can be selectively targeted by exploiting differences
+among the <sup>1</sup>H&#x02013;<italic>X</italic> dipolar couplings
+exhibited by the protons in the &#x0201c;green&#x0201d; and &#x0201c;blue&#x0201d;
+pools. Moreover, we will rely on <sup>1</sup>H&#x02013;<sup>1</sup>H spin diffusion as the &#x0201c;exchange&#x0201d; mechanism for transferring
+polarization between the distinct <sup>1</sup>H reservoirs. Provided
+that the rate of this <sup>1</sup>H&#x02013;<sup>1</sup>H spin diffusion&#x02014;akin
+to the aforementioned <italic>k</italic><sub>ex</sub>&#x02014;is larger
+than the longitudinal relaxation rate (1/<italic>T</italic><sub>1</sub>) of the abundant <sup>1</sup>Hs, these should be able to report
+on <italic>X</italic>&#x02019;s NMR spectrum with a substantial SNR
+amplification.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Illustration showing how a typical organic solid can
+be classified
+into three spin pools on the basis of heteronuclear dipolar couplings,
+where the size of each circle indicates the relative polarization
+of each pool. (B) Conceptual principle of the PROSPR experiment, whereby
+repeated green &#x02192; red cross-polarization and blue &#x02192; green
+spin-diffusion processes end up depolarizing the abundant, <sup>1</sup>H-reporting reservoir. (C) Schematic representation of the PROSPR
+pulse sequence, which is capable of implementing the scheme in part
+B and which was employed in this study.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_0001" id="gr1" position="float"/></fig><p>The overall multistep approach
+we propose for realizing this solid-state,
+CEST-like NMR experiment is presented in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B. The method begins with an RF module that
+transfers polarization from the strongly <italic>X</italic>-coupled <sup>1</sup>Hs (green) to the heteronuclei (red), under conditions that
+depend on the chemical shift or quadrupolar offset of the <italic>X</italic> nuclei. This offset-dependent <sup>1</sup>H &#x02192; <italic>X</italic> cross-polarization (CP)<sup><xref ref-type="bibr" rid="ref29">29</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> makes an imprint of
+the heteronuclear NMR spectrum, fulfilling a role similar to that
+of the narrowband RF saturation for revealing the spectrum of the
+labile <sup>1</sup>Hs in water-detected CEST. As a result of this
+selective CP, the <italic>X</italic>-coupled <sup>1</sup>H polarization
+is partially depleted. Then, in an ensuing RF-free period &#x003c4;<sub>SD</sub> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C), two concurrent events happen: The <italic>X</italic>-spin polarization
+generated from CP decays (e.g., by <italic>T</italic><sub>2</sub>,
+inhomogeneous broadening, dipolar couplings, etc.), while spin diffusion
+(SD) mediates a transfer of polarization between the abundant (blue)
+and dilute (green) <sup>1</sup>H pools. As a result of this, the &#x0201c;green&#x0201d;
+reservoir is repolarized to approximately its initial level, while
+the &#x0201c;blue&#x0201d; spins have their polarization slightly depleted.
+Repeating this CP/SD module multiple times magnifies the <italic>X-</italic>dependent saturation throughout the abundant <sup>1</sup>H reservoir.
+Detection of the abundant <sup>1</sup>H polarization with a simple
+excite/acquire module (and subtracting the data from a similar experiment
+but lacking the <italic>X</italic>-channel pulses) should reflect
+the NMR response of the <italic>X</italic> spins, with a potential
+sensitivity enhancement. It is important to highlight that experiments
+measuring heteronuclear spectra based on stepping the <italic>X</italic>-channel carrier frequency and measuring the resulting changes to
+the <sup>1</sup>H signal have been reported in the solid state.<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref35">35</xref></sup> The fundamental difference between those experiments and PROSPR
+is that the latter seeks to deplete the sample&#x02019;s <italic>entire</italic><sup>1</sup>H spin reservoir in every scan, rather than probing
+solely the changes imparted on directly coupled protons (which represent
+a smaller fraction of the total <sup>1</sup>H signal).</p><p>A simple
+route to implement the looped CP/SD module needed by this
+procedure involves repeating a flipped-back Hartmann&#x02013;Hahn CP
+contact<sup><xref ref-type="bibr" rid="ref36">36</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> that excites, spin-locks, and then stores back along
+the longitudinal axis all the nontransferred <sup>1</sup>H polarization.
+This approach, however, poses a challenge: since these experiments
+are performed under stationary conditions on a homogeneously dipolar-broadened <sup>1</sup>H resonance, the multiple <sup>1</sup>H excite/spin-lock/store
+elements to be looped may lead to substantial <sup>1</sup>H signal
+intensity losses. These losses could be avoided by using high (&#x0003e;100
+kHz) spin-locking RF fields; however, matching such high fields on
+low-&#x003b3; <italic>X</italic> nuclei is not straightforward hardware-wise,
+and the expectation of making such CP processes <italic>X-</italic>offset dependent, and thus capable of sampling a spectrum in a frequency-stepped
+manner, dwindles under such high-power conditions. Supplement 2 of
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supporting Information</ext-link> describes this
+phenomenon in greater detail. As an alternative, the dipolar-ordered-based<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref42">42</xref></sup> pulse sequence in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C was tested. Here, an initial &#x003c0;/2 pulse excites the
+equilibrium magnetization of the entire <sup>1</sup>H spin system,
+which is then subjected to an adiabatic demagnetization in the rotating
+frame (ADRF) using a linear RF ramp-down.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> At the end of this ADRF, the <sup>1</sup>H spin system exists, for
+a duration on the order of its dipolar relaxation time constant, <italic>T</italic><sub>1D</sub>, as a dipolar-ordered state; <italic>X</italic> spin-polarization can be drawn from this state using an RF pulse
+applied only on the <italic>X</italic>-channel, matching in its nutation
+frequency the average strength of the <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar couplings. As the <sup>1</sup>H NMR spectrum is homogeneously
+dipole-broadened, these <sup>1</sup>H &#x02192; <italic>X</italic> polarization
+transfers can be executed over a range of RF field strengths, including
+by relatively weak (&#x0223c;5&#x02013;10 kHz), offset-selective <italic>X</italic>-channel pulses. This makes the CP-based pulse sequence
+of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C well-suited
+both to multiple repeats as well as to the achievement of <italic>X</italic> spectral selectivity. This strategy was introduced into
+the overall depolarizing module shown within the brackets in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C, which loops <italic>N</italic> times the <italic>X</italic> CP pulse with an RF-free
+SD period, where the transverse <italic>X</italic> polarization dephases,
+while the <italic>X</italic>-coupled <sup>1</sup>Hs are repolarized
+by the abundant <sup>1</sup>H reservoir. Finally, in order to evaluate
+how much this looped CP/SD process has depleted the dipolar order
+from the entire <sup>1</sup>H system, an adiabatic remagnetization
+in the rotating frame (ARRF) <sup>1</sup>H pulse is applied, which
+converts the partially saturated dipolar order of this abundant reservoir
+into detectable transverse magnetization. Assuming that the <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar order is depleted in a manner that
+is in proportion to the <italic>X</italic> signal intensity at a given
+transmitter offset, a replica of <italic>X</italic>&#x02019;s wide-line
+NMR spectrum can be mapped out by stepping the <italic>X</italic>-channel
+RF carrier across a spectral range and monitoring the differentially
+attenuated <sup>1</sup>H resonance.</p><p>Numerous assumptions&#x02014;including
+issues concerning the selectivity
+of ADRF/ARRF cross-polarization, the proportionality between the <italic>X</italic> powder line shape intensity and the extent of <sup>1</sup>H spin depolarization, and the capability of <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar order to support saturation transfer experiments&#x02014;underlie
+this scheme. These assumptions have to hold in order to obtain the
+desired facsimile of <italic>X</italic>&#x02019;s NMR spectrum, enhanced
+in terms of its SNR per square root unit acquisition time (&#x003b5;<sub>&#x0221a;T</sub> = SNR/(&#x0221a;time)). In order to corroborate some
+of these assumptions, spin dynamics simulations were carried out (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supplements 3 and 4</ext-link> in the SI), using both semiclassical
+and quantum mechanical approaches (the latter on a nine-spin system
+under stationary conditions). These simulations confirmed that <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar order can indeed be depleted
+via heteronuclear CP and that this local dipolar order depletion can
+be replenished via spin diffusion from a remote reservoir, in a manner
+akin to what happens with longitudinal polarization. Furthermore,
+simulations show that the degree by which the bulk <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar order will be depleted depends on <italic>X</italic>&#x02019;s spectral intensity at a given RF offset and that the frequency
+bandwidth of this depletion at a given <italic>X</italic> offset will
+be on the order of the RF strength used in the CP. They also show
+that looping the CP/SD process can lead to an increased depletion
+of the bulk <sup>1</sup>H signal, up to a maximum given by ca. half
+the total number of <sup>1</sup>Hs in the abundant spin pool. Taken
+in unison, all of this bodes well for enabling the acquisition of
+accurately rasterized <italic>X</italic> NMR powder patterns, by monitoring
+their depleting effects on an abundant <sup>1</sup>H resonance.</p></sec><sec id="sec3"><title>Results
+and Discussion</title><p>The feasibility of using such principles to
+indirectly measure
+heteronuclear solid-state NMR spectra with enhanced SNR was experimentally
+explored. All experiments were performed on naturally abundant, as-received
+polycrystalline samples, packed into 4 mm glass NMR tubes; these were
+then inserted into a modified Chemagnetics HXY probe devoid of <sup>1</sup>H background signal. All data sets were recorded at a field
+strength of <italic>B</italic><sub>0</sub> = 14.1 T with the sample
+temperature regulated at 20 &#x000b0;C. Additional experimental details
+are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supplement 1</ext-link> in the SI.</p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> shows PROSPR
+NMR <italic>z</italic> spectra collected for a sample of cisplatin,
+contrasted with those acquired under optimized conditions with BRAIN-CP/WCPMG<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup>&#x02014;a pulse sequence optimized for acquiring high-quality wide-line
+NMR spectra under static conditions. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A shows the <italic>z</italic> spectrum collected
+using <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C for <sup>195</sup>Pt, a relatively abundant spin-1/2 nucleus whose powder
+pattern is dominated by chemical shift anisotropy and spans ca. 1.4
+MHz at this field. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B shows results obtained for the <sup>14</sup>N in the sample,
+a spin-1 nucleus whose first-order quadrupolar powder pattern spans
+nearly 2 MHz. Both cases demonstrate PROSPR&#x02019;s ability to encode
+and detect an <italic>X</italic> NMR spectrum by measuring the attenuated <sup>1</sup>H signals, arising after repeatedly depolarizing the dipole-ordered <sup>1</sup>H reservoir. The maximal saturation imparted on the <sup>1</sup>H NMR signal in these variable offset experiments was ca. 30% and
+10% for <sup>14</sup>N and <sup>195</sup>Pt, respectively. These were
+achieved using a <sup>14</sup>N/<sup>195</sup>Pt RF field strength
+of ca. 10 kHz with a contact time of 15 ms and <italic>N</italic> =
+60/65 loops (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Figures S4 and S5</ext-link>), values
+that are consistent with an RF-driven matching to local dipolar <sup>1</sup>H fields lasting for a <italic>T</italic><sub>1D</sub> &#x02248;
+2 s (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Figure S2</ext-link>). When compared against
+a literature-based simulation<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> and an
+optimized BRAIN-CP/WCPMG NMR spectrum, the <sup>195</sup>Pt PROSPR
+trace that arises upon subtracting the depolarized <sup>1</sup>H spectrum <italic>S</italic> from a reference <sup>1</sup>H spectrum <italic>S</italic><sub>0</sub> lacking the <sup>195</sup>Pt pulses reveals a comparable
+line shape and similar SNR per unit time&#x02014;even though the PROSPR
+data was acquired with the <italic>X</italic> channel tuned to a single
+offset frequency, while BRAIN-CP/WCPMG required 7 different <sup>195</sup>Pt offsets in its collection. For the more challenging <sup>14</sup>N powder pattern example, however, PROSPR already reveals a significant <inline-formula id="d33e849"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_m001.gif"/></inline-formula> enhancement in comparison to its
+BRAIN-CP/WCPMG
+optimized counterpart, having comparable SNR (345 vs 533, respectively)
+but requiring much shorter acquisition times (56 min vs 6.8 h, respectively).
+Furthermore, whereas BRAIN-CP/WCPMG required 8 different <sup>14</sup>N offsets to deliver a line shape that still evidence distortions
+(e.g., close to the zero-frequency region), PROSPR only required 2
+subspectra to reconstruct the total <sup>14</sup>N pattern (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B, right). This reflects
+the additional robustness endowed by looped experiments, which tend
+to drive the CP spin dynamics toward thermodynamic completion despite
+kinetics limitations imposed by Hartmann&#x02013;Hahn mismatches or
+electronics-related bandwidth restraints.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> It also reflects the fact that, rather than matching a particular
+resonant condition, ADRF-based CP seeks to match a dipole-broadened
+frequency spectrum.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) <sup>195</sup>Pt and (B) <sup>14</sup>N NMR spectra
+collected
+with the PROSPR and WCPMG pulse sequences. The <sup>195</sup>Pt and <sup>14</sup>N <italic>z</italic> spectra are shown in the left column
+where each vertical line corresponds to a <sup>1</sup>H NMR spectrum
+(shown in the inset), and the right column shows the <italic>CP</italic>(<italic>off</italic>) &#x02013; <italic>CP</italic>(<italic>on</italic>) (<italic>S</italic><sub>0</sub> &#x02013; <italic>S</italic>) postprocessed
+PROSPR spectra plotted against the optimized BRAIN-CP/WCPMG comparisons. <sup>195</sup>Pt PROSPR spectra were collected with the <italic>X</italic>-channel tuned to a single frequency (ca. &#x02212;380 kHz offset),
+whereas <sup>14</sup>N PROSPR spectra were collected with the <italic>X</italic>-channel tuned to either one of the horn discontinuities
+(ca. &#x000b1;350 kHz offsets); their coaddition is also shown as a 1D
+trace. A total of 7 and 8 subspectra were collected for the <sup>195</sup>Pt and <sup>14</sup>N BRAIN-CP/WCPMG spectra, respectively. Sensitivity
+values &#x003b5;<sub>&#x0221a;T</sub> reported as SNR/<inline-formula id="d33e933"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_m002.gif"/></inline-formula> are included, as are the SNR
+and acquisition
+times of each experiment. Additional experimental details are contained
+within <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supplement 1 and Tables S2&#x02013;S5</ext-link>. Larmor frequencies, natural abundances (N.A.), and receptivities
+with respect to <sup>13</sup>C (<italic>R</italic><sub>C</sub>) are
+provided in the figure.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_0002" id="gr2" position="float"/></fig><p><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> presents
+additional examples targeting some of the challenging nuclides present
+in a sample of ammonium sulfate. PROSPR NMR spectra are shown for
+three nuclides, present in this powder at low natural abundances: <sup>15</sup>N (spin-1/2, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A), <sup>33</sup>S (spin-3/2, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B), and <sup>17</sup>O (spin-5/2, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C). Compared against
+these are conventional NMR spectra collected for the same sample under
+optimized ADRF/ARRF CP conditions.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> These single-site
+spectra clearly highlight the significant SNR enhancements that can
+be achieved by PROSPR: &#x003b5;<sub>&#x0221a;T</sub> = 12.7, 8.5, and
+&#x0003e;49.2 min<sup>&#x02013;1/2</sup>, for the <sup>15</sup>N, <sup>33</sup>S, and <sup>17</sup>O cases, respectively. For the <sup>17</sup>O
+PROSPR case, there is no clear second-order line shape at this field,
+yet an isotropic-like shift of 215.4 ppm (vs H<sub>2</sub><sup>17</sup>O) is evidenced; notice as well the emergence of a broader line shape,
+presumably associated with the satellite transitions. For completion, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D presents an <sup>14</sup>N example for the same sample, demonstrating PROSPR&#x02019;s
+ability to reveal the two ca. 250 kHz-wide overlapping <sup>14</sup>N patterns, while providing higher SNR in a shorter acquisition time
+vs an optimized WCPMG comparison.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(A) <sup>15</sup>N, (B) <sup>33</sup>S, and (C) <sup>17</sup>O
+NMR spectra collected with the PROSPR and ADRF-CP pulse sequences.
+(D) <sup>14</sup>N NMR spectra collected with the PROSPR and BRAIN-CP/WCPMG
+pulse sequences. All spectra were acquired on the same ammonium sulfate
+sample with the <italic>X</italic>-channel tuned each time to a single
+fixed frequency. Symbols are as in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>; additional experimental details are contained within <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supplement 1 and Tables S6&#x02013;S13</ext-link>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_0003" id="gr3" position="float"/></fig><p>It is important to highlight the differences in
+the powder pattern
+line shapes arising from the directly detected vs the PROSPR experiments:
+in all cases, PROSPR patterns appear to be convolved with broader
+point-spread functions (<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref> and <xref rid="fig3" ref-type="fig">3</xref>). This increased line
+width results from the limited spectral selectivity of the cross-polarizing <italic>X</italic> RF pulse used to impart PROSPR&#x02019;s offset-dependent
+depletion; this is akin to so-called spillover effects usually broadening
+line shapes in CEST-based <italic>z</italic> spectra. For PROSPR NMR
+spectra, further broadenings are expected from the absence of active <sup>1</sup>H heteronuclear decoupling during the encoding of the heteronuclear
+NMR spectrum. These effects and their implications for measuring accurate
+NMR line shapes are further analyzed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Supplements 4 and 5</ext-link> in the SI.</p></sec><sec id="sec4"><title>Conclusions</title><p>These results illustrate
+the potential for using CEST-inspired
+concepts for enhancing the solid-state NMR detectability of unreceptive,
+dilute heteronuclei. Results targeting more abundant <sup>14</sup>N and <sup>195</sup>Pt species evidenced the quality of the achievable
+line shapes, while targeting dilute species like <sup>33</sup>S or <sup>17</sup>O showed the experiment&#x02019;s signal enhancement potential
+when applied to dilute species. As in CEST, PROSPR achieves this enhancement
+by exploiting spin polarization that would otherwise go unused. As
+opposed to monitoring an abundant solvent upon saturating labile sites
+undergoing chemical exchanges, this solid-state NMR analogue relies
+on progressively saturating an abundant <sup>1</sup>H reservoir via
+repeated CP/SD events. The ensuing degree of signal enhancement will
+depend on the ratio between the abundance of <sup>1</sup>Hs in the
+sample vs the concentration of the targeted nuclei: the larger this
+ratio, the bigger the potential method&#x02019;s enhancement. Practical
+considerations led us to explore the use of <sup>1</sup>H&#x02013;<sup>1</sup>H dipolar order instead of <sup>1</sup>H Zeeman order for
+performing the looped procedures underlying the depolarization of
+the bulk <sup>1</sup>H reservoir. The conditions needed for performing
+PROSPR then ended up being quite favorable (Supporting Information, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">Figures S4&#x02013;S9</ext-link>): these included low RF
+powers achievable by any solid-state (and most solution-state) NMR
+setup, compatibility with the application of numerous (<italic>N</italic> &#x02265; 70) depolarizing loops leading to low duty cycles, the
+achievement of a relatively narrow point-spread function capable of
+defining the <italic>X</italic> NMR spectrum with accuracy, an ability
+to record wide-line NMR patterns without having to retune the <italic>X</italic> channel across the breadth of the targeted powder pattern,
+and a minimization of RF-based manipulations that executed the <sup>1</sup>H reservoir (whose presence would lead to an increase in artifacts
+and <italic>t</italic><sub>1</sub>-like noise). At the same time,
+dipolar order-based approaches have evident drawbacks, including the
+need for long <italic>T</italic><sub>1D</sub> times (something that
+is not always under control of the experimentalist), and incompatibilities
+with both magic-angle spinning and heteronuclear decoupling&#x02014;even
+if the generation of a certain amount of dipolar order has also been
+observed for rotating solids.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Furthermore,
+not all materials&#x02014;particularly not all inorganic systems&#x02014;have
+an abundant pool of <sup>1</sup>Hs that can act as a reporter. An
+upcoming study will also illustrate how some of these drawbacks can
+be ameliorated and in turn lead to higher-resolution solid-state MAS
+NMR spectra benefiting from CEST-like sensitivity enhancements. Still,
+even in its current, limited-resolution format, one can envision PROSPR
+as having valuable applications for wide-line NMR acquisitions of
+nuclei that&#x02014;because of either isotopic composition or chemical
+dilution&#x02014;have a low abundance in the sample.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/jacs.1c08277?goto=supporting-info">https://pubs.acs.org/doi/10.1021/jacs.1c08277</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental Details and
+Optimization of PROSPR Experiments:
+samples, calibrations, data processing, optimization; Decay of spin-locked <sup>1</sup>H polarizations upon looping the cross-polarization spin-lock;
+Numerical Simulations of PROSPR&#x02019;s Dipolar-Order Spin Dynamics;
+PROSPR as a Two-Site Exchange Using the Bloch-McConnell Formalism:
+Basic Features of PROSPR&#x02019;s Point-Spread Function; Comparing
+the Sensitivity and Spectral Resolution Afforded by ADRF-CP, PROSPR,
+and CP/MAS for <sup>15</sup>N NMR Spectroscopy of Ammonium Sulfate
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/jacs.1c08277/suppl_file/ja1c08277_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja1c08277_si_001.pdf"><caption><p>ja1c08277_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes-2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by the Israel Science Foundation Grant
+965/18, by the US National High Magnetic Field Lab supported through
+the National Science Foundation Cooperative Agreement (DMR-1644779)
+and the State of Florida, the EU Horizon 2020 program (Marie Sk&#x00142;odowska-Curie
+Grant 642773), and by the Perlman Family Foundation. L.F. holds the
+Bertha and Isadore Gudelsky Professorial Chair and Heads the Clore
+Institute for High-Field Magnetic Resonance Imaging and Spectroscopy,
+whose support is also acknowledged. R.W.S. is also grateful for research
+support from the National Science Foundation Chemical Measurement
+and Imaging Program, with partial cofunding from the Solid State and
+Materials Chemistry Program (NSF-2003854), as well as additional research
+funding from The Florida State University, the National High Magnetic
+Field Laboratory, and the State of Florida.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>ADRF</term><def><p>adiabatic demagnetization in the
+rotating frame</p></def></def-item><def-item><term>ARRF</term><def><p>adiabatic remagnetization in the rotating frame</p></def></def-item><def-item><term>BRAIN-CP</term><def><p>broadband adiabatic inversion
+cross-polarization</p></def></def-item><def-item><term>CEST</term><def><p>chemical exchange saturation transfer</p></def></def-item><def-item><term>CP</term><def><p>cross-polarization</p></def></def-item><def-item><term>CPMG</term><def><p>Carr&#x02013;Purcell Meiboom&#x02013;Gill</p></def></def-item><def-item><term>SD</term><def><p>spin diffusion</p></def></def-item><def-item><term>SNR</term><def><p>signal-to-noise
+ratio</p></def></def-item><def-item><term>WURST</term><def><p>wideband
+uniform-rate smooth truncation</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ward</surname><given-names>K. M.</given-names></name>; <name><surname>Aletras</surname><given-names>A. H.</given-names></name>; <name><surname>Balaban</surname><given-names>R. S.</given-names></name>
+<article-title>A New Class of Contrast Agents for
+MRI Based on Proton Chemical Exchange Dependent Saturation Transfer
+(CEST)</article-title>. <source>J. Magn. Reson.</source>
+<year>2000</year>, <volume>143</volume>, <fpage>79</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1006/jmre.1999.1956</pub-id>.<pub-id pub-id-type="pmid">10698648</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>van Zijl</surname><given-names>P. C. M.</given-names></name>
+<article-title>Chemical Exchange
+Saturation Transfer Imaging and Spectroscopy</article-title>. <source>Prog. Nucl. Magn. Reson. Spectrosc.</source>
+<year>2006</year>, <volume>48</volume>, <fpage>109</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/j.pnmrs.2006.01.001</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Van
+Zijl</surname><given-names>P. C. M.</given-names></name>; <name><surname>Yadav</surname><given-names>N. N.</given-names></name>
+<article-title>Chemical Exchange Saturation Transfer
+(CEST): What Is in a Name and What Isn&#x02019;t?</article-title>. <source>Magn. Reson. Med.</source>
+<year>2011</year>, <volume>65</volume>, <fpage>927</fpage>&#x02013;<lpage>948</lpage>. <pub-id pub-id-type="doi">10.1002/mrm.22761</pub-id>.<pub-id pub-id-type="pmid">21337419</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Song</surname><given-names>X.</given-names></name>; <name><surname>Chan</surname><given-names>K. W. Y.</given-names></name>; <name><surname>McMahon</surname><given-names>M. T.</given-names></name>
+<article-title>Nuts and Bolts of
+Chemical Exchange Saturation Transfer MRI</article-title>. <source>NMR
+Biomed.</source>
+<year>2013</year>, <volume>26</volume>, <fpage>810</fpage>&#x02013;<lpage>828</lpage>. <pub-id pub-id-type="doi">10.1002/nbm.2899</pub-id>.<pub-id pub-id-type="pmid">23303716</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="book" id="cit5"><person-group person-group-type="allauthors"><name><surname>McMahon</surname><given-names>M. T.</given-names></name>; <name><surname>Bulte</surname><given-names>J. W. M.</given-names></name>; <name><surname>Gilad</surname><given-names>A. A.</given-names></name>; <name><surname>van Zijl</surname><given-names>P. C. M.</given-names></name></person-group><source>Chemical Exchange
+Saturation Transfer Imaging: Advances and Applications</source>, <edition>1</edition>st ed.; <publisher-name>Jenny Stranford Publishing</publisher-name>, <year>2017</year>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Stevens</surname><given-names>T.
+K.</given-names></name>; <name><surname>Palaniappan</surname><given-names>K. K.</given-names></name>; <name><surname>Ramirez</surname><given-names>R. M.</given-names></name>; <name><surname>Francis</surname><given-names>M. B.</given-names></name>; <name><surname>Wemmer</surname><given-names>D. E.</given-names></name>; <name><surname>Pines</surname><given-names>A.</given-names></name>
+<article-title>HyperCEST
+Detection of a 129Xe-Based Contrast Agent Composed of Cryptophane-A
+Molecular Cages on a Bacteriophage Scaffold</article-title>. <source>Magn. Reson. Med.</source>
+<year>2013</year>, <volume>69</volume>, <fpage>1245</fpage>&#x02013;<lpage>1252</lpage>. <pub-id pub-id-type="doi">10.1002/mrm.24371</pub-id>.<pub-id pub-id-type="pmid">22791581</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Guivel-Scharen</surname><given-names>V.</given-names></name>; <name><surname>Sinnwell</surname><given-names>T.</given-names></name>; <name><surname>Wolff</surname><given-names>S. D.</given-names></name>; <name><surname>Balaban</surname><given-names>R. S.</given-names></name>
+<article-title>Detection of Proton
+Chemical Exchange between Metabolites and Water in Biological Tissues</article-title>. <source>J. Magn. Reson.</source>
+<year>1998</year>, <volume>133</volume>, <fpage>36</fpage>&#x02013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1006/jmre.1998.1440</pub-id>.<pub-id pub-id-type="pmid">9654466</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ling</surname><given-names>W.</given-names></name>; <name><surname>Regatte</surname><given-names>R. R.</given-names></name>; <name><surname>Navon</surname><given-names>G.</given-names></name>; <name><surname>Jerschow</surname><given-names>A.</given-names></name>
+<article-title>Assessment of Glycosaminoglycan
+Concentration in Vivo by Chemical Exchange-Dependent Saturation Transfer
+(GagCEST)</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2008</year>, <volume>105</volume>, <fpage>2266</fpage>&#x02013;<lpage>2270</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0707666105</pub-id>.<pub-id pub-id-type="pmid">18268341</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Cai</surname><given-names>K.</given-names></name>; <name><surname>Haris</surname><given-names>M.</given-names></name>; <name><surname>Singh</surname><given-names>A.</given-names></name>; <name><surname>Kogan</surname><given-names>F.</given-names></name>; <name><surname>Greenberg</surname><given-names>J. H.</given-names></name>; <name><surname>Hariharan</surname><given-names>H.</given-names></name>; <name><surname>Detre</surname><given-names>J. A.</given-names></name>; <name><surname>Reddy</surname><given-names>R.</given-names></name>
+<article-title>Magnetic Resonance
+Imaging of Glutamate</article-title>. <source>Nat. Med.</source>
+<year>2012</year>, <volume>18</volume>, <fpage>302</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1038/nm.2615</pub-id>.<pub-id pub-id-type="pmid">22270722</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Chan</surname><given-names>K. W. Y.</given-names></name>; <name><surname>Jiang</surname><given-names>L.</given-names></name>; <name><surname>Cheng</surname><given-names>M.</given-names></name>; <name><surname>Wijnen</surname><given-names>J. P.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Huang</surname><given-names>P.</given-names></name>; <name><surname>van Zijl</surname><given-names>P. C. M.</given-names></name>; <name><surname>McMahon</surname><given-names>M. T.</given-names></name>; <name><surname>Glunde</surname><given-names>K.</given-names></name>
+<article-title>CEST-MRI Detects
+Metabolite Levels Altered by Breast Cancer Cell Aggressiveness and
+Chemotherapy Response</article-title>. <source>NMR Biomed.</source>
+<year>2016</year>, <volume>29</volume>, <fpage>806</fpage>&#x02013;<lpage>816</lpage>. <pub-id pub-id-type="doi">10.1002/nbm.3526</pub-id>.<pub-id pub-id-type="pmid">27100284</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Sherry</surname><given-names>A. D.</given-names></name>; <name><surname>Woods</surname><given-names>M.</given-names></name>
+<article-title>Chemical Exchange Saturation
+Transfer Contrast Agents for Magnetic
+Resonance Imaging</article-title>. <source>Annu. Rev. Biomed. Eng.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>391</fpage>&#x02013;<lpage>411</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.bioeng.9.060906.151929</pub-id>.<pub-id pub-id-type="pmid">18647117</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Aime</surname><given-names>S.</given-names></name>; <name><surname>Castelli</surname><given-names>D. D.</given-names></name>; <name><surname>Lawson</surname><given-names>D.</given-names></name>; <name><surname>Terreno</surname><given-names>E.</given-names></name>
+<article-title>Gd-Loaded Liposomes
+as T1, Susceptibility, and CEST Agents, All in One</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2007</year>, <volume>129</volume>, <fpage>2430</fpage>&#x02013;<lpage>2431</lpage>. <pub-id pub-id-type="doi">10.1021/ja0677867</pub-id>.<pub-id pub-id-type="pmid">17288421</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Zhao</surname><given-names>B.</given-names></name>; <name><surname>Hansen</surname><given-names>A. L.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Characterizing Slow Chemical Exchange
+in Nucleic Acids by Carbon CEST and Low Spin-Lock Field R1&#x003c1;
+NMR Spectroscopy</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>20</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1021/ja409835y</pub-id>.<pub-id pub-id-type="pmid">24299272</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Zhao</surname><given-names>B.</given-names></name>; <name><surname>Baisden</surname><given-names>J. T.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Probing Excited
+Conformational States
+of Nucleic Acids by Nitrogen CEST NMR Spectroscopy</article-title>. <source>J. Magn. Reson.</source>
+<year>2020</year>, <volume>310</volume>, <fpage>106642</fpage><pub-id pub-id-type="doi">10.1016/j.jmr.2019.106642</pub-id>.<pub-id pub-id-type="pmid">31785475</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Vallurupalli</surname><given-names>P.</given-names></name>; <name><surname>Bouvignies</surname><given-names>G.</given-names></name>; <name><surname>Kay</surname><given-names>L. E.</given-names></name>
+<article-title>Studying &#x0201c;Invisible&#x0201d;
+Excited Protein States in Slow Exchange with a Major State Conformation</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>8148</fpage>&#x02013;<lpage>8161</lpage>. <pub-id pub-id-type="doi">10.1021/ja3001419</pub-id>.<pub-id pub-id-type="pmid">22554188</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Vallurupalli</surname><given-names>P.</given-names></name>; <name><surname>Kay</surname><given-names>L. E.</given-names></name>
+<article-title>Probing Slow Chemical Exchange at Carbonyl Sites in
+Proteins by Chemical Exchange Saturation Transfer NMR Spectroscopy</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>4156</fpage>&#x02013;<lpage>4159</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201209118</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Fox</surname><given-names>R. O.</given-names></name>; <name><surname>Evans</surname><given-names>P. A.</given-names></name>; <name><surname>Dobson</surname><given-names>C. M.</given-names></name>
+<article-title>Multiple Conformations of a Protein
+Demonstrated by Magnetization Transfer NMR Spectroscopy</article-title>. <source>Nature</source>
+<year>1986</year>, <volume>320</volume>, <fpage>192</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1038/320192a0</pub-id>.<pub-id pub-id-type="pmid">3951556</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Bar-Shir</surname><given-names>A.</given-names></name>; <name><surname>Chan</surname><given-names>K. W. Y.</given-names></name>; <name><surname>Galpoththawela</surname><given-names>C. S.</given-names></name>; <name><surname>Bernard</surname><given-names>S. M.</given-names></name>; <name><surname>Tse</surname><given-names>T.</given-names></name>; <name><surname>Yadav</surname><given-names>N. N.</given-names></name>; <name><surname>Walczak</surname><given-names>P.</given-names></name>; <name><surname>McMahon</surname><given-names>M. T.</given-names></name>; et al. <article-title>Monitoring Enzyme Activity Using a Diamagnetic
+Chemical Exchange Saturation Transfer Magnetic Resonance Imaging Contrast
+Agent</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>16326</fpage>&#x02013;<lpage>16329</lpage>. <pub-id pub-id-type="doi">10.1021/ja204701x</pub-id>.<pub-id pub-id-type="pmid">21919523</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lokesh</surname><given-names>N.</given-names></name>; <name><surname>Seegerer</surname><given-names>A.</given-names></name>; <name><surname>Hioe</surname><given-names>J.</given-names></name>; <name><surname>Gschwind</surname><given-names>R. M.</given-names></name>
+<article-title>Chemical Exchange
+Saturation Transfer in Chemical Reactions: A Mechanistic Tool for
+NMR Detection and Characterization of Transient Intermediates</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>1855</fpage>&#x02013;<lpage>1862</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b12343</pub-id>.<pub-id pub-id-type="pmid">29336150</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Bouvignies</surname><given-names>G.</given-names></name>; <name><surname>Kay</surname><given-names>L. E.</given-names></name>
+<article-title>A 2D 13C-CEST Experiment for Studying Slowly Exchanging
+Protein Systems Using Methyl Probes: An Application to Protein Folding</article-title>. <source>J. Biomol. NMR</source>
+<year>2012</year>, <volume>53</volume>, <fpage>303</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1007/s10858-012-9640-7</pub-id>.<pub-id pub-id-type="pmid">22689067</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Novakovic</surname><given-names>M.</given-names></name>; <name><surname>Kup&#x0010d;e</surname><given-names>&#x00045;&#x00305;.</given-names></name>; <name><surname>Oxenfarth</surname><given-names>A.</given-names></name>; <name><surname>Battistel</surname><given-names>M. D.</given-names></name>; <name><surname>Freedberg</surname><given-names>D. I.</given-names></name>; <name><surname>Schwalbe</surname><given-names>H.</given-names></name>; <name><surname>Frydman</surname><given-names>L.</given-names></name>
+<article-title>Sensitivity
+Enhancement
+of Homonuclear Multidimensional NMR Correlations for Labile Sites
+in Proteins, Polysaccharides, and Nucleic Acids</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5317</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-19108-x</pub-id>.<pub-id pub-id-type="pmid">33087707</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Grad</surname><given-names>J.</given-names></name>; <name><surname>Bryant</surname><given-names>R. G.</given-names></name>
+<article-title>Nuclear Magnetic
+Cross-Relaxation Spectroscopy</article-title>. <source>J. Magn. Reson.</source>
+<year>1990</year>, <volume>90</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/0022-2364(90)90361-C</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Zaiss</surname><given-names>M.</given-names></name>; <name><surname>Bachert</surname><given-names>P.</given-names></name>
+<article-title>Chemical Exchange Saturation
+Transfer (CEST) and MR
+Z-Spectroscopy in Vivo: A Review of Theoretical Approaches and Methods</article-title>. <source>Phys. Med. Biol.</source>
+<year>2013</year>, <volume>58</volume>, <fpage>R221</fpage>&#x02013;<lpage>R269</lpage>. <pub-id pub-id-type="doi">10.1088/0031-9155/58/22/R221</pub-id>.<pub-id pub-id-type="pmid">24201125</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Novakovic</surname><given-names>M.</given-names></name>; <name><surname>Cousin</surname><given-names>S. F.</given-names></name>; <name><surname>Jaroszewicz</surname><given-names>M. J.</given-names></name>; <name><surname>Rosenzweig</surname><given-names>R.</given-names></name>; <name><surname>Frydman</surname><given-names>L.</given-names></name>
+<article-title>Looped-PROjected SpectroscopY (L-PROSY):
+A Simple Approach
+to Enhance Backbone/Sidechain Cross-Peaks in 1H NMR</article-title>. <source>J. Magn. Reson.</source>
+<year>2018</year>, <volume>294</volume>, <fpage>169</fpage>&#x02013;<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2018.07.010</pub-id>.<pub-id pub-id-type="pmid">30064051</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Novakovic</surname><given-names>M.</given-names></name>; <name><surname>Martinho</surname><given-names>R. P.</given-names></name>; <name><surname>Olsen</surname><given-names>G. L.</given-names></name>; <name><surname>Lustig</surname><given-names>M. S.</given-names></name>; <name><surname>Frydman</surname><given-names>L.</given-names></name>
+<article-title>Sensitivity-Enhanced
+Detection of Non-Labile Proton and Carbon NMR Spectra on Water Resonances</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2018</year>, <volume>20</volume>, <fpage>56</fpage>&#x02013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1039/C7CP07046B</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Friedman</surname><given-names>J. I.</given-names></name>; <name><surname>McMahon</surname><given-names>M. T.</given-names></name>; <name><surname>Stivers</surname><given-names>J. T.</given-names></name>; <name><surname>Van Zijl</surname><given-names>P. C. M.</given-names></name>
+<article-title>Indirect Detection
+of Labile Solute Proton Spectra via the Water Signal Using Frequency-Labeled
+Exchange (FLEX) Transfer</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>1813</fpage>&#x02013;<lpage>1815</lpage>. <pub-id pub-id-type="doi">10.1021/ja909001q</pub-id>.<pub-id pub-id-type="pmid">20095603</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Martinho</surname><given-names>R. P.</given-names></name>; <name><surname>Novakovic</surname><given-names>M.</given-names></name>; <name><surname>Olsen</surname><given-names>G. L.</given-names></name>; <name><surname>Frydman</surname><given-names>L.</given-names></name>
+<article-title>Heteronuclear 1D and
+2D NMR Resonances Detected by Chemical Exchange Saturation Transfer
+to Water</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>3521</fpage>&#x02013;<lpage>3525</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201611733</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Novakovic</surname><given-names>M.</given-names></name>; <name><surname>Jayanthi</surname><given-names>S.</given-names></name>; <name><surname>Lupulescu</surname><given-names>A.</given-names></name>; <name><surname>Kupce</surname><given-names>E.</given-names></name>; <name><surname>Gr&#x000fc;n</surname><given-names>J. T.</given-names></name>; <name><surname>Mertinkus</surname><given-names>K.</given-names></name>; <name><surname>Oxenfarth</surname><given-names>A.</given-names></name>; <name><surname>Richter</surname><given-names>C.</given-names></name>; <name><surname>Schnieders</surname><given-names>R.</given-names></name>; et al. <article-title>3D Heteronuclear Magnetization Transfers for the Establishment of
+Secondary Structures in SARS-CoV-2-Derived RNAs</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2021</year>, <volume>143</volume>, <fpage>4942</fpage>&#x02013;<lpage>4948</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.1c01914</pub-id>.<pub-id pub-id-type="pmid">33783202</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Hartmann</surname><given-names>S. R.</given-names></name>; <name><surname>Hahn</surname><given-names>E. L.</given-names></name>
+<article-title>Nuclear Double Resonance in the Rotating Frame</article-title>. <source>Phys. Rev.</source>
+<year>1962</year>, <volume>128</volume>, <fpage>2042</fpage>&#x02013;<lpage>2053</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRev.128.2042</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Pines</surname><given-names>A.</given-names></name>; <name><surname>Gibby</surname><given-names>M. G.</given-names></name>; <name><surname>Waugh</surname><given-names>J. S.</given-names></name>
+<article-title>Proton-Enhanced
+Nuclear Induction
+Spectroscopy. A Method for High Resolution NMR of Dilute Spins in
+Solids</article-title>. <source>J. Chem. Phys.</source>
+<year>1972</year>, <volume>56</volume>, <fpage>1776</fpage>&#x02013;<lpage>1777</lpage>. <pub-id pub-id-type="doi">10.1063/1.1677439</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Baldus</surname><given-names>M.</given-names></name>; <name><surname>Petkova</surname><given-names>A. T.</given-names></name>; <name><surname>Herzfeld</surname><given-names>J.</given-names></name>; <name><surname>Griffin</surname><given-names>R. G.</given-names></name>
+<article-title>Cross Polarization
+in the Tilted Frame: Assignment and Spectral Simplification in Heteronuclear
+Spin Systems</article-title>. <source>Mol. Phys.</source>
+<year>1998</year>, <volume>95</volume>, <fpage>1197</fpage>&#x02013;<lpage>1207</lpage>. <pub-id pub-id-type="doi">10.1080/00268979809483251</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Blinc</surname><given-names>R.</given-names></name>; <name><surname>Mali</surname><given-names>M.</given-names></name>; <name><surname>Osredkak</surname><given-names>R.</given-names></name>; <name><surname>Prelesnik</surname><given-names>A.</given-names></name>; <name><surname>Zupan&#x0010d;i&#x0010d;</surname><given-names>I.</given-names></name>; <name><surname>Ehrenberg</surname><given-names>L.</given-names></name>
+<article-title>Pulsed Nitrogen-Proton
+Double Resonance Study of the Ferroelectric Transition in Triglycine
+Sulfate</article-title>. <source>J. Chem. Phys.</source>
+<year>1971</year>, <volume>55</volume>, <fpage>4843</fpage>&#x02013;<lpage>4848</lpage>. <pub-id pub-id-type="doi">10.1063/1.1675588</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Grey</surname><given-names>C. P.</given-names></name>; <name><surname>Vega</surname><given-names>A. J.</given-names></name>
+<article-title>Determination of
+the Quadrupole Coupling Constant of
+the Invisible Aluminum Spins in Zeolite HY with 1H/27Al TRAPDOR NMR</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1995</year>, <volume>117</volume>, <fpage>8232</fpage>&#x02013;<lpage>8242</lpage>. <pub-id pub-id-type="doi">10.1021/ja00136a022</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Gan</surname><given-names>Z.</given-names></name>
+<article-title>Measuring
+Nitrogen Quadrupolar Coupling with 13C Detected Wide-Line 14N NMR
+under Magic-Angle Spinning</article-title>. <source>Chem. Commun.</source>
+<year>2008</year>, (<issue>7</issue>), <fpage>868</fpage>&#x02013;<lpage>870</lpage>. <pub-id pub-id-type="doi">10.1039/B716383E</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Fyfe</surname><given-names>C. A.</given-names></name>; <name><surname>Brouwer</surname><given-names>D. H.</given-names></name>; <name><surname>Tekely</surname><given-names>P.</given-names></name>
+<article-title>Measurement
+of NMR Cross-Polarization
+(CP) Rate Constants in the Slow CP Regime: Relevance to Structure
+Determinations of Zeolite-Sorbate and Other Complexes by Cp Magic-Angle
+Spinning NMR</article-title>. <source>J. Phys. Chem. A</source>
+<year>2005</year>, <volume>109</volume>, <fpage>6187</fpage>&#x02013;<lpage>6192</lpage>. <pub-id pub-id-type="doi">10.1021/jp051923p</pub-id>.<pub-id pub-id-type="pmid">16833958</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Tang</surname><given-names>W.</given-names></name>; <name><surname>Nevzorov</surname><given-names>A. A.</given-names></name>
+<article-title>Repetitive Cross-Polarization
+Contacts via Equilibration-Re-Equilibration
+of the Proton Bath: Sensitivity Enhancement for NMR of Membrane Proteins
+Reconstituted in Magnetically Aligned Bicelles</article-title>. <source>J. Magn. Reson.</source>
+<year>2011</year>, <volume>212</volume>, <fpage>245</fpage>&#x02013;<lpage>248</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2011.06.028</pub-id>.<pub-id pub-id-type="pmid">21784682</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Raya</surname><given-names>J.</given-names></name>; <name><surname>Perrone</surname><given-names>B.</given-names></name>; <name><surname>Hirschinger</surname><given-names>J.</given-names></name>
+<article-title>Chemical Shift
+Powder Spectra Enhanced
+by Multiple-Contact Cross-Polarization under Slow Magic-Angle Spinning</article-title>. <source>J. Magn. Reson.</source>
+<year>2013</year>, <volume>227</volume>, <fpage>93</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2012.12.006</pub-id>.<pub-id pub-id-type="pmid">23314257</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Johnson</surname><given-names>R. L.</given-names></name>; <name><surname>Schmidt-Rohr</surname><given-names>K.</given-names></name>
+<article-title>Quantitative Solid-State 13C NMR
+with Signal Enhancement
+by Multiple Cross Polarization</article-title>. <source>J. Magn. Reson.</source>
+<year>2014</year>, <volume>239</volume>, <fpage>44</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2013.11.009</pub-id>.<pub-id pub-id-type="pmid">24374751</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Redfield</surname><given-names>A. G.</given-names></name>
+<article-title>Nuclear
+Magnetic Resonance Saturation and Rotary Saturation in Solids</article-title>. <source>Phys. Rev.</source>
+<year>1955</year>, <volume>98</volume>, <fpage>1787</fpage>&#x02013;<lpage>1809</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRev.98.1787</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Anderson</surname><given-names>A. G.</given-names></name>; <name><surname>Hartmann</surname><given-names>S.</given-names></name>
+<article-title>Nuclear Magnetic Resonance in the Demagnetized State</article-title>. <source>Phys. Rev.</source>
+<year>1962</year>, <volume>128</volume>, <fpage>2023</fpage>&#x02013;<lpage>2041</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRev.128.2023</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Lurie</surname><given-names>F. M.</given-names></name>; <name><surname>Slichter</surname><given-names>C. P.</given-names></name>
+<article-title>Spin Temperature in Nuclear Double
+Resonance</article-title>. <source>Phys. Rev. Lett.</source>
+<year>1963</year>, <volume>10</volume>, <fpage>403</fpage>&#x02013;<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevLett.10.403</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Slichter</surname><given-names>C. P.</given-names></name>; <name><surname>Holton</surname><given-names>W. C.</given-names></name>
+<article-title>Adiabatic Demagnetization
+in a Rotating Reference System</article-title>. <source>Phys. Rev.</source>
+<year>1961</year>, <volume>122</volume>, <fpage>1701</fpage>&#x02013;<lpage>1708</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRev.122.1701</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Harris</surname><given-names>K. J.</given-names></name>; <name><surname>Lupulescu</surname><given-names>A.</given-names></name>; <name><surname>Lucier</surname><given-names>B. E. G.</given-names></name>; <name><surname>Frydman</surname><given-names>L.</given-names></name>; <name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>Broadband
+Adiabatic Inversion Pulses for Cross Polarization in Wideline Solid-State
+NMR Spectroscopy</article-title>. <source>J. Magn. Reson.</source>
+<year>2012</year>, <volume>224</volume>, <fpage>38</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2012.08.015</pub-id>.<pub-id pub-id-type="pmid">23023623</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>Ultra-Wideline
+Solid-State NMR Spectroscopy</article-title>. <source>Acc. Chem. Res.</source>
+<year>2013</year>, <volume>46</volume>, <fpage>1985</fpage>&#x02013;<lpage>1995</lpage>. <pub-id pub-id-type="doi">10.1021/ar400045t</pub-id>.<pub-id pub-id-type="pmid">23745683</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Lucier</surname><given-names>B. E. G.</given-names></name>; <name><surname>Reidel</surname><given-names>A. R.</given-names></name>; <name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>Multinuclear
+Solid-State NMR of Square-Planar
+Platinum Complexes &#x02014; Cisplatin and Related Systems</article-title>. <source>Can. J. Chem.</source>
+<year>2011</year>, <volume>89</volume>, <fpage>919</fpage>&#x02013;<lpage>937</lpage>. <pub-id pub-id-type="doi">10.1139/v11-033</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Ramanathan</surname><given-names>C.</given-names></name>; <name><surname>Ackerman</surname><given-names>J. L.</given-names></name>
+<article-title>ADRF Differential Cross Polarization Spectroscopy of
+Synthetic Calcium Phosphates and Bone Mineral</article-title>. <source>J. Magn. Reson.</source>
+<year>1997</year>, <volume>127</volume>, <fpage>26</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1006/jmre.1997.1173</pub-id>.<pub-id pub-id-type="pmid">9245627</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>O&#x02019;Dell</surname><given-names>L. A.</given-names></name>; <name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>QCPMG Using Adiabatic Pulses for Faster Acquisition
+of Ultra-Wideline NMR Spectra</article-title>. <source>Chem. Phys. Lett.</source>
+<year>2008</year>, <volume>464</volume>, <fpage>97</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/j.cplett.2008.08.095</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>MacGregor</surname><given-names>A. W.</given-names></name>; <name><surname>O&#x02019;Dell</surname><given-names>L. A.</given-names></name>; <name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>New Methods for the Acquisition of
+Ultra-Wideline Solid-State NMR Spectra of Spin-1/2 Nuclides</article-title>. <source>J. Magn. Reson.</source>
+<year>2011</year>, <volume>208</volume>, <fpage>103</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmr.2010.10.011</pub-id>.<pub-id pub-id-type="pmid">21130011</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>van
+Beek</surname><given-names>J. D.</given-names></name>; <name><surname>Hemmi</surname><given-names>A.</given-names></name>; <name><surname>Ernst</surname><given-names>M.</given-names></name>; <name><surname>Meier</surname><given-names>B. H.</given-names></name>
+<article-title>Second-order
+dipolar order in magic-angle spinning nuclear magnetic resonance</article-title>. <source>J. Chem. Phys.</source>
+<year>2011</year>, <volume>135</volume>, <fpage>154507</fpage><pub-id pub-id-type="doi">10.1063/1.3651101</pub-id>.<pub-id pub-id-type="pmid">22029324</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,921 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Inorg Chem</journal-id><journal-id journal-id-type="iso-abbrev">Inorg Chem</journal-id><journal-id journal-id-type="publisher-id">ic</journal-id><journal-id journal-id-type="coden">inocaj</journal-id><journal-title-group><journal-title>Inorganic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">0020-1669</issn><issn pub-type="epub">1520-510X</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">9092348</article-id><article-id pub-id-type="pmid">35467854</article-id><article-id pub-id-type="doi">10.1021/acs.inorgchem.2c00842</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Cytotoxicity of Alizarine versus Tetrabromocathecol
+Cyclometalated Pt(II) Theranostic Agents: A Combined Experimental
+and Computational Investigation</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4686-6876</contrib-id><name><surname>Mazzone</surname><given-names>Gloria</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Scoditti</surname><given-names>Stefano</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Caligiuri</surname><given-names>Rossella</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2724-9952</contrib-id><name><surname>Ricciardi</surname><given-names>Loredana</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5952-9927</contrib-id><name><surname>Sicilia</surname><given-names>Emilia</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Lupo</surname><given-names>Maria Giovanna</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6210-0264</contrib-id><name><surname>Rimoldi</surname><given-names>Isabella</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath8"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5659-8844</contrib-id><name><surname>Godbert</surname><given-names>Nicolas</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath9"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8611-5575</contrib-id><name><surname>La Deda</surname><given-names>Massimo</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath10"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7291-1047</contrib-id><name><surname>Ionescu</surname><given-names>Andreea</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath11"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1315-1724</contrib-id><name><surname>Ghedini</surname><given-names>Mauro</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4804-2667</contrib-id><name><surname>Aiello</surname><given-names>Iolinda</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath13"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1260-1335</contrib-id><name><surname>Facchetti</surname><given-names>Giorgio</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Dipartimento
+di Chimica e Tecnologie Chimiche, <institution>Universit&#x000e0;
+della Calabria</institution>, Arcavacata di Rende, Cosenza 87036, <country>Italy</country></aff><aff id="aff2"><label>&#x02021;</label>MAT-InLAB,
+LASCAMM CR-INSTM, Unit&#x000e0; INSTM della Calabria, Dipartimento
+di Chimica e Tecnologie Chimiche, <institution>Universit&#x000e0;
+della Calabria</institution>, Arcavacata di Rende, Cosenza 87036, <country>Italy</country></aff><aff id="aff3"><label>&#x000a7;</label>CNR
+NANOTEC, <institution>Institute of Nanotechnology U.O.S.
+Cosenza</institution>, Arcavacata di
+Rende, Cosenza 87036, <country>Italy</country></aff><aff id="aff4"><label>&#x02225;</label>Dipartimento
+di Medicina, <institution>Universit&#x000e0; degli Studi
+di Padova</institution>, Padova 35128, <country>Italy</country></aff><aff id="aff5"><label>&#x022a5;</label>Dipartimento
+di Scienze Farmaceutiche, <institution>Universit&#x000e0;
+degli Studi di Milano</institution>, Via Venezian 21, Milan 20133, <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>isabella.rimoldi@unimi.it</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>iolinda.aiello@unical.it</email>.</corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>04</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>09</day><month>05</month><year>2022</year></pub-date><volume>61</volume><issue>18</issue><fpage>7188</fpage><lpage>7200</lpage><history><date date-type="received"><day>15</day><month>03</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0009" id="ab-tgr1"/></p><p>Platinum compounds
+cytotoxicity is strictly related to their ability
+to be converted into active mono- and di-aquated species and consequently
+to the replacement of labile ligands by water molecules. This activation
+process makes the platinum center prone to nucleophilic substitution
+by DNA purines. In the present work, quantum mechanical density functional
+theory (DFT) computations and experimental investigations were carried
+out in order to shed light on the relationship between the internalization,
+aquation, and DNA binding of two isostructural anionic theranostic
+complexes previously reported by our group, NBu<sub>4</sub>[(PhPy)Pt(Aliz)], <bold>1 (</bold>IC<sub>50</sub> 1.9 &#x000b1; 1.6 &#x003bc;M), and NBu<sub>4</sub>[(PhPy)Pt(BrCat)], <bold>2 (</bold>IC<sub>50</sub> 52.8 &#x000b1; 3.9
+&#x003bc;M). Cisplatin and a neutral compound [(NH<sub>3</sub>)<sub>2</sub>Pt(Aliz)], <bold>3</bold>, were also taken as reference compounds.
+The computed energy barriers and the endergonicity of the hydrolysis
+reactions showed that the aquation rates are comparable for <bold>1</bold> and <bold>2</bold>, with a slightly higher reactivity of <bold>1</bold>. The second hydrolysis process was proved to be the rate-determining
+step for both <bold>1</bold> and <bold>2</bold>, unlike for compound <bold>3</bold>. The nucleophilic attack by the N7 site of guanine to both
+mono- and di-aquated forms of the complexes was computationally investigated
+as well, allowing to rationalize the observed different cytotoxicity.
+Computational results were supported by photostability data and biological
+assays, demonstrating DNA as the main target for compound <bold>1</bold>.</p></abstract><abstract abstract-type="short"><p>An experimental&#x02212;theoretical approach
+to study the
+cytotoxicity of ionic Pt(II) complexes containing (O^O) chelating
+ancillary ligands.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Universit&#x000c3;&#x000a0; della Calabria</institution><institution-id institution-id-type="doi">10.13039/501100007069</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministero dell&#x000e2;&#x00080;&#x00099;Universit&#x000c3;&#x000a0; e della Ricerca</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ic2c00842</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ic2c00842</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Since their approval
+in medical protocols, cisplatin and its derivatives
+continue to play a central role as first-line therapy drugs for the
+treatment of different types of tumors.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> More than 40 years after the recognition of the cisplatin clinical
+benefits, studies still continue to be carried out in an effort to
+comprehensively understand its mechanism of action. Four main steps,
+internalization, aquation, formation of DNA adducts, and cell response,
+have been identified to explain the cytotoxic activity of cisplatin
+and its derivatives.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> Because the first step consists
+in drug internalization, its accumulation inside the cells surely
+represents the limiting step of its bioactivity. The cellular uptake
+of platinum drugs through the cellular membranes has been assumed
+to occur by both passive diffusion and through specific channels.
+In the last decades, compelling evidence for a more prominent role
+of carrier-mediated platinum drug uptake has rapidly accumulated in
+the literature.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Inside the cells, the
+second step of the mechanism of action is aquation, which allows the
+activation of platinum drugs, thanks to the replacement of relatively
+labile ligands prone to nucleophilic substitution, such as chloride
+in cisplatin. The successive step of the mechanism of action involves
+the interaction between the active aquated complex with DNA. The cytotoxic
+activity of cisplatin is ascribed to its interaction with nucleophilic
+sites of purine bases in DNA, mainly the N7-site of guanine, to form
+inter- and intrastrand crosslinks<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> inducing
+structural distortion. Following DNA damage, cells might repair themselves
+and then continue through the cell cycle, but if they are not able
+to repair the damage, cells will proceed to apoptosis.<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> As widely demonstrated, the main species responsible for the DNA
+binding, in cisplatin, is the mono-aquated complex, <italic>cis</italic>[Pt-Cl(NH<sub>3</sub>)<sub>2</sub>(H<sub>2</sub>O)]<sup>+</sup>,
+while the reaction of the di-aquated species, which seems to be kinetically
+controlled, gives only a minor contribution to the binding between
+DNA and the platinum drug.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> It is worth mentioning,
+however, that some studies describe the di-aquated form of the drug
+as the major DNA-binding species because of the double charge and
+the better H-bond-donating capacity.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> With
+the aim of improving the cisplatin properties by the kinetic control
+of the aquation step, different complexes with ligands less prone
+to be displaced by water were synthesized such as carboplatin and
+oxaliplatin. Both of them differ from cisplatin in that they contain
+dicarboxylate chelate-leaving ligands.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Such bidentate ligands, when hydrolysis takes place, are displaced
+in a stepwise fashion by the water nucleophile. In the case of carboplatin,
+the first hydrolysis causing the opening of the malonate ring is a
+very slow process compared to chloride substitution in cisplatin and
+also oxaliplatin, very likely due to the steric hindrance of the ligand.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> As a result, a monodentate malonate ligand is
+obtained, and the kinetic behavior depends on the acid conditions
+influencing the degree of protonation of the Pt(II) complex. The rate
+of labile ligand substitution reaction in Pt(II) complexes depends
+not only on the identity of the leaving ligands but also on the nature
+of the diamine ligands <italic>trans</italic> to them.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> On the basis of this assumption, in this work,
+we evaluated the relationship that should exist between the capability
+of internalization, aquation, and DNA binding, and the cytotoxic profile
+of two anionic Pt(II) complexes, previously synthetized by our research
+group,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> bearing two different chelate-leaving
+ligands, alizarine or tetrabromocatechol. Both these ligands allow
+the formation of ionic Pt(II) complexes and possess the same chelating
+O^O fragment, derived from 1,2-dihydroxybenzene. While alizarine possesses
+an extended aromatic system, the electronegative bromine atoms placed
+onto the catecholate ligand insures localization of the withdrawing
+electronic effect onto the chelated 1,2-dihydroxybenzene ring. Noteworthily,
+the cytotoxic activity of the two complexes is highly different. The
+alizarine derivative showed high response against human triple-negative
+breast cancer cell line MDA-MB-231, while the catecholate parent is
+rather inactive.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> To explain such disparity
+in behavior, a joint computational and experimental investigation
+was carried out. Quantum mechanical density functional theory (DFT)
+computations, supported by the detection of photophysical properties
+of the selected complexes, were employed to examine aquation steps,
+guanine binding, and deactivation interactions with model sulfur-containing
+molecules.</p></sec><sec id="sec2"><title>Methods</title><sec id="sec2.1"><title>Computational Details</title><p>All the calculations were performed
+using DFT with Gaussian16 package.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Solvent
+effects were included with an implicit model, the integral equation
+formalism variant of the polarizable continuum model (IEFPCM),<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> using a dielectric constant of 78.4 to mimic
+the water environment. The hybrid B3LYP exchange and correlation functional,<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> composed of Grimme&#x02019;s dispersion correction (D3),<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> was used for the optimization calculations in
+conjunction with the Pople double-&#x003b6; basis set 6-31+G* for the
+oxygen atoms and 6-31G** for C, N, and H atoms, while the effective
+core potentials (ecp) SDD<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and LANL2DZ<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> were used for Pt and Br atoms, respectively, together with the split
+valence basis set. Local minima and transition states were identified
+by the number of imaginary vibrational frequencies (0 or 1, respectively).
+These calculations have been also used for obtaining Gibbs free energies
+at 298 K and 1 atm from total energies, including zero-point, thermal,
+and solvent corrections.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> Intrinsic reaction
+coordinate analysis was used to carefully check that each transition
+state is properly connected to the correct minima.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup></p><p>Final energies were obtained by means of single-point calculations
+employing the triple-&#x003b6; basis set 6-311 + G** for all the atoms,
+except Pt and Br, for which the ecp def2-QZVP was employed in conjunction
+with the split valence basis set.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup></p><p>The
+natural bond order (NBO) analysis<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> has been performed
+by using Gaussian16 software at the same level
+of theory used for the optimizations.</p><p>UV&#x02013;vis spectra
+were achieved, within the nonequilibrium
+time-dependent (TD) DFT approach,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> as
+vertical electronic excitations on the ground-state structure, using
+the same protocol used for the optimization calculations.</p><p>The
+theoretical estimation of the Log<italic>P</italic><sub>ow</sub> parameter
+for the complexes under investigation was obtained using
+the SwissADME tool, which calculates adsorption, distribution, metabolism,
+and excretion (ADME) parameters, pharmacokinetics, bioavailability,
+and drug-like behavior.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup></p></sec><sec id="sec2.2"><title>Reagents</title><p>High-glucose Dulbecco&#x02019;s modified Eagle
+medium (HG-DMEM), trypsin&#x02013;EDTA 0.05%, <sc>l</sc>-glutamine
+200 mM, 10,000 U penicillin/10 mg mL<sup>&#x02013;1</sup> streptomycin
+solution, plates, and Petri dishes were supplied by EuroClone, and
+fetal bovine serum (FBS) was provided by Sigma-Aldrich. The compounds
+were dissolved in dimethyl sulfoxide (DMSO, Sigma-Aldrich) as 80 mM
+stock solutions, freshly prepared each time. The DMSO percentage tested
+by the cells did not exceed 0.25% v/v.</p></sec><sec id="sec2.3"><title>Absorption Spectra</title><p>Spectrofluorimetric-grade solvents
+were used for the photophysical investigations. The buffer solution
+(pH 7.4) was prepared by dissolving one phosphate buffer saline table
+in 200 mL of water. Compounds <bold>1</bold>&#x02013;<bold>3</bold> were dissolved in DMSO and then diluted to reach a final concentration
+of 1 &#x000d7; 10<sup>&#x02013;5</sup> M in DMSO as well as DMSO/buffer
+0.5% v/v. A PerkinElmer Lambda 900 spectrophotometer was employed
+to obtain the UV&#x02013;visible absorption spectra, using 10 mm path-length
+quartz cuvettes.</p></sec><sec id="sec2.4"><title>Cell Culture</title><p>Human triple-negative
+breast cancer cell
+line, MDA-MB-231, was maintained in HG-DMEM supplemented with 10%
+v/v FBS, 1% v/v <sc>l</sc>-glutamine, and penicillin/streptomycin
+and subcultured at the ratio 1:4 upon reaching 90% of confluence.
+The cells were incubated in a humidified atmosphere at 37 &#x000b0;C
+and 5% CO<sub>2</sub>.</p></sec><sec id="sec2.5"><title>Evaluation of DNA-Bound Pt(II)</title><p>First,
+200,000 cells/well
+were seeded in the complete medium in a 12-well tray. The day after,
+the old media were discarded, and the cells were challenged with compound-containing
+media for 6 h (CisPt: 30 and 60 &#x003bc;M; <bold>1</bold>: 25 and 50
+&#x003bc;M; <bold>2</bold>: 1 and 2 &#x003bc;M; <bold>3</bold>: 50 and
+100 &#x003bc;M). An equal percentage of DMSO was added to control samples.
+The cells were thus washed two times with cold phosphate buffered
+saline (PBS) and digested with 700 &#x003bc;L of a homemade digest buffer
+(Tris 50 mM pH 8, NaCl 100 mM, EDTA 100 mM, and SDS 1%). The suspensions
+were moved to vials, and 400 &#x003bc;L of NaCl-saturated solution was
+added to them. The suspensions were thus vortexed and centrifuged
+at 12,000 rpm for 5 min. The supernatants were retrieved, added with
+500 &#x003bc;L of 2-propanol, vortexed, and centrifuged at 12,000 rpm
+for 15 min to let DNA precipitate. DNA pellets were resuspended in
+1 mL of ethanol 70%, vortexed, and centrifuged at 12,000 for 4 min.
+DNA pellets have been resuspended in 100 &#x003bc;L of homemade TE buffer
+(Tris 10 mM pH 8, EDTA 0.1 mM) and incubated at 37 &#x000b0;C for 10
+min. DNA-bound Pt(II) was quantified through inductively coupled plasma-mass
+spectrometry (ICP-MS), and data were normalized to DNA content quantified
+with NanoDrop Site.</p></sec><sec id="sec2.6"><title>Evaluation of the Intracellular Pt(II) Content</title><p>First,
+200,000 cells/well were seeded in complete medium in a 12-well tray.
+The day after, the old media were discarded, and the cells treated
+with compound-containing media for 6 h at the following concentrations:
+cisplatin: 30 and 60 &#x003bc;M, <bold>1</bold>: 25 and 50 &#x003bc;M, <bold>2</bold>: 1 and 2 &#x003bc;M, <bold>3</bold>: 50 and 100 &#x003bc;M.
+These concentrations correspond to IC<sub>50</sub> and IC<sub>50</sub>/2 of each compound according to our previous work aimed at analyzing
+the cytotoxic performance of these Pt(II) complexes in the MDA.MB.231
+cell line.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Accordingly, the cisplatin
+IC<sub>50</sub> on the same cell line was reported by our group in
+a previous study.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> An equal percentage
+of DMSO was added to control samples. Cells were thus washed two times
+with cold PBS and lysed with 200 &#x003bc;L of a homemade lysis buffer
+(Tris 50 mM pH 7, NaCl 150 mM, NP40 1% v/v, protease, and phosphatase
+inhibitors 1% v/v) for 30 min at 4 &#x000b0;C. The intracellular Pt(II)
+amount was quantified through ICP-MS (BRUKER aurora M90 ICP-MS, MA,
+USA), and data were normalized to the total protein content evaluated
+via bicinchoninic acid assay.</p></sec><sec id="sec2.7"><title>DNA Binding Experiment:
+UV&#x02013;vis Absorption Evaluation</title><p>In a quartz cuvette (path
+length 1 cm), the UV&#x02013;vis spectra
+were recorded of a PBS buffer solution (pH 7.4)-containing complex
+(<bold>1</bold>, <bold>2</bold>, or <bold>3</bold>, 50 &#x003bc;M, 0.5%
+DMF). The UV&#x02013;vis absorption spectra were successively recorded
+following each addition of aliquots of Calf Thymus DNA (CT-DNA, 50
+&#x003bc;M) after an equilibration time of 1 h.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p></sec><sec id="sec2.8"><title>DNA-Binding Experiment: Fluorescence DNA Competitive Study</title><p>To a solution in PBS buffer containing the system CT-DNA (10 &#x003bc;M)
+with ethidium bromide (EtBr, 5 &#x003bc;M), increasing amounts of complex
+(<bold>1</bold>, <bold>2</bold>, or <bold>3</bold>, 5 &#x003bc;M, in
+1% v/v DMF) were added, and the displacement by the complex of EtBr
+from the system CT-DNA/EtBr was evaluated by measuring the decrease
+in the intensity of the recorded emission.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p></sec><sec id="sec2.9"><title>Experimental Measurement of Log<italic>P</italic><sub>ow</sub></title><p>Reverse phase high performance liquid chromatography (RP-HPLC)
+analysis was performed to correlate the hydrophobicity of the complexes
+with their retention time. The chromatograms were analyzed using reversed-phase
+HPLC column (Partisil C18-ODS), at 25 &#x000b0;C, using KI as the internal
+standard and as the mobile phase water/methanol in ratio 80/20 in
+the presence of 15 mM HCOOH (flow rate: 1 mL/min, &#x003bb; = 210 nm).
+The calibration curve was realized in comparison with reference compounds
+(cisplatin, carboplatin, and oxaliplatin).<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup></p></sec></sec><sec id="sec3"><title>Results and Discussion</title><p>Part of the research activities
+carried out by some of us has
+been recently focused on the synthesis and properties of anionic organometallic
+complexes.<sup><xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> In particular, the theranostic activity of two series
+of anionic Pt(II) complexes of general formula NBu<sub>4</sub>[(C^N)Pt(O^O)],
+characterized by the presence of a cyclometalated (C^N) ligand (2-phenylpyridine,
+H(PhPy), 2-thienylpyridine, H(ThPy), or 2-benzo[<italic>h</italic>]quinoline, H(Bzq)), and by two different (O^O) chelate ligands,
+alizarine H<sub>2</sub>(Aliz) or tetrabromocatechol H<sub>2</sub>(BrCat),
+was reported previously.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Noteworthy,
+in our previous study,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> the complex named <bold>1,</bold> bearing (PhPy)<sup>&#x02212;</sup> and (Aliz)<sup>2&#x02013;</sup> ligands, showed a significant cytotoxic activity with IC<sub>50</sub> 1.9 &#x000b1; 1.6 &#x003bc;M against human triple-negative breast cancer
+cell line MDA-MB-231. Complex <bold>1</bold> cytotoxic activity is
+considerably higher than that of the other synthesized complexes,
+especially its analogue <bold>2</bold> in which (BrCat)<sup>2&#x02013;</sup> is the (O^O) chelate ligand (IC<sub>50</sub> 52.8 &#x000b1; 3.9 &#x003bc;M)
+and complex named <bold>3</bold>, where the (C^N) ligand is substituted
+by two ammonia molecules (IC<sub>50</sub> 126.9 &#x000b1; 2.7 &#x003bc;M)
+(<xref rid="cht1" ref-type="chart">Chart <xref rid="cht1" ref-type="chart">1</xref></xref>).<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Such significant differences in terms of cytotoxicity,
+considering that <bold>1</bold> and <bold>2</bold> possess identical
+(C^N) ligands, point out that the (O^O) chelated ligand must play
+a key role as the leaving group and, accordingly, it was herein investigated
+in depth. On the other hand, complex <bold>3</bold> was considered
+because of the parent of the cisplatin archetype, and it was taken
+as a reference compound along with cisplatin. The comparison between
+complex <bold>1</bold> and <bold>3</bold> will allow to probe the
+effect of the (C^N) ligand with respect to two ammonia ligands onto
+the aquation processes.</p><fig id="cht1" position="float"><label>Chart 1</label><caption><title>Chemical Structure of Cyclometalated Anionic
+Pt(II) Complexes <bold>1</bold>&#x02013;<bold>3</bold> and Cisplatin</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0002" id="gr1" position="float"/></fig></sec><sec id="sec4"><title>Aquation Reaction, Guanine Binding, and Interaction
+with <italic>N</italic>-Acetyl Methionine</title><p>Aiming at understanding
+which is the origin of the difference in
+cytotoxic profiles of the aforementioned complexes (<xref rid="cht1" ref-type="chart">Chart <xref rid="cht1" ref-type="chart">1</xref></xref>), computational studies were
+first exploited in order to explore the key steps
+of the mechanism of action of Pt(II) anticancer drugs, that is, ligand
+substitution by water, leading to the formation of the corresponding
+aqua-complexes and the subsequent binding to nuclear DNA, whose structure
+is thus distorted. Calculations were carried out for anionic complexes <bold>1</bold> and <bold>2</bold> and for the neutral one <bold>3</bold>. The calculated energy profiles illustrating both aquation and guanine-modeled
+DNA platination are shown in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref> and <xref rid="fig2" ref-type="fig">2</xref>, respectively. The optimized
+structures of the intercepted stationary points for aquation steps
+are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S1</ext-link> of the Supporting
+Information, while those for guanine binding are also included in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Hydrolysis reaction
+scheme. Free energy profiles for the aquation
+reaction in water solvent of (B) <bold>1<sub>cis</sub></bold> (solid
+orange line), (C) <bold>1<sub>trans</sub></bold> (dashed orange line),
+(D) <bold>2</bold> (light blue line), and (E) <bold>3</bold> (solid
+gray line) causing the O1 detachment. For complex <bold>3</bold> also
+the O2 detachment (dotted gray line) is depicted. ADD, starting adduct;
+TS1, transition state for the first hydrolysis; INT, mono-aquo Pt(II)
+complex; TS2, transition state for the second hydrolysis; PROD, di-aquo
+Pt(II) complex.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0003" id="gr2" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Free energy profiles describing the guanine
+attack in the water
+solvent for the displacement of water to monoaquoated forms, INT,
+of (A) anionic <bold>2</bold> (blue line) and (B) neutral <bold>3</bold> (purple line) complexes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0004" id="gr3" position="float"/></fig><p>As widely reported throughout in the literature, the hydrolysis
+reaction of square-planar d<sup>8</sup> complexes is realized according
+to an associative mechanism in which the displacement of the leaving
+group by a water molecule passes through the formation of a pseudo-trigonal
+bipyramid transition state,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> following
+the scheme included in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, drawn for the two anionic complexes <bold>1</bold> and <bold>2</bold>. As explained in our previous studies,<sup><xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> to take into
+consideration the explicit solvent environment, in the starting adduct
+(ADD), the Pt(II) complexes were surrounded by six solvent molecules,
+which establish a network of hydrogen bonds with the oxygen atoms
+of the (O^O) leaving group.</p><p>The first hydrolysis product, INT,
+is obtained with the detachment
+of an oxygen atom of both (BrCat)<sup>2&#x02013;</sup> or (Aliz)<sup>2&#x02013;</sup> ligands through the five-coordinated transition state
+TS1. The final di-aquo complex, PROD, is formed by the definitive
+release of the (O^O) ligand and the concerted water molecule entrance
+in the first coordination shell of the Pt(II) center overcoming the
+energy barrier corresponding to a penta-coordinated transition state
+(TS2). Because of the asymmetric structure of the (C^N) PhPy ligand,
+the water attack and the detachment of the oxygen atom of the leaving
+ligand can occur in the <italic>trans</italic> or in <italic>cis</italic> position with respect to the C-coordinated atom of PhPy. Preliminary
+calculations performed on <bold>1</bold> evidenced that because of
+the trans effect, such attack takes place preferentially in the <italic>trans</italic> position to the carbon atom of the PhPy ligand. Thus,
+only the mechanism for the displacement of the O1 atom by water is
+reported for the investigated anionic complexes.</p><p>In the case
+of complex <bold>1</bold>, given the asymmetry even
+of the (Aliz)<sup>2&#x02013;</sup> leaving ligand, two geometric isomers
+were taken into consideration, in which the quinone part of (Aliz)<sup>2&#x02013;</sup> lies on the same side, <bold>1<sub>cis</sub></bold>, or on the opposite side, <bold>1<sub>trans</sub></bold>, of the
+N-coordinated atom of the (C^N) ligand (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S2</ext-link> of the Supporting Information). The calculated comparable
+stabilities of the two isomers (&#x00394;<italic>E</italic> = 0.6 kcal
+mol<sup>&#x02013;1</sup>) fit with the <sup>1</sup>H-NMR evidence of
+an approximately 1:1 cis/trans ratio.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> The first hydrolysis of <bold>1<sub>cis</sub></bold> occurs overcoming
+a low-energy barrier of 12.1 kcal mol<sup>&#x02013;1</sup>, while 18.9
+kcal mol<sup>&#x02013;1</sup> is required for the aquation of <bold>1<sub>trans</sub></bold> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B,C, respectively). The reaction is endergonic by 10.2
+and 15.2 kcal mol<sup>&#x02013;1</sup> for <bold>1<sub>cis</sub></bold> and <bold>1<sub>trans</sub></bold>, respectively. The second hydrolysis
+requires 21.4 and 25.0 kcal mol<sup>&#x02013;1</sup> to occur in <bold>1<sub>cis</sub></bold> and <bold>1<sub>trans</sub></bold>, respectively.
+In both cases, the whole hydrolysis reaction is endergonic by 15.7
+kcal mol<sup>&#x02013;1</sup> for the <italic>cis</italic> isomer and
+20.9 kcal mol<sup>&#x02013;1</sup> for the <italic>trans</italic> one.
+From these data, it emerges that both isomers can undergo the (O^O)
+ligand substitution by two water molecules, even if both hydrolysis
+steps are easier to occur on the <italic>cis</italic> than the <italic>trans</italic> isomer, from both kinetic and thermodynamic points
+of view. Indeed, as the positions of the two oxygen atoms are interchanged
+in the two isomers, the different charge distribution, due to the
+asymmetric nature of the alizarine ligand, is interchanged as well.
+The oxygen atom on the side of the quinone moiety, that is, the O1
+atom in the <italic>cis</italic> isomer, is less nucleophilic, as
+shown by the NBO analysis<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> and, then, more prone
+to be displaced by water. Analogous to the cisplatin-leading compound,<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> the second hydrolysis of <bold>1</bold>, in both isomers, represents
+the rate-determining step of the whole process. Compared to cisplatin
+for which the first and second hydrolysis reactions are reported to
+be endergonic (by 3.6 and 4.2 kcal mol<sup>&#x02013;1</sup>, respectively)
+and the estimated energy barriers range from 19 to 23.3 kcal mol<sup>&#x02013;1</sup>,<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref43">43</xref>&#x02212;<xref ref-type="bibr" rid="ref45">45</xref></sup> computations
+confirm the aquation viability for complex <bold>1</bold>.</p><p>Despite
+the different identity of the (O^O) ligand, a similar behavior
+was found for complex <bold>2</bold> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D). Indeed, the second water substitution
+remains the slowest step of the whole reaction and occurs overcoming
+an energy barrier of 24.3 kcal mol<sup>&#x02013;1</sup>, and both the
+first and second hydrolysis steps are endergonic of 11.4 and 21.4
+kcal mol<sup>&#x02013;1</sup>, respectively, likewise the energy expense
+required for the aquation reaction of <bold>1<sub>trans</sub></bold>.</p><p>A remarkable difference, instead, was found for the neutral
+complex <bold>3</bold>. In this case, both being ancillary ligand
+ammonia molecules,
+no trans effect could be hypothesized, and both water attacks on the
+oxygen atoms named O1 and O2 were taken into consideration. Then,
+both first detachments of O1 or O2 allowing the entrance of a water
+molecule were considered equally viable. As it is evident in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>E, the O1 detachment
+(solid gray line) is the most favored one from both kinetic and thermodynamic
+points of view, and the water attack from the side of O2 seems to
+be hampered because no stationary points describing the second hydrolysis
+step were located, despite the numerous attempts. The substantial
+difference with respect to the anionic complexes relies on the involved
+energy barrier for the first hydrolysis (26.8 kcal mol<sup>&#x02013;1</sup>), that is higher than those computed for both <bold>1</bold> and <bold>2</bold>, and represents the rate-limiting step of the whole process
+in the case of <bold>3</bold>. The (Aliz)<sup>2&#x02013;</sup> ligand
+displacement by water definitively takes place by overcoming an energy
+barrier of 25.0 kcal mol<sup>&#x02013;1</sup>, and the reaction product
+(PROD) lies 16.2 kcal mol<sup>&#x02013;1</sup> above the zero reference
+energy of the initial adduct (ADD).</p><p>Therefore, looking at the
+energy barriers computed for the complexes
+under examination as well as the endergonicity of the whole hydrolysis
+reaction, it clearly appears that the aquation rates are comparable
+to each other with only a slightly higher reactivity of <bold>1<sub>cis</sub></bold>.</p><p>Aquation reaction is propaedeutic to the
+subsequent DNA platination
+step in the mechanism of action of anticancer Pt(II) complexes achieved
+through the attack of the aquated complex to DNA nucleobases. Computational
+studies highlighted that the N7 site of the guanine nucleobase represents
+the preferred site of attack by platinum-based drugs, leading to DNA
+distortion.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Thus, the guanine attack
+to both mono-aquo and di-aquo complexes was investigated. It is worthy
+of note that the di-aquo complex obtained from both (BrCat)<sup>2&#x02013;</sup> or (Aliz)<sup>2&#x02013;</sup> displacement is the same, [(PhPy)Pt(H<sub>2</sub>O)<sub>2</sub>]<sup>+</sup>, while that coming from complex <bold>3</bold> di-aquation is the same as that obtained from cisplatin
+hydrolysis, [(NH<sub>3</sub>)<sub>2</sub>Pt(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup>. Nevertheless, for the sake of comparison, also the
+latter case was taken into consideration.</p><p>Guanine attack to
+displace water from the mono-aquated form of
+complex <bold>3</bold> was examined only for the intermediate that
+was calculated to be more kinetically accessible. The results of this
+exploration are reported in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> for both <bold>2</bold> and <bold>3</bold> complexes,
+whereas all the efforts carried out to locate the stationary points
+along the corresponding path for complex <bold>1</bold> were unsuccessful.
+As it is evident in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, the substitution reaction in the mono-aquated complex <bold>2</bold> is very favorable from both kinetic and thermodynamic points
+of view. Indeed, only 4.9 kcal mol<sup>&#x02013;1</sup> is required
+to overcome the activation energy barrier, and the reaction is exergonic
+by 10.8 kcal mol<sup>&#x02013;1</sup>.</p><p>On the contrary, the height
+of the energy barrier is 19.3 kcal
+mol<sup>&#x02013;1</sup> when the attack of guanine to the mono-aquated
+form of complex <bold>3</bold> is taken into consideration, whereas
+the thermodynamics continues to be favorable, the reaction being exergonic
+by 13.3 kcal mol<sup>&#x02013;1</sup>. This computationally evidenced
+difference in reactivity of mono-aquo complexes might be one of the
+factors useful to rationalize the observed different toxicities.</p><p>Upon examining the water displacement by guanine from the di-aquo
+complex, what reported above for the aquation mechanism was taken
+into consideration, and given the asymmetry of the PhPy ligand, the
+attack on both <italic>cis</italic> and <italic>trans</italic> positions
+with respect to the C-coordinated atom of the (C^N) ligand was investigated.
+Water detachment from the platinum center and guanine binding to it
+occur, once again, following a S<sub>N</sub>2 associative mechanism
+going through a penta-coordinated transition state TS<sub>Gua</sub>. The first interaction adduct ADD<sub>Gua</sub> is characterized
+by a guanine orientation that can be preparatory to both attacks.
+However, the attack of guanine from the same side of the N-coordinated
+atom requires only 6.4 kcal mol<sup>&#x02013;1</sup> to take place
+(solid green line in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A), and it is energetically favored with respect to the attack
+from the other side (10.0 kcal mol<sup>&#x02013;1</sup>, dashed green
+line in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A).
+The displacement reaction is exergonic by 10.6 kcal mol<sup>&#x02013;1</sup> in the former case and by 14.5 kcal mol<sup>&#x02013;1</sup> in the
+latter. On the other hand, guanine displacement by water in the [(NH<sub>3</sub>)<sub>2</sub>Pt(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup> complex
+occurs overcoming an energy barrier higher than those just discussed
+(11.8 kcal mol<sup>&#x02013;1</sup>), whereas the product PROD<sub>Gua</sub> is stabilized by 15.2 kcal mol<sup>&#x02013;1</sup> with
+respect to the reference adduct.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Free energy profiles describing the guanine
+attack in the water
+solvent to (A) di-aquo complex [(PhPy)Pt(H<sub>2</sub>O)<sub>2</sub>]<sup>+</sup> for the displacement of water in the cis (solid green
+line) or in the trans position (dashed green line) with respect to
+the N-coordinated atom and (B) di-aquo complex [(NH<sub>3</sub>)<sub>2</sub>Pt(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0005" id="gr4" position="float"/></fig><p>Upon searching for a difference in behavior justifying the
+observed
+different cytotoxicity, given the soft nature of platinum, the possibility
+that the complexes can be deactivated by the interaction with sulfur-containing
+biological molecules was taken into account. <italic>N</italic>-acetyl
+methionine (NAM) was used as a model to explore the tendency of the
+investigated complexes to undergo the attack of sulfur-containing
+biological residues, and the resultant free energy profiles, describing
+the interaction of <bold>1</bold>, <bold>2</bold>, and <bold>3</bold> with NAM, are provided in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Free energy profiles describing the NAM attack to (A) <bold>1<sub>cis</sub></bold> (solid orange line), (B) <bold>1<sub>trans</sub></bold> (dashed orange line), (C) <bold>2</bold> (light blue line),
+and (D) <bold>3</bold> (gray line).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0006" id="gr5" position="float"/></fig><p>On the basis of the outcomes of the investigations reported above,
+showing that the trans position to the C-coordinated atom of the (C^N)
+ligand is the preferred attack of both water and guanine molecules,
+the same site was taken into consideration for the substitution reaction
+of an oxygen atom of the (O^O) ligand by NAM. As usual, the reaction
+starts with the initial interaction of the platinum complex and the
+approaching NAM ligand forming the first adduct (ADD<sub>NAM</sub>) and proceeds through a pseudo-trigonal bipyramidal transition state
+(TS<sub>NAM</sub>). In the formed product (PROD<sub>NAM</sub>), the
+(O^O) ligand remains mono-coordinated to the metal center, and NAM
+occupies the coordination site in trans to the C-coordinated atom.
+Even in this case, the anionic complex <bold>1</bold>, for both <italic>cis</italic> and <italic>trans</italic> isomers, and <bold>2</bold> do not show substantial differences. The attack of NAM requires
+18.7 and 18.0 kcal mol<sup>&#x02013;1</sup> to take place in <bold>1<sub>cis</sub></bold> and <bold>1<sub>trans</sub></bold>, respectively,
+compared to an energy barrier of 19.2 kcal mol<sup>&#x02013;1</sup> computed in the case of <bold>2</bold>. In addition, the detachment
+of one arm of the (O^O) ligand in favor of NAM coordination is calculated
+to be endergonic in all cases, being 12 kcal mol<sup>&#x02013;1</sup> for both <bold>1</bold> isomers and 13.4 kcal mol<sup>&#x02013;1</sup> for <bold>2</bold>. Also, in the case of the neutral complex <bold>3,</bold> formation of the NAM substitution product causes a similar
+destabilization by 12.9 kcal mol<sup>&#x02013;1</sup> even if, from
+a kinetic point of view, the substitution reaction is hard to occur
+(&#x00394;<italic>G</italic><sup>&#x02021;</sup> = 30.3 kcal mol<sup>&#x02013;1</sup>). <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> summarizes the energies involved in the activation steps
+that are aquation and guanine binding, and a plausible deactivation
+process here explored, that is the interaction with a model sulfur-containing
+residue like NAM.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Calculated Activation (&#x00394;<italic>G</italic><sup>&#x02021;</sup>) and Reaction (&#x00394;<italic>G</italic><sub>rxn</sub>) Free Energies (kcal mol<sup>&#x02013;1</sup>) in Water
+Describing the First and Second Aquation Processes, Guanine, and NAM
+Interactions</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center">1st
+aquation<hr/></th><th colspan="2" align="center">2nd
+aquation<hr/></th><th colspan="4" align="center">guanine
+interaction<hr/></th><th colspan="2" align="center">NAM
+interaction<hr/></th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center">mono-aquo</th><th colspan="2" align="center">di-aquo</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sup>&#x02021;</sup></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sub>rxn</sub></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sup>&#x02021;</sup></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sub>rxn</sub></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sup>&#x02021;</sup></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sub>rxn</sub></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sup>&#x02021;</sup></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sub>rxn</sub></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sup>&#x02021;</sup></th><th style="border:none;" align="center">&#x00394;<italic>G</italic><sub>rxn</sub></th></tr></thead><tbody><tr><td style="border:none;" align="left"><bold>1<sub>cis</sub></bold></td><td style="border:none;" align="left">12.2</td><td style="border:none;" align="left">10.2</td><td style="border:none;" align="left">21.4</td><td style="border:none;" align="left">15.7</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">6.4</td><td style="border:none;" align="left">&#x02013;10.6</td><td style="border:none;" align="left">18.7</td><td style="border:none;" align="left">12.0</td></tr><tr><td style="border:none;" align="left"><bold>1<sub>trans</sub></bold></td><td style="border:none;" align="left">18.9</td><td style="border:none;" align="left">15.2</td><td style="border:none;" align="left">25.0</td><td style="border:none;" align="left">20.9</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x0201c;</td><td style="border:none;" align="left">&#x0201c;</td><td style="border:none;" align="left">18.0</td><td style="border:none;" align="left">12.0</td></tr><tr><td style="border:none;" align="left"><bold>2</bold></td><td style="border:none;" align="left">19.3</td><td style="border:none;" align="left">11.4</td><td style="border:none;" align="left">24.3</td><td style="border:none;" align="left">21.4</td><td style="border:none;" align="left">4.9</td><td style="border:none;" align="left">&#x02013;10.8</td><td style="border:none;" align="left">&#x0201c;</td><td style="border:none;" align="left">&#x0201c;</td><td style="border:none;" align="left">19.2</td><td style="border:none;" align="left">13.4</td></tr><tr><td style="border:none;" align="left"><bold>3</bold></td><td style="border:none;" align="left">26.8</td><td style="border:none;" align="left">11.4</td><td style="border:none;" align="left">25.0</td><td style="border:none;" align="left">16.2</td><td style="border:none;" align="left">19.3</td><td style="border:none;" align="left">&#x02013;13.3</td><td style="border:none;" align="left">11.8</td><td style="border:none;" align="left">&#x02013;15.2</td><td style="border:none;" align="left">30.3</td><td style="border:none;" align="left">12.9</td></tr></tbody></table></table-wrap><p>At a first
+glance, from the data reported in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, it appears that the <italic>cis</italic> isomer of complex <bold>1</bold> is more prone to aquation and the
+difference is more evident for the first aquation reaction. On the
+other side, the slowest step results to be the second hydrolysis for
+both complexes <bold>2</bold> and <bold>1</bold>, in its <italic>cis</italic> and <italic>trans</italic> conformations (21.4 and 25.0 kcal mol<sup>&#x02013;1</sup> for <bold>1<sub>cis</sub></bold> and <bold>1<sub>trans</sub></bold>, respectively, vs 24.3 kcal mol<sup>&#x02013;1</sup> for <bold>2</bold>). The high activation energy calculated for the
+hydrolysis (26.8 kcal mol<sup>&#x02013;1</sup>) of complex <bold>3</bold> could explain the very high IC<sub>50</sub> measured for such complex.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Guanine binding is easily accessible, as expected,
+for all di-aquo complexes even if a difference in the barrier height
+exists between the aquated form of <bold>1</bold> and <bold>2</bold> complexes and that of complex <bold>3</bold>. Furthemore, from the
+reported data, it emerges that, in addition to a similar propensity
+of <bold>1</bold> and <bold>2</bold> to undergo aquation and, then,
+guanine attack, even a possible deactivation by the attack of sulfur-containing
+species seems equally probable.</p></sec><sec id="sec5"><title>Optical Properties</title><p>The photophysical properties of <bold>1</bold>&#x02013;<bold>3</bold> in DMSO have been previously discussed.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> In order to investigate the tendency of the Pt(II) complexes to
+undergo hydrolysis reactions giving the corresponding aqua-complexes,
+their stability in aqueous solution was monitored spectrophotometrically,
+acquiring the absorption profiles over time (<italic>t</italic> =
+0, 3, 6, and 24 h). In particular, absorption spectra were registered
+by dissolving <bold>1</bold>&#x02013;<bold>3</bold> in DMSO then diluted
+in buffer solution (DMSO 0.5% v/v). Moreover, in order to follow a
+possible aquation reaction with a slower kinetics, absorption spectra
+were recorded dissolving <bold>1&#x02013;3</bold> in DMSO containing
+a low water content, by using a nonanhydrous spectroscopic-grade solvent.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A shows
+the absorption spectra in DMSO of the anionic compound bearing the
+(Aliz)<sup>2&#x02013;</sup> ligand. While in the higher energy regions
+of the UV&#x02013;visible spectrum, no significant profile changes
+were observed, low-energy absorption bands between 600 and 650 nm&#x02014;attributed
+to metal&#x02013;ligand charge-transfer (MLCT) transitions, predominantly
+involving the alizarine fragment<sup><xref ref-type="bibr" rid="ref13">13</xref></sup>&#x02014;gradually
+decrease over time, pointing out a possible displacement of the chelate
+ligand. In DMSO/buffer solution (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>D), the absorption spectrum of <bold>1</bold> is markedly blue-shifted with respect to the spectrum recorded in
+DMSO and does not show noteworthy changes in the 0&#x02013;24 h time
+range, plausibly suggesting a rapid and immediate aquation reaction.
+Furthermore, the slight increase of the 375 nm band suggests that
+this spectral feature may be typical of the aquated species.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Absorption
+spectra over time (<italic>t</italic> = 0, 3, 6, and
+24 h) of Pt(II) complexes (A) <bold>1</bold>, (B) <bold>2</bold>,
+and (C) <bold>3</bold> in DMSO and of (D) <bold>1</bold>, (E) <bold>2</bold>, and (F) <bold>3</bold> in buffer solution containing 0.5%
+v/v DMSO.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0007" id="gr6" position="float"/></fig><p>The electronic spectra in DMSO
+and in DMSO/buffer solution of the
+anionic compound bearing the (BrCat)<sup>2&#x02013;</sup> ligand are
+shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B,
+E, respectively. In particular, the absorption spectrum of <bold>2</bold> in the DMSO solution appears stable over time, with a slight decrease,
+mostly evident after 24 h, of the broad low-energy band between 380
+and 600 nm. The latter was attributed to an MLCT transition involving
+the catecholate fragment,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> indicative
+of, as in the previous case, a possible detachment of the chelate
+ligand but with a slower kinetics with respect to that observed for
+the anionic compound bearing the alizarine leaving group. The spectral
+profile of <bold>2</bold> in aqueous medium (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>E) shows evident changes compared to that
+in DMSO solution. While the ligand-centered (LC) transitions localized
+on the cyclometalated ligand (between 280 and 350 nm) appear unchanged,
+a new pronounced peak at 379 nm and a considerable decrease of the
+charge-transfer band were observed. These features suggest that in
+aqueous solution, the displacement of the catecholate ligand occurs,
+whereas the new band could be due to the mono or di-aquated compound.
+By observing the absorption spectrum of <bold>2</bold> in aqueous
+solution over time, a reduction in the optical density was observed
+for the whole spectral range, plausibly due to a poor solubility of
+the compound in the aqueous medium.</p><p>Finally, the absorption
+spectra of <bold>3</bold> are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C, F. At <italic>t</italic> = 0, the absorption
+spectrum of the neutral compound in
+DMSO (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C) displays
+a weak peak at 357 nm and a broad band centered at 555 nm ascribed,
+as for the relative compound <bold>1,</bold> to a charge-transfer
+transition from the metal center to the alizarine ligand. After 3
+and then 6 and 24 h, the spectral shape changes, showing a progressive
+decrease of the band at 357 nm as well as at 555 nm, whereas a shoulder
+at 440 nm becomes gradually much more pronounced. Also in this case,
+the decrease in the MLCT transition suggests a potential detachment
+of the leaving ligand, whereas the other spectral variations could
+be due to the simultaneous presence in solution of <bold>3</bold>,
+its aquated form, and the free alizarine. Going from the DMSO to the
+DMSO/buffer solution (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>F), the absorption spectra do not show any change over time,
+except for a slight decrease in the optical density probably resulting
+from the poor solubility of the neutral compound in aqueous solution.
+Therefore, in order to confirm the spectral attributions and shed
+light on the spectral features of the mono and di-aquated species,
+time-dependent density functional theory (TD-DFT) calculations were
+performed.</p><p>The absorption spectra in implicit DMSO and water
+solvents of the
+complexes and all their plausible derivatives that can be formed by
+aquation reaction were computed including the mono- and di-aquo complexes
+and the free ligand. The outcomes of these calculations are reported
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figures S3, S4, and Table S1</ext-link>, where
+the absorption spectra of all the species, the natural transition
+orbitals computed for the most important transitions in water, and
+detailed information on each transition are reported. These data confirm
+that, as experimentally observed, the solvent environment considerably
+influences the relative intensity of the absorption bands. In the
+high-energy region of the spectrum (400&#x02013;650 nm), the band is
+due to an MLCT transition in all cases. In the spectra of both isomers
+of complex <bold>1</bold>, the intensity of such band, generated by
+HOMO &#x02192; LUMO electronic transition, decreases with the detachment
+of an oxygen atom of the (O^O) ligand in the mono-aquo complex and
+completely disappears for the di-aquo complex in both solvents. In
+the aqueous environment, for the mono-aquo complex of <bold>1<sub>cis</sub></bold> and <bold>1<sub>trans</sub></bold>, such a band
+is blue-shifted by 57 and 24 nm, respectively. Because the recorded
+spectra within 24 h did not exhibit such behavior, it is reasonable
+that the <bold>1</bold> complex is rapidly converted into the di-aquo
+species. Therefore, the decrease in such band intensity in the explored
+time (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A, D)
+is compatible with the complete release of the alizarine ligand, and
+the persistence of such a band even after the (O^O) ligand detachment
+can be ascribable to the presence of the free ligand in solution;
+indeed, looking at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S3</ext-link>, it appears
+clear that the intensity of such a band, that becomes the &#x003c0;
+&#x02192; &#x003c0;* type, decreases with respect to the MLCT peak found
+for both intact and mono-aquo complexes. The computed spectra and
+the relative NTOs evidence that the high-energy band is originated
+even by a MLCT transition involving the PhPy ligand that falls in
+the same region of the LC band.</p><p>A different behavior was observed
+for complex <bold>2</bold>. The
+MLCT in the low-energy region involves the PhPy ligand, and it is
+originated by the electronic transition HOMO &#x02192; LUMO+1. In contrast
+to complex <bold>1</bold>, in the case of <bold>2</bold>, when the
+mono-aquo complex is formed, its spectral features do not involve
+such region of the spectrum, thus the band around 450 nm completely
+disappears. This would suggest that most of the <bold>2</bold> complex
+remains intact in the investigated temporal range. However, the shape
+of the mono-aquo complex also differs in the region 280&#x02013;350
+nm, which in this case is characterized by an additional peak. Such
+a peak was experimentally observed as well (379 nm), indicating that
+only the first aquation should occur. Nevertheless, differently from
+the free (Aliz)<sup>2&#x02013;</sup> ligand, the spectrum of (BrCat)<sup>2&#x02013;</sup> falls in the shorter wavelength region and is characterized
+by decreased band intensities (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S3</ext-link>).</p><p>Analogously, in the case of the neutral complex <bold>3</bold>,
+the appearance of the shoulder at 440 nm can be ascribed to the formation
+of the mono-aquo complex. In such cases, an interesting feature was
+observed. Comparing the spectrum of <bold>3</bold> with that of the
+free ligand, different from complex <bold>1</bold>, the intensity
+of the band in the region 400&#x02013;600 nm is more for the free ligand
+than that for the complex, thus the decrease of such a band experimentally
+found is incompatible with the complete release of the (O^O) ligand.
+Hence, the persistence in the intensity of the LC band and the slight
+decrease of the MLCT band suggest that the alizarine remains anchored
+to the metal center, being di- or at least mono-coordinated.</p><p>Therefore, photophysical features support the hypothesis that in
+the aqueous environment, while complex <bold>1</bold> undergoes water
+attack leading to the complete detachment of the (O^O) ligand, most
+probably, both <bold>2</bold> and <bold>3</bold> complexes within
+24 h are converted to the corresponding mono-aquo complexes.</p></sec><sec id="sec6"><title>Pharmacological
+Evaluation</title><p>With the aim to rationalize the difference in
+the cytotoxic profiles
+of the investigated Pt(II) complexes,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> an evaluation of the Pt(II) compound subcellular compartmentalization
+was realized. Although the studied concentrations of the different
+compounds are different in values, because of the disparities in IC<sub>50</sub> and IC<sub>50</sub>/2 of each compound, these concentrations
+induced cytotoxicity to a similar extent among the different complexes.
+However, in order to take into account this difference, we normalized
+the obtained results (ng Pt/mg total protein and ng Pt/&#x003bc;g DNA)
+vs the concentration of each compound incubated to the cells. Thus,
+by presenting the data as % of Pt bound to protein and DNA, we eliminated
+the bias of the different utilized concentrations utilized. Complex <bold>3</bold> was studied as the reference compound considering that,
+as already highlighted above, it is formed by the coordination of
+platinum with two ammonia as main amine ligands and with (Aliz)<sup>2&#x02013;</sup> as the leaving group. The cells were incubated with <bold>1</bold>, <bold>2</bold>, <bold>3</bold>, and cisplatin for 6 h at
+the indicated concentrations, and then, the intracellular Pt(II) content
+and the Pt(II) bound to DNA were evaluated via ICP-MS (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>).</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Intracellular and DNA-bound <sup>195</sup>Pt in MDA-MB &#x02013;
+231 cell line upon 6 h of incubation with Pt(II) complexes and cisplatin.
+(A and C) Cells were seeded in complete medium (400,000 cells/well);
+the day after old media were discarded and cells were incubated for
+6 h with media-containing compounds at the indicated concentrations,
+then intracellular protein were extracted, and intracellular <sup>195</sup>Pt was evaluated as ng <sup>195</sup>Pt over protein concentration
+(A) and further normalized vs the compounds&#x02019; working concentrations
+provided (C). Cisplatin was used as the positive control. An equal
+amount of DMSO was supplied in each experimental condition. Data are
+presented as mean &#x000b1; SD of three different experiments; when invisible,
+the error bar is included into the bar line. (B and D) Cells were
+seeded in complete medium (200,000 cells/well); the day after old
+media were discarded and cells were incubated for 6 h with media-containing
+compound at the indicated concentrations, then DNA was extracted,
+and DNA-bound <sup>195</sup>Pt was evaluated as ng <sup>195</sup>Pt
+over DNA concentration (B) and further normalized vs the compounds&#x02019;
+working concentrations provided (D). Cisplatin (CisPt) was used as
+the positive control. An equal amount of DMSO was supplied in each
+experimental condition. Data are presented as mean &#x000b1; SD of three
+different experiments; when invisible, the error bar is included into
+the bar line. CisPt: cisplatin.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_0008" id="gr7" position="float"/></fig><p>Interestingly, while <bold>2</bold> at the highest tested concentration
+was very effective in binding to intracellular proteins compared to
+the highest cisplatin dose (3-fold, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A), at the same concentration, we observed
+a modest increase (1.6-fold, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>B) in DNA-bound <sup>195</sup>Pt compared to cisplatin
+60 &#x003bc;M, suggesting a more efficient entrance in the cells compared
+to cisplatin and a slight preference toward the cytosolic compartment
+rather than the nucleus. These observations were also confirmed upon
+correction vs the <bold>2</bold> working concentration provided to
+the cells (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>C, D). Conversely, <bold>1</bold> barely localizes into cytosol,
+compared to cisplatin and the other compounds (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A), while it seems to prefer the nucleic
+environment. Indeed, as shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>B, its behavior is pretty superimposable
+to cisplatin one, except that <bold>1</bold> working concentrations
+were an order of magnitude lower than cisplatin, and this may explain
+its so low IC<sub>50</sub> compared to cisplatin and to the other
+tested compounds.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup><bold>1</bold> preferential
+subcompartimentalization was further highlighted upon correction for
+the initial working concentration provided. As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>D, we indeed observed a significant
+10-fold higher accumulation of platinum in the DNA after treatment
+with 2 &#x003bc;M <bold>1</bold> compared to cisplatin 60 and 150 &#x003bc;M <bold>2</bold>, thus suggesting that DNA is its main cellular target compared
+to <bold>2</bold> and that its potent cytotoxic action could be due
+to a molecular mechanism similar to cisplatin. Moreover, as already
+underlined, the complex <bold>1</bold> possess the same cyclometalated
+amine (C^N) ligand of compound <bold>2</bold> but a different leaving
+group that probably plays an important role in the internalization
+of the compounds inside the cells causing the differences in terms
+of cytotoxicity of the two compounds.</p></sec><sec id="sec7"><title>In Vitro DNA Binding Experiment</title><p>A practical method for assessing the binding affinity in vitro
+between a Pt(II) complex with DNA is the use of UV&#x02013;vis and
+fluorescence spectroscopy employing Calf Thymus DNA (CT-DNA) mimicking
+the DNA structure and function also in association with ethidium bromide
+(EtBr), whose displacement with a Pt(II) complex can be ascribed to
+a non-negligible interaction.</p><p>Considering DNA results to be
+one of the main targets for the studied
+complexes, the interaction between CT-DNA and the complexes <bold>1</bold>, <bold>2</bold>, or <bold>3</bold> was evaluated by UV&#x02013;vis
+spectroscopy. The spectra of the complex with an increasing amount
+of CT-DNA were recorded, and a decrease of the band at 545 nm, assigned
+to the &#x003c0;&#x02013;&#x003c0;* transition (MLCT band) between the
+leaving group and the Pt(II) metal center, was observed as the competitive
+binding with the CT-DNA took place (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S5</ext-link>). The same behavior was evidenced by fluorescence emission
+spectra. In the competitive study, the experiments were realized by
+adding different amounts of complex to the fluorescent system CT-DNA/EtBr.
+Upon the addition of complexes <bold>1&#x02013;3</bold>, a dramatic
+decrease in the fluorescence intensity of the emission band of the
+CT-DNA/EtBr system was observed (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">Figure S6</ext-link>). These results obtained for both experiments indicated a strong
+binding affinity between our complexes and CT-DNA, confirming the
+data obtained by computational and pharmacological evaluations.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p></sec><sec id="sec8"><title>Theoretical and Experimental Lipophilicity
+Evaluation</title><p>Lipophilicity is a pivotal drug property that
+impact drug uptake
+and metabolism. It is, indeed, the major determining factor in a compound
+absorption, distribution in the body, penetration across membranes
+and biological barriers, metabolism, and excretion (ADME properties).
+The Lipinski&#x02019;s lipophilicity rule affirmed that one of the
+parameters for drug-likeness is that the log<italic>P</italic><sub>ow</sub> should be lower than 5. Both calculated and experimentally
+determined values of log<italic>P</italic><sub>ow</sub> for the three
+complexes examined in the present study are reported in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref> and compared with the measured
+values for the three FDA-approved Pt(II) drugs cisplatin, carboplatin,
+and oxaliplatin,<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> and the calculated value
+for alizarine alone. Theoretical and experimental values, in very
+satisfactory agreement, have been determined to be positive for all
+the three complexes, although log<italic>P</italic><sub>ow</sub> for
+complex <bold>3</bold> is significantly lower than those of <bold>1</bold> and <bold>2</bold> complexes. The value for complex <bold>2</bold> (&#x0223c;4.5) in turn is larger than that of complex <bold>1</bold>. Assuming the cellular uptake of platinum drugs through
+the cellular membranes by passive diffusion to be strictly correlated
+to their lipophilicity, complex <bold>1</bold>, with a log<italic>P</italic><sub>ow</sub> around 3, shows a desirable balance between
+lipophilicity and hydrophilicity.</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Experimental and
+Theoretical log<italic>P</italic><sub>ow</sub> Values of Pt(II) Complexes
+and Alizarine</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">compound</th><th style="border:none;" align="center">log<italic>P</italic><sub>ow</sub><sup>exp</sup></th><th style="border:none;" align="center">log<italic>P</italic><sub>ow</sub><sup>theo</sup></th></tr></thead><tbody><tr><td style="border:none;" align="left">alizarine</td><td style="border:none;" align="left">1.87</td><td style="border:none;" align="left">2.02</td></tr><tr><td style="border:none;" align="left"><bold>1</bold></td><td style="border:none;" align="left">3.33</td><td style="border:none;" align="left">3.08</td></tr><tr><td style="border:none;" align="left"><bold>2</bold></td><td style="border:none;" align="left">4.53</td><td style="border:none;" align="left">4.67</td></tr><tr><td style="border:none;" align="left"><bold>3</bold></td><td style="border:none;" align="left">0.47</td><td style="border:none;" align="left">0.67</td></tr><tr><td style="border:none;" align="left">cisplatin</td><td style="border:none;" align="left">&#x02013;2.53<xref rid="t2fn1" ref-type="table-fn">a</xref></td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="border:none;" align="left">carboplatin</td><td style="border:none;" align="left">-2.30<xref rid="t2fn1" ref-type="table-fn">a</xref></td><td style="border:none;" align="left">&#x000a0;</td></tr><tr><td style="border:none;" align="left">oxaliplatin</td><td style="border:none;" align="left">&#x02013;1.76<xref rid="t2fn1" ref-type="table-fn">a</xref></td><td style="border:none;" align="left">&#x000a0;</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>From ref (<xref ref-type="bibr" rid="ref47">47</xref>).</p></fn></table-wrap-foot></table-wrap><p>It
+is worth underlining that the estimation of such a parameter
+is just a preliminary indication of more intricate aspects, such as
+uptake, efflux, cell distribution, and nuclear concentration that
+play a pivotal role in defining the cytotoxic profile of an anticancer
+drug. Computational studies that focused on modeling such features
+are still in progress and, without any doubts, they all influence
+the description of the whole mechanism of action.</p></sec><sec id="sec9"><title>Conclusions</title><p>In order to gain some insights able to support the most significant
+cytotoxic effect, previously reported by our group, against MDA-MB-231
+exerted by compound <bold>1</bold> (IC<sub>50</sub> 1.9 &#x000b1; 1.6
+&#x003bc;M), if compared to <bold>2</bold> (IC<sub>50</sub> 52.8 &#x000b1;
+3.9 &#x003bc;M) and to the relative negligible toxicity shown by <bold>3</bold> (IC<sub>50</sub> 126.9 &#x000b1; 2.7), the hydrolysis process
+to the corresponding active mono- and di-aquated forms was explored
+by DFT calculations. In the case of complex <bold>1</bold>, the asymmetric
+structure of the labile alizarine leaving group was taken into consideration,
+showing for <bold>1<sub>cis</sub></bold> a lower energy barrier than <bold>1<sub>trans</sub></bold> both in the first (12.1 kcal mol<sup>&#x02013;1</sup> vs 18.9 kcal mol<sup>&#x02013;1</sup>) and in the second water substitution
+reactions (21.4 kcal mol<sup>&#x02013;1</sup> vs 25.0 kcal mol<sup>&#x02013;1</sup>). For both <bold>1</bold> and <bold>2</bold>, the
+second hydrolysis reaction proved to be the rate-determining step,
+while for the reference compound <bold>3</bold>, a higher energy barrier
+(26.8 kcal mol<sup>&#x02013;1</sup>) was computed for the formation
+of the mono-aquated species. Indeed, the absorbance of the complexes <bold>1</bold>&#x02013;<bold>3</bold>, monitored spectrophotometrically
+within 24 h both in DMSO and in diluted phosphate buffer solution
+(DMSO 0.5% v/v, pH 7.4) and computationally reproduced, suggest that
+the di-aquo complex is most probably formed only in the case of complex <bold>1</bold>.</p><p>Starting from the assumption that DNA is the main
+target responsible
+for platinum chemotherapeutics&#x02019; cytotoxicity, the nucleophilic
+attack by the N7 site of guanine to displace water from the aquated
+active forms was evaluated as well. Taking into consideration the
+asymmetric structure of the PhPy ligand in the water displacement
+reaction by guanine from the di-aquated forms of <bold>1</bold> and <bold>2</bold>, the nucleophilic attack by N7 of guanine from the side
+containing the N-coordinated atom resulted energetically favored,
+following a S<sub>N</sub>2 associative mechanism through a penta-coordinated
+transition state TS<sub>Gua</sub>, and requiring only 6.4 kcal mol<sup>&#x02013;1</sup> to take place. The energy barrier calculated for
+compound <bold>3</bold>, indeed, proved to be higher when considering
+the attack by N7 of guanine on both the mono- and di-aquo species
+(19.3 and 11.8 kcal mol<sup>&#x02013;1</sup>, respectively). This,
+in part, supports the different cytotoxicity exhibited by the selected
+Pt(II) complexes against the triple-negative MD-MBA-231 cancer cell
+line. In the attempt to comprehensively elucidate this aspect, a plausible
+deactivation process was taken into consideration by examining the
+reaction with a well-known deactivating sulfur-containing molecule,
+NAM. Finally, ICP-MS analysis was performed by incubating the MDA-MB-231
+cancer cell line with compounds <bold>1</bold>, <bold>2</bold>, <bold>3</bold>, and cisplatin up to 6 h, revealing complex <bold>1</bold> preference for DNA with a 10-fold higher concentration of DNA-bound
+platinum at 2 &#x003bc;M if compared to the one afforded by cisplatin
+at 60 &#x003bc;M. The same behavior was evidenced also in comparison
+to the two complexes <bold>2</bold> and <bold>3</bold>. The data obtained
+with in vitro DNA-binding experiments corroborated the assumption
+that DNA is the main target of the herein-proposed complexes. The
+values of lipophilicity also confirmed that compound <bold>1</bold> possesses a right balance between lipophilicity and hydrophilicity
+(log<italic>P</italic><sub>ow</sub> about 3); on the contrary, the
+compound <bold>2</bold> probably has a too high value (log<italic>P</italic><sub>ow</sub> about 4.5). This experimental evidence supports
+the ICP-MS analysis that the different leaving group may play an important
+role in the internalization of the compounds inside the cells; after
+that, the differences in terms of aquation and guanine interaction
+processes are not so evident as testified by computational and experimental
+data. The synthesis of new Pt(II) complexes containing alizarine is
+currently under progress in our laboratories to further investigate
+the role of the ligands on their cytotoxic activity, in particular
+to investigate the difference brought by the introduction of different
+electronegative substituents onto the 2-phenylpyridine ligand.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c00842?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c00842</ext-link>.<list id="silist" list-type="simple"><list-item><p>Optimized structures
+of the stationary points intercepted
+along the hydrolysis potential energy surfaces of the investigated
+complexes. Computed absorption spectra in implicit water and DMSO
+solvents of the investigated Pt(II) complexes. Natural transition
+orbitals for MLCT and LC bands. Key information on electronic excitations
+computed in water and DMSO. UV&#x02013;vis spectra of CT-DNA in the
+presence of investigated complexes. Emission spectra of CT-DNA with
+EtBr in the presence of investigated complexes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.2c00842/suppl_file/ic2c00842_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic2c00842_si_001.pdf"><caption><p>ic2c00842_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors. All authors have
+given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e2272-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research was supported by the Project POR Calabria&#x02013;FSE/FESR
+2014-2020 and by Project STAR 2&#x02013;PIR01_00008 funded by MUR (Ministero
+dell&#x02019;Universit&#x000e0; e della Ricerca). The University of
+Calabria and Calabria Region are acknowledged for financial support
+and CINECA for the computing time (Project IsC92).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>McWhinney</surname><given-names>S. R.</given-names></name>; <name><surname>Goldberg</surname><given-names>R. M.</given-names></name>; <name><surname>McLeod</surname><given-names>H. L.</given-names></name>
+<article-title>Platinum
+Neurotoxicity Pharmacogenetics</article-title>. <source>Mol. Cancer
+Ther.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>10</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.MCT-08-0840</pub-id>.<pub-id pub-id-type="pmid">19139108</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ghosh</surname><given-names>S.</given-names></name>
+<article-title>Cisplatin:
+The First Metal Based Anticancer Drug</article-title>. <source>Bioorg.
+Chem.</source>
+<year>2019</year>, <volume>88</volume>, <elocation-id>102925</elocation-id><pub-id pub-id-type="doi">10.1016/j.bioorg.2019.102925</pub-id>.<pub-id pub-id-type="pmid">31003078</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Rottenberg</surname><given-names>S.</given-names></name>; <name><surname>Disler</surname><given-names>C.</given-names></name>; <name><surname>Perego</surname><given-names>P.</given-names></name>
+<article-title>The Rediscovery
+of Platinum-Based
+Cancer Therapy</article-title>. <source>Nat. Rev. Cancer</source>
+<year>2021</year>, <volume>21</volume>, <fpage>37</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1038/s41568-020-00308-y</pub-id>.<pub-id pub-id-type="pmid">33128031</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Kang</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zeng</surname><given-names>S.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>
+<article-title>The Drug-Resistance Mechanisms of
+Five Platinum-Based Antitumor Agents</article-title>. <source>Front.
+Pharmacol.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>343</fpage><pub-id pub-id-type="doi">10.3389/fphar.2020.00343</pub-id>.<pub-id pub-id-type="pmid">32265714</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Eastman</surname><given-names>A.</given-names></name>
+<article-title>The Formation,
+Isolation and Characterization of DNA Adducts Produced by Anticancer
+Platinum Complexes</article-title>. <source>Pharmacol. Ther.</source>
+<year>1987</year>, <volume>34</volume>, <fpage>155</fpage>&#x02013;<lpage>166</lpage>. <pub-id pub-id-type="doi">10.1016/0163-7258(87)90009-X</pub-id>.<pub-id pub-id-type="pmid">3317449</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Davies</surname><given-names>M. S.</given-names></name>; <name><surname>Berners-Price</surname><given-names>S. J.</given-names></name>; <name><surname>Hambley</surname><given-names>T. W.</given-names></name>
+<article-title>Slowing of Cisplatin Aquation in
+the Presence of DNA but Not in the Presence of Phosphate: Improved
+Understanding of Sequence Selectivity and the Roles of Monoaquated
+and Diaquated Species in the Binding of Cisplatin to DNA</article-title>. <source>Inorg. Chem.</source>
+<year>2000</year>, <volume>39</volume>, <fpage>5603</fpage>&#x02013;<lpage>5613</lpage>. <pub-id pub-id-type="doi">10.1021/ic000847w</pub-id>.<pub-id pub-id-type="pmid">11151361</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Davies</surname><given-names>M. S.</given-names></name>; <name><surname>Cox</surname><given-names>J. W.</given-names></name>; <name><surname>Berners-Price</surname><given-names>S. J.</given-names></name>; <name><surname>Barklage</surname><given-names>W.</given-names></name>; <name><surname>Qu</surname><given-names>Y.</given-names></name>; <name><surname>Farrell</surname><given-names>N.</given-names></name>
+<article-title>Equilibrium and Kinetic
+Studies of the Aquation of
+the Dinuclear Platinum Complex [{ Trans -PtCl(NH<sub>3</sub>)<sub>2</sub>}<sub>2</sub> (&#x003bc;-NH<sub>2</sub>(CH<sub>2</sub>)<sub>6</sub>NH<sub>2</sub>)]<sup>2+</sup>: pKa Determinations of Aqua
+Ligands via [ <sup>1</sup>H, <sup>15</sup>N] NMR Spectroscopy</article-title>. <source>Inorg. Chem.</source>
+<year>2000</year>, <volume>39</volume>, <fpage>1710</fpage>&#x02013;<lpage>1715</lpage>. <pub-id pub-id-type="doi">10.1021/ic991104h</pub-id>.<pub-id pub-id-type="pmid">12526558</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Pinto</surname><given-names>A. L.</given-names></name>; <name><surname>Lippard</surname><given-names>S. J.</given-names></name>
+<article-title>Binding of the Antitumor
+Drug Cis-Diamminedichloroplatinum(II)
+(Cisplatin) to DNA</article-title>. <source>Biochim. Biophys. Acta Rev.
+Cancer</source>
+<year>1985</year>, <volume>780</volume>, <fpage>167</fpage>&#x02013;<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1016/0304-419X(85)90001-0</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Legendre</surname><given-names>F.</given-names></name>; <name><surname>Bas</surname><given-names>V.</given-names></name>; <name><surname>Kozelka</surname><given-names>J.</given-names></name>; <name><surname>Chottard</surname><given-names>J. C.</given-names></name>
+<article-title>A Complete Kinetic Study of GG versus
+AG Platination Suggests That the Doubly Aquated Derivatives of Cisplatin
+Are the Actual DNA Binding Species</article-title>. <source>Chemistry</source>
+<year>2000</year>, <volume>6</volume>, <fpage>2002</fpage>&#x02013;<lpage>2010</lpage>. <pub-id pub-id-type="doi">10.1002/1521-3765(20000602)6:11&#x0003c;2002::AID-CHEM2002&#x0003e;3.0.CO;2-H</pub-id>.<pub-id pub-id-type="pmid">10894399</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="book" id="cit10"><person-group person-group-type="allauthors"><name><surname>Dabrowiak</surname><given-names>J. C.</given-names></name></person-group><source>Metals in Medicine</source>; <publisher-name>John Wiley
+and Sons</publisher-name>, <year>2009</year>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Di
+Pasqua</surname><given-names>A. J.</given-names></name>; <name><surname>Kerwood</surname><given-names>D. J.</given-names></name>; <name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Goodisman</surname><given-names>J.</given-names></name>; <name><surname>Dabrowiak</surname><given-names>J. C.</given-names></name>
+<article-title>Stability of Carboplatin and Oxaliplatin in Their Infusion
+Solutions Is Due to Self-Association</article-title>. <source>Dalton
+Trans.</source>
+<year>2011</year>, <volume>40</volume>, <fpage>4821</fpage>&#x02013;<lpage>4825</lpage>. <pub-id pub-id-type="doi">10.1039/c0dt01758b</pub-id>.<pub-id pub-id-type="pmid">21461444</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Ahmad</surname><given-names>S.</given-names></name>
+<article-title>Kinetic Aspects
+of Platinum Anticancer Agents</article-title>. <source>Polyhedron</source>
+<year>2017</year>, <volume>138</volume>, <fpage>109</fpage>&#x02013;<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1016/j.poly.2017.09.016</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Ionescu</surname><given-names>A.</given-names></name>; <name><surname>Caligiuri</surname><given-names>R.</given-names></name>; <name><surname>Godbert</surname><given-names>N.</given-names></name>; <name><surname>Ricciardi</surname><given-names>L.</given-names></name>; <name><surname>La Deda</surname><given-names>M.</given-names></name>; <name><surname>Ghedini</surname><given-names>M.</given-names></name>; <name><surname>Ferri</surname><given-names>N.</given-names></name>; <name><surname>Lupo</surname><given-names>M. G.</given-names></name>; <name><surname>Facchetti</surname><given-names>G.</given-names></name>; <name><surname>Rimoldi</surname><given-names>I.</given-names></name>; <name><surname>Aiello</surname><given-names>I.</given-names></name>
+<article-title>Cytotoxic Performances
+of New Anionic Cyclometalated Pt(II) Complexes Bearing Chelated O^O
+Ligands</article-title>. <source>Appl. Organomet. Chem.</source>
+<year>2020</year>, <volume>34</volume>, <elocation-id>e5455</elocation-id><pub-id pub-id-type="doi">10.1002/aoc.5455</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="book" id="cit14"><person-group person-group-type="allauthors"><name><surname>Frisch</surname><given-names>M. J.</given-names></name>; <name><surname>Trucks</surname><given-names>G. W.</given-names></name>; <name><surname>Schlegel</surname><given-names>H. B.</given-names></name>; <name><surname>Scuseria</surname><given-names>G. E.</given-names></name>; <name><surname>Robb</surname><given-names>M. A.</given-names></name>; <name><surname>Cheeseman</surname><given-names>J. R.</given-names></name>; <name><surname>Scalmani</surname><given-names>G.</given-names></name>; <name><surname>Barone</surname><given-names>V.</given-names></name>; <name><surname>Petersson</surname><given-names>G. A.</given-names></name>; <name><surname>Nakatsuji</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Caricato</surname><given-names>M.</given-names></name>; <name><surname>Marenich</surname><given-names>A. V.</given-names></name>; <name><surname>Bloino</surname><given-names>J.</given-names></name>; <name><surname>Janesko</surname><given-names>B. G.</given-names></name>; <name><surname>Gomperts</surname><given-names>R.</given-names></name>; <name><surname>Mennucci</surname><given-names>B.</given-names></name>; <name><surname>Hratchian</surname><given-names>H. P.</given-names></name>; <name><surname>Ortiz</surname><given-names>J. V.</given-names></name>; <name><surname>Izmaylov</surname><given-names>A. F.</given-names></name>; <name><surname>Sonnenberg</surname><given-names>J. L.</given-names></name>; <name><surname>Williams-Young</surname><given-names>D.</given-names></name>; <name><surname>Ding</surname><given-names>F.</given-names></name>; <name><surname>Lipparini</surname><given-names>F.</given-names></name>; <name><surname>Egidi</surname><given-names>F.</given-names></name>; <name><surname>Goings</surname><given-names>J.</given-names></name>; <name><surname>Peng</surname><given-names>B.</given-names></name>; <name><surname>Petrone</surname><given-names>A.</given-names></name>; <name><surname>Henderson</surname><given-names>T.</given-names></name>; <name><surname>Ranasinghe</surname><given-names>D.</given-names></name>; <name><surname>Zakrzewski</surname><given-names>V. G.</given-names></name>; <name><surname>Gao</surname><given-names>J.</given-names></name>; <name><surname>Rega</surname><given-names>N.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>; <name><surname>Liang</surname><given-names>W.</given-names></name>; <name><surname>Hada</surname><given-names>M.</given-names></name>; <name><surname>Ehara</surname><given-names>M.</given-names></name>; <name><surname>Toyota</surname><given-names>K.</given-names></name>; <name><surname>Fukuda</surname><given-names>R.</given-names></name>; <name><surname>Hasegawa</surname><given-names>J.</given-names></name>; <name><surname>Ishida</surname><given-names>M.</given-names></name>; <name><surname>Nakajima</surname><given-names>T.</given-names></name>; <name><surname>Honda</surname><given-names>Y.</given-names></name>; <name><surname>Kitao</surname><given-names>O.</given-names></name>; <name><surname>Nakai</surname><given-names>H.</given-names></name>; <name><surname>Vreven</surname><given-names>T.</given-names></name>; <name><surname>Throssell</surname><given-names>K.</given-names></name>; <name><surname>Montgomery</surname><given-names>J. A.</given-names><suffix>Jr.</suffix></name>; <name><surname>Peralta</surname><given-names>J. E.</given-names></name>; <name><surname>Ogliaro</surname><given-names>F.</given-names></name>; <name><surname>Bearpark</surname><given-names>M. J.</given-names></name>; <name><surname>Heyd</surname><given-names>J. J.</given-names></name>; <name><surname>Brothers</surname><given-names>E. N.</given-names></name>; <name><surname>Kudin</surname><given-names>K. N.</given-names></name>; <name><surname>Staroverov</surname><given-names>V. N.</given-names></name>; <name><surname>Keith</surname><given-names>T. A.</given-names></name>; <name><surname>Kobayashi</surname><given-names>R.</given-names></name>; <name><surname>Normand</surname><given-names>J.</given-names></name>; <name><surname>Raghavachari</surname><given-names>K.</given-names></name>; <name><surname>Rendell</surname><given-names>A. P.</given-names></name>; <name><surname>Burant</surname><given-names>J. C.</given-names></name>; <name><surname>Iyengar</surname><given-names>S. S.</given-names></name>; <name><surname>Tomasi</surname><given-names>J.</given-names></name>; <name><surname>Cossi</surname><given-names>M.</given-names></name>; <name><surname>Millam</surname><given-names>J. M.</given-names></name>; <name><surname>Klene</surname><given-names>M.</given-names></name>; <name><surname>Adamo</surname><given-names>C.</given-names></name>; <name><surname>Cammi</surname><given-names>R.</given-names></name>; <name><surname>Ochterski</surname><given-names>J. W.</given-names></name>; <name><surname>Martin</surname><given-names>R. L.</given-names></name>; <name><surname>Morokuma</surname><given-names>K.</given-names></name>; <name><surname>Farkas</surname><given-names>O.</given-names></name>; <name><surname>Foresman</surname><given-names>J. B.</given-names></name>; <name><surname>Fox</surname><given-names>D. J.</given-names></name></person-group><source>G16_C01, p Gaussian
+16, Revision C.01</source>; <publisher-name>Gaussian, Inc.</publisher-name>: <publisher-loc>Wallin</publisher-loc>. <year>2016</year>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Marenich</surname><given-names>A. V.</given-names></name>; <name><surname>Cramer</surname><given-names>C. J.</given-names></name>; <name><surname>Truhlar</surname><given-names>D. G.</given-names></name>
+<article-title>Universal Solvation
+Model Based on
+Solute Electron Density and on a Continuum Model of the Solvent Defined
+by the Bulk Dielectric Constant and Atomic Surface Tensions</article-title>. <source>J. Phys. Chem. B</source>
+<year>2009</year>, <volume>113</volume>, <fpage>6378</fpage>&#x02013;<lpage>6396</lpage>. <pub-id pub-id-type="doi">10.1021/jp810292n</pub-id>.<pub-id pub-id-type="pmid">19366259</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Yanai</surname><given-names>T.</given-names></name>; <name><surname>Tew</surname><given-names>D. P.</given-names></name>; <name><surname>Handy</surname><given-names>N. C.</given-names></name>
+<article-title>A New Hybrid
+Exchange-Correlation
+Functional Using the Coulomb-Attenuating Method (CAM-B3LYP)</article-title>. <source>Chem. Phys. Lett.</source>
+<year>2004</year>, <volume>393</volume>, <fpage>51</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.cplett.2004.06.011</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Lee</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Parr</surname><given-names>R. G.</given-names></name>
+<article-title>Development
+of the Colle-Salvetti
+Correlation-Energy Formula into a Functional of the Electron Density</article-title>. <source>Phys. Rev. B</source>
+<year>1988</year>, <volume>37</volume>, <fpage>785</fpage>&#x02013;<lpage>789</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.37.785</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Grimme</surname><given-names>S.</given-names></name>; <name><surname>Antony</surname><given-names>J.</given-names></name>; <name><surname>Ehrlich</surname><given-names>S.</given-names></name>; <name><surname>Krieg</surname><given-names>H.</given-names></name>
+<article-title>A Consistent and Accurate
+Ab Initio Parametrization of Density Functional Dispersion Correction
+(DFT-D) for the 94 Elements H-Pu</article-title>. <source>J. Chem. Phys.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>154104</fpage><pub-id pub-id-type="doi">10.1063/1.3382344</pub-id>.<pub-id pub-id-type="pmid">20423165</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Andrae</surname><given-names>D.</given-names></name>; <name><surname>H&#x000e4;u&#x000df;ermann</surname><given-names>U.</given-names></name>; <name><surname>Dolg</surname><given-names>M.</given-names></name>; <name><surname>Stoll</surname><given-names>H.</given-names></name>; <name><surname>Preu&#x000df;</surname><given-names>H.</given-names></name>
+<article-title>Energy-Adjusted Ab Initio Pseudopotentials for the
+Second and Third Row Transition Elements</article-title>. <source>Theor.
+Chim. Acta</source>
+<year>1990</year>, <volume>77</volume>, <fpage>123</fpage>&#x02013;<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1007/BF01114537</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Hay</surname><given-names>P. J.</given-names></name>; <name><surname>Wadt</surname><given-names>W. R.</given-names></name>
+<article-title>Ab Initio Effective
+Core Potentials for Molecular Calculations.
+Potentials for K to Au Including the Outermost Core Orbitale</article-title>. <source>J. Chem. Phys.</source>
+<year>1985</year>, <volume>82</volume>, <fpage>299</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1063/1.448975</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Hay</surname><given-names>P. J.</given-names></name>; <name><surname>Wadt</surname><given-names>W. R.</given-names></name>
+<article-title>Ab Initio Effective
+Core Potentials for Molecular Calculations.
+Potentials for the Transition Metal Atoms Sc to Hg</article-title>. <source>J. Chem. Phys.</source>
+<year>1985</year>, <volume>82</volume>, <fpage>270</fpage>&#x02013;<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1063/1.448799</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Cartwright</surname><given-names>H.</given-names></name>
+<article-title>Molecular
+Thermodynamics. By Donald A. McQuarrie and John D. Simon. (1999) University
+Science Books, 55D Gate Five Road, Sausalito CA 94965, USA. 672 Pp
+$78.00, ISBN 1-891389-05-X</article-title>. <source>Chem. Educ.</source>
+<year>1999</year>, <volume>4</volume>, <fpage>120</fpage>&#x02013;<lpage>121</lpage>. <pub-id pub-id-type="doi">10.1007/s00897990307a</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Gonzalez</surname><given-names>C.</given-names></name>; <name><surname>Schlegel</surname><given-names>H. B.</given-names></name>
+<article-title>An Improved Algorithm for Reaction
+Path Following</article-title>. <source>J. Chem. Phys.</source>
+<year>1989</year>, <volume>90</volume>, <fpage>2154</fpage>&#x02013;<lpage>2161</lpage>. <pub-id pub-id-type="doi">10.1063/1.456010</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Fukui</surname><given-names>K.</given-names></name>
+<article-title>The Path of
+Chemical Reactions - The IRC Approach</article-title>. <source>Acc.
+Chem. Res.</source>
+<year>1981</year>, <volume>14</volume>, <fpage>363</fpage>&#x02013;<lpage>368</lpage>. <pub-id pub-id-type="doi">10.1021/ar00072a001</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Weigend</surname><given-names>F.</given-names></name>; <name><surname>Ahlrichs</surname><given-names>R.</given-names></name>
+<article-title>Balanced Basis Sets
+of Split Valence, Triple Zeta Valence
+and Quadruple Zeta Valence Quality for H to Rn: Design and Assessment
+of Accuracy</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2005</year>, <volume>7</volume>, <fpage>3297</fpage>&#x02013;<lpage>3305</lpage>. <pub-id pub-id-type="doi">10.1039/b508541a</pub-id>.<pub-id pub-id-type="pmid">16240044</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Weigend</surname><given-names>F.</given-names></name>
+<article-title>Accurate Coulomb-Fitting
+Basis Sets for H to Rn</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2006</year>, <volume>8</volume>, <fpage>1057</fpage>&#x02013;<lpage>1065</lpage>. <pub-id pub-id-type="doi">10.1039/b515623h</pub-id>.<pub-id pub-id-type="pmid">16633586</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Carpenter</surname><given-names>J. E.</given-names></name>; <name><surname>Weinhold</surname><given-names>F.</given-names></name>
+<article-title>Analysis of the Geometry of the Hydroxymethyl Radical
+by the &#x0201c;Different Hybrids for Different Spins&#x0201d; Natural
+Bond Orbital Procedure</article-title>. <source>J. Mol. Struct. THEOCHEM</source>
+<year>1988</year>, <volume>169</volume>, <fpage>41</fpage>&#x02013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/0166-1280(88)80248-3</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="book" id="cit28"><person-group person-group-type="allauthors"><name><surname>Carpenter</surname><given-names>J. E.</given-names></name>; <name><surname>Weinhold</surname><given-names>F.</given-names></name></person-group><source>The Structure of Small
+Molecules and Ions</source>; <publisher-name>Springer US</publisher-name>, <year>1988</year>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Casida</surname><given-names>M.
+E.</given-names></name>; <name><surname>Jamorski</surname><given-names>C.</given-names></name>; <name><surname>Casida</surname><given-names>K. C.</given-names></name>; <name><surname>Salahub</surname><given-names>D. R.</given-names></name>
+<article-title>Molecular Excitation
+Energies to High-Lying Bound States from Time-Dependent Density-Functional
+Response Theory: Characterization and Correction of the Time-Dependent
+Local Density Approximation Ionization Threshold</article-title>. <source>J. Chem. Phys.</source>
+<year>1998</year>, <volume>108</volume>, <fpage>4439</fpage>&#x02013;<lpage>4449</lpage>. <pub-id pub-id-type="doi">10.1063/1.475855</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Daina</surname><given-names>A.</given-names></name>; <name><surname>Michielin</surname><given-names>O.</given-names></name>; <name><surname>Zoete</surname><given-names>V.</given-names></name>
+<article-title>SwissADME: A Free Web Tool to Evaluate
+Pharmacokinetics, Drug-Likeness and Medicinal Chemistry Friendliness
+of Small Molecules</article-title>. <source>Sci. Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>42717</fpage><pub-id pub-id-type="doi">10.1038/srep42717</pub-id>.<pub-id pub-id-type="pmid">28256516</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Rimoldi</surname><given-names>I.</given-names></name>; <name><surname>Facchetti</surname><given-names>G.</given-names></name>; <name><surname>Lucchini</surname><given-names>G.</given-names></name>; <name><surname>Castiglioni</surname><given-names>E.</given-names></name>; <name><surname>Marchian&#x000f2;</surname><given-names>S.</given-names></name>; <name><surname>Ferri</surname><given-names>N.</given-names></name>
+<article-title>In Vitro Anticancer Activity Evaluation
+of New Cationic Platinum(II) Complexes Based on Imidazole Moiety</article-title>. <source>Bioorg. Med. Chem.</source>
+<year>2017</year>, <volume>25</volume>, <fpage>1907</fpage>&#x02013;<lpage>1913</lpage>. <pub-id pub-id-type="doi">10.1016/j.bmc.2017.02.010</pub-id>.<pub-id pub-id-type="pmid">28254366</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Dianat</surname><given-names>S.</given-names></name>; <name><surname>Bordbar</surname><given-names>A. K.</given-names></name>; <name><surname>Tangestaninejad</surname><given-names>S.</given-names></name>; <name><surname>Yadollahi</surname><given-names>B.</given-names></name>; <name><surname>Zarkesh-Esfahani</surname><given-names>S. H.</given-names></name>; <name><surname>Habibi</surname><given-names>P.</given-names></name>
+<article-title>CtDNA Binding Affinity and in Vitro
+Antitumor Activity of Three Keggin Type Polyoxotungestates</article-title>. <source>J. Photochem. Photobiol. B Biol.</source>
+<year>2013</year>, <volume>124</volume>, <fpage>27</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.jphotobiol.2013.04.001</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Chai</surname><given-names>K.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>T.</given-names></name>; <name><surname>Niu</surname><given-names>J.</given-names></name>; <name><surname>Yao</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Zeng</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Duan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>
+<article-title>Synthesis, DNA Binding, Topoisomerase
+I Inhibition and Antiproliferation
+Activities of Three New Binuclear Terpyridine Platinum(II) Complexes</article-title>. <source>Polyhedron</source>
+<year>2019</year>, <volume>157</volume>, <fpage>124</fpage>&#x02013;<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1016/j.poly.2018.09.053</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Facchetti</surname><given-names>G.</given-names></name>; <name><surname>Ferri</surname><given-names>N.</given-names></name>; <name><surname>Lupo</surname><given-names>M. G.</given-names></name>; <name><surname>Giorgio</surname><given-names>L.</given-names></name>; <name><surname>Rimoldi</surname><given-names>I.</given-names></name>
+<article-title>Monofunctional
+PtII Complexes Based on 8-Aminoquinoline: Synthesis and Pharmacological
+Characterization</article-title>. <source>Eur. J. Inorg. Chem.</source>
+<year>2019</year>, <volume>2019</volume>, <fpage>3389</fpage>&#x02013;<lpage>3395</lpage>. <pub-id pub-id-type="doi">10.1002/ejic.201900644</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Ricciardi</surname><given-names>L.</given-names></name>; <name><surname>La Deda</surname><given-names>M.</given-names></name>; <name><surname>Ionescu</surname><given-names>A.</given-names></name>; <name><surname>Godbert</surname><given-names>N.</given-names></name>; <name><surname>Aiello</surname><given-names>I.</given-names></name>; <name><surname>Ghedini</surname><given-names>M.</given-names></name>
+<article-title>Anionic Cyclometallated Pt(II) Square-Planar
+Complexes:
+New Sets of Highly Luminescent Compounds</article-title>. <source>Dalton
+Trans.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>12625</fpage>&#x02013;<lpage>12635</lpage>. <pub-id pub-id-type="doi">10.1039/C7DT02267K</pub-id>.<pub-id pub-id-type="pmid">28906514</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Szerb</surname><given-names>E. I.</given-names></name>; <name><surname>Ionescu</surname><given-names>A.</given-names></name>; <name><surname>Godbert</surname><given-names>N.</given-names></name>; <name><surname>Yadav</surname><given-names>Y. J.</given-names></name>; <name><surname>Talarico</surname><given-names>A. M.</given-names></name>; <name><surname>Ghedini</surname><given-names>M.</given-names></name>
+<article-title>Anionic Cyclometallated
+Iridium(III) Complexes Containing
+Substituted Bivalent Ortho-Hydroquinones</article-title>. <source>Inorg.
+Chem. Commun.</source>
+<year>2013</year>, <volume>37</volume>, <fpage>80</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/J.INOCHE.2013.09.038</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Ionescu</surname><given-names>A.</given-names></name>; <name><surname>Szerb</surname><given-names>E. I.</given-names></name>; <name><surname>Yadav</surname><given-names>Y. J.</given-names></name>; <name><surname>Talarico</surname><given-names>A. M.</given-names></name>; <name><surname>Ghedini</surname><given-names>M.</given-names></name>; <name><surname>Godbert</surname><given-names>N.</given-names></name>
+<article-title>Orotate Containing
+Anionic Luminescent Iridium(III)
+Complexes and Their Use in Soft Salts</article-title>. <source>Dalton
+Trans.</source>
+<year>2014</year>, <volume>43</volume>, <fpage>784</fpage>&#x02013;<lpage>789</lpage>. <pub-id pub-id-type="doi">10.1039/C3DT52077C</pub-id>.<pub-id pub-id-type="pmid">24149586</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Dabbish</surname><given-names>E.</given-names></name>; <name><surname>Ponte</surname><given-names>F.</given-names></name>; <name><surname>Russo</surname><given-names>N.</given-names></name>; <name><surname>Sicilia</surname><given-names>E.</given-names></name>
+<article-title>Antitumor Platinum(IV)
+Prodrugs: A Systematic Computational Exploration of Their Reduction
+Mechanism by l -Ascorbic Acid</article-title>. <source>Inorg. Chem.</source>
+<year>2019</year>, <fpage>3851</fpage><pub-id pub-id-type="doi">10.1021/acs.inorgchem.8b03486</pub-id>.<pub-id pub-id-type="pmid">30843385</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Dabbish</surname><given-names>E.</given-names></name>; <name><surname>Mazzone</surname><given-names>G.</given-names></name>; <name><surname>Russo</surname><given-names>N.</given-names></name>; <name><surname>Sicilia</surname><given-names>E.</given-names></name>
+<article-title>Mechanism of Action
+of the Curcumin Cis -Diammineplatinum(II) Complex as a Photocytotoxic
+Agent</article-title>. <source>Inorg. Chem. Front.</source>
+<year>2020</year>, <volume>7</volume>, <fpage>2759</fpage>&#x02013;<lpage>2769</lpage>. <pub-id pub-id-type="doi">10.1039/D0QI00503G</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Scoditti</surname><given-names>S.</given-names></name>; <name><surname>Vigna</surname><given-names>V.</given-names></name>; <name><surname>Dabbish</surname><given-names>E.</given-names></name>; <name><surname>Sicilia</surname><given-names>E.</given-names></name>
+<article-title>Iodido Equatorial Ligands
+Influence on the Mechanism of Action of Pt(IV) and Pt(II) Anti-Cancer
+Complexes: A DFT Computational Study</article-title>. <source>J. Comput.
+Chem.</source>
+<year>2021</year>, <volume>42</volume>, <fpage>608</fpage>&#x02013;<lpage>619</lpage>. <pub-id pub-id-type="doi">10.1002/jcc.26483</pub-id>.<pub-id pub-id-type="pmid">33469953</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Perumareddi</surname><given-names>J. R.</given-names></name>; <name><surname>Adamson</surname><given-names>A. W.</given-names></name>
+<article-title>Photochemistry of
+Complex Ions. V. Photochemistry of
+Some Square-Planar Platinum(II) Complexes</article-title>. <source>J.
+Phys. Chem.</source>
+<year>1968</year>, <volume>72</volume>, <fpage>414</fpage>&#x02013;<lpage>420</lpage>. <pub-id pub-id-type="doi">10.1021/j100848a006</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Lau</surname><given-names>J. K. C.</given-names></name>; <name><surname>Deubel</surname><given-names>D. V.</given-names></name>
+<article-title>Hydrolysis of the
+Anticancer Drug Cisplatin: Pitfalls
+in the Interpretation of Quantum Chemical Calculations</article-title>. <source>J. Chem. Theory Comput.</source>
+<year>2006</year>, <volume>2</volume>, <fpage>103</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1021/ct050229a</pub-id>.<pub-id pub-id-type="pmid">26626384</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Bose</surname><given-names>R. N.</given-names></name>; <name><surname>Viola</surname><given-names>R. E.</given-names></name>; <name><surname>Cornelius</surname><given-names>R. D.</given-names></name>
+<article-title>Phosphorus-31
+NMR and Kinetic Studies
+of the Formation of Ortho-, Pyro-, and Triphosphato Complexes of Cis-Dichlorodiammineplatinum(II)</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1984</year>, <volume>106</volume>, <fpage>3336</fpage>&#x02013;<lpage>3343</lpage>. <pub-id pub-id-type="doi">10.1021/ja00323a047</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Hindmarsch</surname><given-names>K.</given-names></name>; <name><surname>House</surname><given-names>D. A.</given-names></name>; <name><surname>Turnbull</surname><given-names>M. M.</given-names></name>
+<article-title>The Hydrolysis Products of Cis-Diamminedichloroplatinum(II)
+9. Chloride and Bromide Anation Kinetics for Some [PtII(N)2(OH2)2]2+
+Complexes and the Structures of [Pt<sup>IV</sup>Br<sub>4</sub>(N)<sub>2</sub>] ((N)<sub>2</sub> = En, Tn)<sup>1</sup></article-title>. <source>Inorg. Chim. Acta</source>
+<year>1997</year>, <volume>257</volume>, <fpage>11</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1016/S0020-1693(96)05403-5</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Miller</surname><given-names>S. E.</given-names></name>; <name><surname>House</surname><given-names>D. A.</given-names></name>
+<article-title>The Hydrolysis Products
+of Cis-Dichlorodiammineplatinum(II)
+2. The Kinetics of Formation and Anation of the Cis-Diamminedi(Aqua)Platinum(II)
+Cation</article-title>. <source>Inorg. Chim. Acta</source>
+<year>1989</year>, <volume>166</volume>, <fpage>189</fpage>&#x02013;<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1016/S0020-1693(00)80810-5</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Alberto</surname><given-names>M. E.</given-names></name>; <name><surname>Butera</surname><given-names>V.</given-names></name>; <name><surname>Russo</surname><given-names>N.</given-names></name>
+<article-title>Which One among the
+Pt-Containing
+Anticancer Drugs More Easily Forms Monoadducts with G and A DNA Bases?
+A Comparative Study among Oxaliplatin, Nedaplatin, and Carboplatin</article-title>. <source>Inorg. Chem.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>6965</fpage>&#x02013;<lpage>6971</lpage>. <pub-id pub-id-type="doi">10.1021/ic200148n</pub-id>.<pub-id pub-id-type="pmid">21702455</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Bu&#x000df;</surname><given-names>I.</given-names></name>; <name><surname>Garmann</surname><given-names>D.</given-names></name>; <name><surname>Galanski</surname><given-names>M.</given-names></name>; <name><surname>Weber</surname><given-names>G.</given-names></name>; <name><surname>Kalayda</surname><given-names>G. V.</given-names></name>; <name><surname>Keppler</surname><given-names>B. K.</given-names></name>; <name><surname>Jaehde</surname><given-names>U.</given-names></name>
+<article-title>Enhancing
+Lipophilicity as a Strategy
+to Overcome Resistance against Platinum Complexes?</article-title>. <source>J. Inorg. Biochem.</source>
+<year>2011</year>, <volume>105</volume>, <fpage>709</fpage>&#x02013;<lpage>717</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinorgbio.2011.02.005</pub-id>.<pub-id pub-id-type="pmid">21450275</pub-id></mixed-citation></ref></ref-list></back></article>

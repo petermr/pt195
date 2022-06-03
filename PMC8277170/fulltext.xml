@@ -1,0 +1,836 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Inorg Chem</journal-id><journal-id journal-id-type="iso-abbrev">Inorg Chem</journal-id><journal-id journal-id-type="publisher-id">ic</journal-id><journal-id journal-id-type="coden">inocaj</journal-id><journal-title-group><journal-title>Inorganic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">0020-1669</issn><issn pub-type="epub">1520-510X</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8277170</article-id><article-id pub-id-type="pmid">34082535</article-id><article-id pub-id-type="doi">10.1021/acs.inorgchem.1c00752</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Heterometallic Ni&#x02013;Pt Chini-Type Carbonyl Clusters:
+An Example of Molecular Random Alloy Clusters</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Cesari</surname><given-names>Cristiana</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Berti</surname><given-names>Beatrice</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4259-1027</contrib-id><name><surname>Bortoluzzi</surname><given-names>Marco</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4317-6543</contrib-id><name><surname>Femoni</surname><given-names>Cristina</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Iapalucci</surname><given-names>Maria Carmela</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0739-0518</contrib-id><name><surname>Zacchini</surname><given-names>Stefano</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Dipartimento
+di Chimica Industriale &#x0201c;Toso Montanari&#x0201d;, <institution>Universit&#x000e0; di Bologna</institution>, Viale Risorgimento 4, 40136 Bologna, <country>Italy</country></aff><aff id="aff2"><label>&#x02021;</label>Dipartimento
+di Scienze Molecolari e Nanosistemi, <institution>Ca&#x02019;
+Foscari University of Venice</institution>, Via Torino 155, 30175 Mestre (Ve), <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>S.Z.:
+email, <email>stefano.zacchini@unibo.it</email>; tel, <phone>+39 051
+2093711</phone>; fax, <fax>+39 0512093690</fax>; web, <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.unibo.it/sitoweb/stefano.zacchini/en">https://www.unibo.it/sitoweb/stefano.zacchini/en</uri>.</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>06</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>21</day><month>06</month><year>2021</year></pub-date><volume>60</volume><issue>12</issue><fpage>8811</fpage><lpage>8825</lpage><history><date date-type="received"><day>11</day><month>03</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The Authors. Published
+by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0017" id="ab-tgr1"/></p><p>The direct reactions
+of homometallic [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> Chini
+carbonyl clusters result in heterometallic Ni&#x02013;Pt Chini-type
+clusters of the general formula [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6). Their molecular structures have
+been determined by single-crystal X-ray diffraction (SC-XRD), showing
+a common octahedral (staggered, <italic>D</italic><sub>3<italic>d</italic></sub>) structure analogous to that of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, whereas [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> displays a trigonal-prismatic (eclipsed, <italic>D</italic><sub>3<italic>h</italic></sub>) structure. This structural
+change after replacing one single Pt with Ni may be classified as
+an alloying effect, and it has been theoretically investigated by
+DFT methods. Spectroscopic (IR and <sup>195</sup>Pt and <sup>13</sup>C NMR) and ESI-MS studies indicate that mixtures of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters are actually
+present in solution, whose compositions may be varied in an almost
+continuous way. Thus, they may be viewed as random alloy clusters
+whose overall compositions depend on the stoichiometry of the reagents.</p></abstract><abstract abstract-type="short"><p>Molecular Pt&#x02212;Ni random alloy clusters
+adopting a
+Chini-type structure have been obtained upon mixing related homometallic
+clusters and investigated by structural, spectroscopic, and theoretical
+methods.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Ministero dell???Istruzione, dell???Universit?? e della Ricerca</institution><institution-id institution-id-type="doi">10.13039/501100003407</institution-id></institution-wrap></funding-source><award-id>20173L7W8K</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Universit?? di Bologna</institution><institution-id institution-id-type="doi">10.13039/501100005969</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ic1c00752</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ic1c00752</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Platinum carbonyl Chini clusters of the type [Pt<sub>3<italic>n</italic></sub>(CO)<sub>6<italic>n</italic></sub>]<sup>2&#x02013;</sup> (<italic>n</italic> = 1&#x02013;10) have greatly contributed to cluster chemistry
+and inorganic chemistry in general.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> These
+are composed of Pt<sub>3</sub>(&#x003bc;-CO)<sub>3</sub>(CO)<sub>3</sub> units stacked along a pseudo-<italic>C</italic><sub>3</sub> axis,
+and these triangles are nearly eclipsed in the solid state, resulting
+in trigonal-prismatic structures. A bond analysis of Chini clusters
+gives major insights into the different types of M&#x02013;M bonds
+in metal clusters.<sup><xref ref-type="bibr" rid="ref2">2</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> Thus, intratriangular Pt&#x02013;Pt bonds are shorter (2.65&#x02013;2.68
+&#x000c5;) and are almost localized, whereas intertriangular Pt&#x02013;Pt
+bonds are longer (3.02&#x02013;3.24 &#x000c5;) and are highly delocalized.
+As a consequence, higher nuclearity Chini clusters (<italic>n</italic> &#x02265; 5) form discontinuous, semicontinuous, or continuous chains
+in the solid state, whose electric conductivity increases with the
+nuclearity (and thus the intertriangular delocalization).<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Triangle exchange has been also observed in solution by <sup>195</sup>Pt NMR.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>Related nickel clusters are limited
+to the lower nuclearity species
+[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Ni<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup>, probably because Ni&#x02013;Ni
+bonds are weaker than Pt&#x02013;Pt bonds; therefore, they cannot support
+the stacks of further triangles.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> Moreover, in the solid
+state, [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> displays
+an octahedral (staggered, <italic>D</italic><sub>3<italic>d</italic></sub>) structure rather than the trigonal-prismatic (eclipsed, <italic>D</italic><sub>3<italic>h</italic></sub>) structure of [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. This structural difference
+has been explained by Dahl, Chini and Longoni on the basis of the
+smaller size of Ni compared to Pt: &#x0201c;<italic>The marked difference
+between the much longer intertriangular Pt&#x02013;Pt distances of
+3.04 &#x000c5; in the prismatic platinum cluster vs the corresponding
+Ni&#x02013;Ni distances of 2.77 &#x000c5; in the antiprismatic nickel
+cluster is in accord with the premise that repulsive forces between
+the two halves of the dianion sufficiently increase at the smaller
+Ni&#x02013;Ni distance to give the staggered conformation</italic>&#x0201d;.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup></p><p>It must be remarked that liquid X-ray
+scattering studies point
+out a staggered (<italic>D</italic><sub>3</sub>) structure for both
+[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in solution, somewhat
+intermediate between the solid-state structures.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> In addition, theoretical studies indicate that the intertriangular
+rotation energy barrier is rather small. [Ni<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup> displays a mixed structure, where two triangles
+are eclipsed as in [Pt<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup>, whereas the other two are staggered, resulting in a Ni<sub>9</sub> metal core composed of a trigonal prism and an octahedron fused
+together by a triangular face.</p><p>It was briefly reported by Longoni
+et al. that, upon mixing equimolar
+amounts of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, a purported
+heterometallic [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>6</sub>]<sup>2&#x02013;</sup> cluster is formed, but it was not possible to structurally
+characterize it.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> In view of the renewed interest
+in alloy molecular clusters and nanoclusters,<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> we decided to reinvestigate the chemistry of heterometallic Ni&#x02013;Pt
+Chini-type carbonyl clusters. Herein, we report the synthesis and
+structural characterization by single-crystal X-ray diffraction (SC-XRD)
+of random alloy [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters, as well as spectroscopic studies (IR, <sup>195</sup>Pt and <sup>13</sup>C NMR, ESI-MS) in solution and theoretical
+investigations.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><sec id="sec2.1"><label>2.1</label><title>Synthesis and Molecular Structures of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1.25, 2.53, 3.24,
+4.15, 4.16, 4.41, 5.78, 5.90)</title><p>The direct reactions of pure
+samples of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in different
+stoichiometric amounts result in heterometallic [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters, whose
+composition can be varied in an almost continuous way just by controlling
+the stoichiometry of the reagents (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). Pt-rich clusters can be alternatively
+obtained by the reduction of [Pt<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup> with [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. The heterometallic nature of these [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters has been fully unraveled by SC-XRD on salts of different
+compositions (<italic>x</italic> = 1.25, 2.53, 3.24, 4.15, 4.16, 4.41,
+5.78, 5.90), mainly with [NBu<sub>4</sub>]<sup>+</sup> as the counterion.
+The fractionary indices found by SC-XRD indicate that mixtures of
+clusters are actually present in the solid state. The Ni&#x02013;Pt
+composition of the samples has been confirmed by microwave plasma-atomic
+emission spectrometry (MP-AES), and the nature of the different clusters
+composing such mixtures has been further investigated by ESI-MS (see
+below). The samples for MP-AES analyses have been mineralized with
+HNO<sub>3</sub>/HCl (aqua regia) and diluted with H<sub>2</sub>O (see
+the <xref rid="sec4" ref-type="other">Experimental Section</xref> for details). The
+resulting Pt/Ni compositions are in good agreement with those determined
+by SC-XRD.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Molecular structure and synthesis of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1.25, 2.53, 3.24, 4.15, 4.16, 4.41, 5.78,
+5.90) from [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. Color code:
+green, Ni; purple, Pt; yellow, blue, and orange, disordered Ni/Pt
+with different occupancy factors; red, O; gray, C. The composition
+of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> is controlled by the
+stoichiometry of the reagents.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0001" id="gr5" position="float"/></fig><p>Experiments have been performed by mixing [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in different stoichiometric ratios (1:5, 1:2,
+1:1, 2:1, 5:1) in thf, and the resulting [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters have been analyzed by IR spectroscopy and
+MP-AES after workup (see the <xref rid="sec4" ref-type="other">Experimental Section</xref> for details) of the reaction mixtures (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). The Pt/Ni content found in the isolated
+[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters is in good
+agreement with that calculated on the basis of the stoichiometric
+ratio of the reagents. These experiments corroborate the results obtained
+by joint SC-XRD and MP-AES analyses (see above) and support the conclusion
+that the composition of the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters can be controlled by the stoichiometry of the reaction
+and varied in an almost continuous way.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>MP-AES
+Study of the Reaction between
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] and
+[NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>:[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> stoichiometry</th><th style="border:none;" align="center" char=".">Pt:Ni calcd</th><th style="border:none;" align="center" char=".">Pt:Ni
+by MP-AES</th><th style="border:none;" align="center">IR (thf, 293 K) &#x003bd;<sub>CO</sub>, cm<sup>&#x02013;1</sup></th></tr></thead><tbody><tr><td style="border:none;" align="left">1:5</td><td style="border:none;" align="char" char=".">0.20</td><td style="border:none;" align="char" char=".">0.20</td><td style="border:none;" align="left">1983(vs), 1810(m), 1787(m)</td></tr><tr><td style="border:none;" align="left">1:2</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">0.56</td><td style="border:none;" align="left">2003(s), 1984(vs), 1809(m)</td></tr><tr><td style="border:none;" align="left">1:1</td><td style="border:none;" align="char" char=".">1.00</td><td style="border:none;" align="char" char=".">1.24</td><td style="border:none;" align="left">2004(vs), 1984(vs), 1802(m)</td></tr><tr><td style="border:none;" align="left">2:1</td><td style="border:none;" align="char" char=".">2.00</td><td style="border:none;" align="char" char=".">2.32</td><td style="border:none;" align="left">2004(vs), 1985(sh), 1802(m)</td></tr><tr><td style="border:none;" align="left">5:1</td><td style="border:none;" align="char" char=".">5.00</td><td style="border:none;" align="char" char=".">5.44</td><td style="border:none;" align="left">2005(vs), 1802 (m)</td></tr></tbody></table></table-wrap><p>All of the structurally characterized
+[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters display an
+octahedral (staggered, <italic>D</italic><sub>3<italic>d</italic></sub>) structure (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> and <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>), as
+was previously found in [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. Thus, it is enough to replace
+one Pt with one Ni atom in order to invert the solid-state structure
+from trigonal prismatic to octahedral. Indeed, [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] displays in the solid state
+a trigonal-prismatic structure (as previously found with other cations),<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> ruling out the possibility that the cation may
+influence the solid-state structures of such clusters. Thus, the structural
+change observed on passing from [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> to [Pt<sub>5</sub>Ni(CO)<sub>12</sub>]<sup>2&#x02013;</sup> may be classified as an alloying effect. Moreover, SC-XRD analyses
+indicate that the six metal positions of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1.25, 2.53, 3.24, 4.15, 4.16,
+4.41, 5.78, 5.90) can be randomly occupied by Ni and Pt, the overall
+composition of each sample depending solely on the stoichiometric
+ratio of the reagents adopted for the synthesis. The intratriangular
+M&#x02013;M contacts are considerably shorter than the intertriangular
+M&#x02013;M contacts (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>), as was previously found in the homometallic species [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. Moreover, both intra- and
+intertriangular M&#x02013;M distances are significantly shortened by
+increasing the Ni contents of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1.25, 2.53, 3.24, 4.15, 4.16, 4.41, 5.78,
+5.90), as expected on the basis of the smaller covalent radius of
+Ni (1.24 &#x000c5;) in comparison to Pt (1.36 &#x000c5;).<sup><xref ref-type="bibr" rid="ref24">24</xref></sup></p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>M&#x02013;M Distances (&#x000c5;) of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1.25, 2.53, 3.24,
+4.15, 4.16, 4.41, 5.78, 5.90) Compared to Those of [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0) and
+[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 6)<xref rid="tbl2-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="char" char="."/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center" char="."><italic>x</italic></th><th style="border:none;" align="center">M&#x02013;M<sub>intratriangle</sub></th><th style="border:none;" align="center">M&#x02013;M<sub>intertriangle</sub></th></tr></thead><tbody><tr><td style="border:none;" align="char" char=".">0.00<xref rid="t2fn1" ref-type="table-fn">b</xref></td><td style="border:none;" align="left">2.6519(5)&#x02013;2.6572(4)</td><td style="border:none;" align="left">2.9947(4)&#x02013;3.0150(6)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av&#x000a0;2.6543(7)</td><td style="border:none;" align="left">av&#x000a0;3.0015(8)<xref rid="t2fn1" ref-type="table-fn">b</xref></td></tr><tr><td style="border:none;" align="char" char=".">1.25</td><td style="border:none;" align="left">2.6456(8)&#x000a0;&#x02212;2.6468(10)</td><td style="border:none;" align="left">3.0757(9)&#x02013;3.2064(8)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.6460(16)</td><td style="border:none;" align="left">av 3.1477(15)</td></tr><tr><td style="border:none;" align="char" char=".">2.53</td><td style="border:none;" align="left">2.6054(3)&#x02013;2.6150(3)</td><td style="border:none;" align="left">3.0287(3)&#x02013;3.2129(4)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.6086(5)</td><td style="border:none;" align="left">av 3.1226(5)</td></tr><tr><td style="border:none;" align="char" char=".">3.24</td><td style="border:none;" align="left">2.5813(6)&#x02013;2.5842(6)</td><td style="border:none;" align="left">2.9847(6)&#x02013;3.0871(6)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.5827(10)</td><td style="border:none;" align="left">av 3.0379(10)</td></tr><tr><td style="border:none;" align="char" char=".">4.15</td><td style="border:none;" align="left">2.5191(3)-2.5470(3)</td><td style="border:none;" align="left">2.9381(3)-3.0412(3)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">Average 2.5364(5)</td><td style="border:none;" align="left">Average 2.9820(5)</td></tr><tr><td style="border:none;" align="char" char=".">4.16</td><td style="border:none;" align="left">2.5217(4)&#x02013;2.5491(4)</td><td style="border:none;" align="left">2.9423(3)&#x02013;3.0472(4)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.5387(7)</td><td style="border:none;" align="left">av 2.9871(7)</td></tr><tr><td style="border:none;" align="char" char=".">4.41</td><td style="border:none;" align="left">2.5000(13)&#x02013;2.5285(16)</td><td style="border:none;" align="left">2.8147(14)&#x02013;3.0099(14)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">Average 2.518(2)</td><td style="border:none;" align="left">Average 2.955(2)</td></tr><tr><td style="border:none;" align="char" char=".">5.78</td><td style="border:none;" align="left">2.3873(4)-2.4179(5)</td><td style="border:none;" align="left">2.7767(4)-2.8425(4)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.4055(7)</td><td style="border:none;" align="left">av 2.7988(7)</td></tr><tr><td style="border:none;" align="char" char=".">5.90</td><td style="border:none;" align="left">2.3854(3)&#x02013;2.4100(3)</td><td style="border:none;" align="left">2.7663(3)&#x02013;2.8328(3)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.3988(5)</td><td style="border:none;" align="left">av 2.7899(5)</td></tr><tr><td style="border:none;" align="char" char=".">6.00<xref rid="t2fn2" ref-type="table-fn">c</xref></td><td style="border:none;" align="left">2.375(2)&#x02013;2.386(2)</td><td style="border:none;" align="left">2.740(2)&#x02013;2.847(3)</td></tr><tr><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="left">av 2.379(3)</td><td style="border:none;" align="left">av 2.779(3)</td></tr></tbody></table><table-wrap-foot><fn id="tbl2-fn1"><label>a</label><p>All data are for [NBu<sub>4</sub>]<sup>+</sup> salts
+at 100 K except for [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> ([AsPh<sub>4</sub>]<sup>+</sup>, 153 K).</p></fn><fn id="t2fn1"><label>b</label><p>Trigonal-prismatic (eclipsed, <italic>D</italic><sub>3<italic>h</italic></sub>) structure. All of the other
+entries adopt the octahedral (staggered, <italic>D</italic><sub>3<italic>d</italic></sub>) structure. Because of this, the M&#x02013;M<sub>intertriangle</sub> distances of [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0) are shorter than expected
+in comparison to the general trend observed for octahedral clusters
+with increasing Pt content.</p></fn><fn id="t2fn2"><label>c</label><p>From ref (<xref ref-type="bibr" rid="ref25">25</xref>).</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2.2"><label>2.2</label><title>IR and ESI-MS Studies</title><p>The IR spectra
+of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> =
+0&#x02013;6) are rather broad and somewhat intermediate between those
+of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S1&#x02013;S13</ext-link> in the Supporting Information). They show two main &#x003bd;<sub>CO</sub> bands, one in the terminal region (2003&#x02013;1982 cm<sup>&#x02013;1</sup>) and one corresponding to edge-bridging carbonyls (1809&#x02013;1784
+cm<sup>&#x02013;1</sup>). The frequencies are moved to lower wavenumbers
+by increasing the Ni content of the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters, in accordance with the
+lower electronegativity of Ni in comparison to Pt. In some cases two
+bands are present, in agreement with the formation of mixtures of
+products (see below).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>IR spectra (&#x003bd;<sub>CO</sub> region) recorded in thf
+of (A)
+[NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>], (B)
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (1:2 molar
+ratio), (C) [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (1:1 molar ratio), (D) [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (2:1 molar ratio), and (E) [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0002" id="gr6" position="float"/></fig><p>In order to further investigate the nature of such mixtures of
+clusters, samples with different compositions have been studied in
+CH<sub>3</sub>CN solution by ESI-MS. The samples analyzed are crystals
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25) and [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(mixture of <italic>x</italic> = 3.24, 4.15, 4.16), as well as the
+products obtained after workup of the reactions of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9</sub>(CO)<sub>18</sub>] with 1.2 mol equiv
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+and of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>11</sub>] with 1 mol equiv of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]. The Pt:Ni composition of these samples has been
+determined by MP-AES analyses, as described in the previous section
+and, in the case of crystalline samples, also by means of SC-XRD.
+The full spectra are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S14&#x02013;S43</ext-link> in the Supporting Information (including calculated fits of the
+prominent peaks), and peak assignments are summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Tables S1&#x02013;S4</ext-link>. In order to support the
+peak assignment, their experimental isotopic patterns have been compared
+with the theoretical patterns based on the formulas.</p><p>Under ESI-MS
+conditions, the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters retain their dianionic
+nature, as was also corroborated by the systematic loss or addition
+of <italic>m</italic>/<italic>z</italic> 14 units from the molecular
+ions, which correspond to a CO ligand (28 amu), assuming <italic>z</italic> = 2. Indeed, it must be remarked that up to three CO ligands can
+be added or removed from [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) in the gas phase. Interestingly, <sup>13</sup>CO/<sup>12</sup>CO exchange of Chini clusters has been claimed
+to proceed through an associative mechanism which involves a purported
+[Pt<sub>6</sub>(CO)<sub>13</sub>]<sup>2&#x02013;</sup> species as an
+intermediate or transition state.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Even
+if there is no evidence in solution for such species, the present
+findings show that at least in the gas phase these adducts may exist.</p><p>In some cases, also monoanionic adducts of the type {[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>][NBu<sub>4</sub>]}<sup>&#x02212;</sup> (<italic>x</italic> = 0&#x02013;6) have
+been observed during the ESI-MS analyses of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>.</p><p>For instance, in the case of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25) crystals
+dissolved in CH<sub>3</sub>CN, peaks attributable to all of the species
+(relative intensities
+in parentheses) [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (10), [Pt<sub>5</sub>Ni(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (199),
+[Pt<sub>4</sub>Ni<sub>2</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (65), [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (28), [Pt<sub>2</sub>Ni<sub>4</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (35), and [PtNi<sub>5</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (15) have been observed (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref> and <xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>; further details are given
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S14&#x02013;S21</ext-link> in the Supporting
+Information).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>ESI-MS spectrum in CH<sub>3</sub>CN (ES&#x02212;) of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> =
+1.25).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0003" id="gr7" position="float"/></fig><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Peak Assignment of
+the ESI-MS Spectrum
+(ES&#x02212;) of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 1.25)</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0015" id="GRAPHIC-d7e2035-autogenerated" position="float"/></table-wrap><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Isotopic pattern
+of the peak at <italic>m</italic>/<italic>z</italic> 1749 of the ESI-MS
+spectrum in CH<sub>3</sub>CN (ES&#x02212;) of
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25): (top two traces) calculated isotopic patterns for {[Pt<sub>6</sub>(CO)<sub>12</sub>][NBu<sub>4</sub>]}<sup>&#x02212;</sup>; (bottom
+trace) experimental isotopic pattern.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0004" id="gr8" position="float"/></fig><p>Conversely, in the case of a sample obtained after mixing equimolar
+amounts of [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> and <xref rid="tbl4" ref-type="other">Table <xref rid="tbl4" ref-type="other">4</xref></xref>; further details are given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S37&#x02013;S43</ext-link> in the Supporting Information),
+the following clusters have been detected by ESI-MS (relative intensities
+in parentheses): [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (18), [Pt<sub>5</sub>Ni(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (20),
+[Pt<sub>4</sub>Ni<sub>2</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (33), [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (85), [Pt<sub>2</sub>Ni<sub>4</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (72), [PtNi<sub>5</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (70),
+and [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (108). Further
+examples may be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Supporting Information</ext-link>. Overall, it seems that an almost continuous distribution of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters,
+whose composition depends on stoichiometry, can be obtained. Thus,
+all six positions of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) can be occupied by Ni or Pt, giving a random
+alloy molecular cluster, whose average composition is controlled by
+the stoichiometry of the reaction. Moreover, each [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> sample is actually a complex mixture of heterometallic
+Chini clusters, which often comprise all of the species from <italic>x</italic> = 0 to <italic>x</italic> = 6. The predominant clusters
+in each sample mainly depend on the Pt:Ni ratio that, in turn, is
+controlled by the [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>:[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> ratio employed
+for the synthesis.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>ESI-MS spectrum in CH<sub>3</sub>CN (ES&#x02212;) of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>11</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (1:1 molar
+ratio)
+after workup.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0005" id="gr9" position="float"/></fig><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Peak Assignment of
+the ESI-MS Spectrum
+(ES&#x02212;) of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>11</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (1:1 Molar Ratio) after Workup</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0016" id="GRAPHIC-d7e2344-autogenerated" position="float"/></table-wrap></sec><sec id="sec2.3"><label>2.3</label><title>NMR Studies</title><p>A single isomer is expected
+in the case of [Pt<sub>5</sub>Ni(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [PtNi<sub>5</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, whereas
+three isomers can be depicted for [Pt<sub>4</sub>Ni<sub>2</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, and [Pt<sub>2</sub>Ni<sub>4</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (see <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, where the isomers are labeled <bold>1</bold>&#x02013;<bold>10</bold>). For each of the last species, the three
+isomers can be easily interconverted by a combination of intramolecular
+triangle rotation and CO migration processes. These are summarized
+in <xref rid="sch1" ref-type="scheme">Schemes <xref rid="sch1" ref-type="scheme">1</xref></xref> and <xref rid="sch2" ref-type="scheme">2</xref> for the three isomers of [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<bold>3</bold>-(Pt<sub>3</sub>)(Ni<sub>3</sub>), <bold>4</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>), and <bold>4&#x02032;</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>)). In particular, the rearrangement of the CO ligands around
+the octahedral metal core transforms <bold>3</bold>-(Pt<sub>3</sub>)(Ni<sub>3</sub>) into <bold>4</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>), which in turn is transformed into <bold>4&#x02032;</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>) upon reciprocal rotation of
+the Pt<sub>2</sub>Ni and PtNi<sub>2</sub> triangles. Details for the
+other species can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S53&#x02013;S55</ext-link> in the Supporting Information.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Possible isomers of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6). Isomers <bold>1</bold>&#x02013;<bold>10</bold> are interconverted by a combination
+of intermolecular triangle exchange
+reactions and intramolecular CO exchange. Isomers <bold>4</bold>/<bold>4&#x02032;</bold>, <bold>5</bold>/<bold>5&#x02032;</bold> ,and <bold>6</bold>/<bold>6&#x02032;</bold> are interconverted by intramolecular
+triangle rotation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0006" id="gr10" position="float"/></fig><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Isomerization by
+CO Migration of [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>&#x0202f;</title><p id="sch1-fn1">Only &#x003bc;-CO groups are
+represented. Color code: white, Ni; black, Pt. Further details are
+given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S53 and S54</ext-link> in the Supporting
+Information.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0011" id="gr1" position="float"/></fig><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Isomerization by Triangle Rotation
+of [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>&#x0202f;</title><p id="sch2-fn1">CO groups are omitted. Color
+code; white, Ni; black, Pt. Further details are given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S55</ext-link> in the Supporting Information.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0012" id="gr2" position="float"/></fig><p>CO migration has been previously observed for [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> but not [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> Variable-temperature
+(VT) <sup>195</sup>Pt and <sup>13</sup>C NMR experiments (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S47&#x02013;S50</ext-link> in the Supporting Information)
+confirm
+that [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> is static,
+whereas all other species present in the solutions of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1&#x02013;6) are somewhat fluxional,
+even if the spectra are too complicated to be easily interpreted.
+As reported by Longoni and Heaton,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> the
+CO exchange process of lowest activation energy involves a bridge&#x02013;terminal
+carbonyl exchange, which results in randomization of the ligands of
+[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. This mechanism
+can be extended to other [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1&#x02013;5) clusters, whereas [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> does not show a bridge&#x02013;terminal
+carbonyl exchange.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Therefore, it seems
+that this phenomenon is somewhat related to the octahedral (staggered, <italic>D</italic><sub>3<italic>d</italic></sub>) structure found in the
+solid state for [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 1&#x02013;6), whereas [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0) displays a trigonal-prismatic (eclipsed, <italic>D</italic><sub>3<italic>h</italic></sub>) structure. Conversely,
+intramolecular rotation of the two M<sub>3</sub> triangles has been
+proposed on the basis of multinuclear VT NMR and liquid X-ray scattering
+studies for both [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>In addition to such intramolecular
+CO exchange processes, also
+intermolecular triangle exchanges are possible (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S52</ext-link> in the Supporting Information). Such intermolecular
+processes have been previously evidenced for Pt Chini clusters through
+VT <sup>195</sup>Pt NMR experiments.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> In principle,
+the intermolecular exchange of M<sub>3</sub>(CO)<sub>6</sub> units
+in solution may occur via either a dissociative or an associative
+mechanism. The latter should require the shuttling of M<sub>3</sub>(CO)<sub>6</sub> units between [M<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> anions. In contrast, the associative mechanism might
+proceed through the self-assembly of two or more [M<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> anions into a supramolecular aggregate,
+following by its falling apart. Self-assembly of Pt Chini clusters
+has been assessed in the solid state by SC-XRD and has been partially
+supported in solution by dynamic light scattering (DLS) studies.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Nonetheless, experimental data point out that
+the tendency to self-assemble increases with the nuclearity of [Pt<sub>3<italic>n</italic></sub>(CO)<sub>6<italic>n</italic></sub>]<sup>2&#x02013;</sup> (<italic>n</italic> = 1&#x02013;10) clusters and self-assembly
+has not been observed for Ni Chini-type clusters. Thus, it is not
+possible at the moment to decide the actual mechanism, associative
+or dissociative, for the intermolecular triangle exchange between
+[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters.</p><p>Overall,
+the aforementioned intra- and intermolecular exchange
+processes are responsible for the formation of the very rich and almost
+continuous distribution of products observed in the reactions described
+in <xref rid="sec2.1" ref-type="other">section 2.1</xref>. Indeed, we can assume that,
+when [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> are mixed, the equilibrium
+depicted in <xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref> is obtained by a statistical triangle exchange:</p><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Triangle Exchange
+between [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>&#x0202f;</title><p id="sch3-fn1">Color code: white, Ni; black,
+Pt.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0013" id="gr3" position="float"/></fig><p>Indeed, two singlets at &#x02212;4510 and
+&#x02212;4485 ppm, attributable
+to [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (isomer <bold>3</bold>-(Pt<sub>3</sub>)(Ni<sub>3</sub>), <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>), appear in the <sup>195</sup>Pt NMR spectrum
+as soon as the two homometallic clusters are mixed (see <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>). After a few hours, the <sup>195</sup>Pt NMR spectrum changes and other resonances appear, leading
+to very complex spectra, which depend on the stoichiometry of the
+reaction (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S44&#x02013;S46</ext-link> in
+the Supporting Information). Even if it is not possible to assign
+all the resonances of these very complex spectra, they lend support
+to the occurrence of the intermolecular triangle exchange processes
+as well as intramolecular isomerization by triangle rotation and CO
+migration processes depicted in <xref rid="sch1" ref-type="scheme">Schemes <xref rid="sch1" ref-type="scheme">1</xref></xref>&#x02013;<xref rid="sch3" ref-type="scheme">3</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S52&#x02013;S55</ext-link> in the Supporting Information.
+The overall result is the formation of complex mixtures of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters
+differing in the composition and/or position of Ni and Pt. SC-XRD
+cannot help in distinguishing among the different isomers due to the
+presence of mixtures of clusters (as also evidenced by ESI-MS studies)
+and the disorder found in the solid-state structures.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p><sup>195</sup>Pt NMR
+spectra of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] + [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (1:2 molar ratio) in CD<sub>3</sub>COCD<sub>3</sub> at 298 K recorded
+at different times.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0007" id="gr11" position="float"/></fig><p>Some representative
+inter- and intramolecular processes for the
+formation of mixtures of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters are represented in <xref rid="sch4" ref-type="scheme">Scheme <xref rid="sch4" ref-type="scheme">4</xref></xref>. Further details
+can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S52&#x02013;S55</ext-link> in
+the Supporting Information. Thus, triangle exchange between [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<bold>1</bold>-(Ni<sub>3</sub>)(Ni<sub>3</sub>)) and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<bold>2</bold>-(Pt<sub>3</sub>)(Pt<sub>3</sub>))
+directly results in [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (isomer <bold>3</bold>-(Pt<sub>3</sub>)(Ni<sub>3</sub>)), which in turn may be converted into [Pt<sub>3</sub>Ni<sub>3</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (isomer <bold>4</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>)) by CO migration. Subsequent
+exchange of a triangle between <bold>4</bold>-(Pt<sub>2</sub>Ni)(PtNi<sub>2</sub>) and the starting <bold>1</bold>-(Ni<sub>3</sub>)(Ni<sub>3</sub>) affords a mixture of [Pt<sub>2</sub>Ni<sub>4</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (isomer <bold>8</bold>-(Ni<sub>3</sub>)(Pt<sub>2</sub>Ni)) and [PtNi<sub>5</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<bold>10</bold>-(Ni<sub>3</sub>)(PtNi<sub>2</sub>)). Migration of the CO ligands of <bold>8</bold>-(Ni<sub>3</sub>)(Pt<sub>2</sub>Ni) results in the isomer <bold>6</bold>-(PtNi<sub>2</sub>)(PtNi<sub>2</sub>), which may exchange a triangle with <bold>2</bold>-(Pt<sub>3</sub>)(Pt<sub>3</sub>), affording [Pt<sub>4</sub>Ni<sub>2</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (isomer <bold>7</bold>-(Pt<sub>3</sub>)(PtNi<sub>2</sub>)). A complete list of
+such reactions may be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S52&#x02013;S55</ext-link> in the Supporting Information. Overall, independently of the stoichiometric
+ratio of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in the reaction,
+all of the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) clusters may be obtained through the triangle exchange,
+CO migration, and triangle rotation processes described herein. This
+is in keeping with the results of ESI-MS analyses and also may explain
+the complexity of the <sup>195</sup>Pt NMR spectra.</p><fig id="sch4" position="float"><label>Scheme 4</label><caption><title>Some Representative
+Inter- and Intramolecular Processes for the Formation
+of Mixtures of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0-6) Clusters</title><p id="sch4-fn1">CO groups are omitted. Color
+code: white, Ni; black, Pt. Further details are given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S52&#x02013;S55</ext-link> in the Supporting Information.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0014" id="gr4" position="float"/></fig></sec><sec id="sec2.4"><label>2.4</label><title>Computational Studies</title><p>The preferential
+formation of octahedral clusters in the presence of Ni centers was
+confirmed by DFT calculations. Initial attempts to optimize the trigonal-prismatic
+geometry of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> failed,
+as expected from the X-ray outcomes. On the other hand, the eclipsed
+geometry of [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> was
+correctly simulated with the TPSS0 DFT functional<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> in combination with the def2-TVZP basis set (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S56</ext-link> in the Supporting Information).<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> To better investigate the role of the metallic
+centers on the geometry of the clusters, the ground-state octahedral
+structure was optimized for all of the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> isomers depicted in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> (see for instance the DFT-optimized structure of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S56</ext-link> in the Supporting Information). With the optimized
+staggered conformations as starting points, the dihedral angle describing
+the mutual position of the two {M<sub>3</sub>} triangles (60&#x000b0;
+for the ideal <italic>D</italic><sub>3<italic>d</italic></sub> geometry)
+was varied until the trigonal-prismatic arrangement (<italic>D</italic><sub>3<italic>h</italic></sub>) was reached (0&#x000b0;). The energy
+variations associated with the process are depicted in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>. The highest and lowest variations
+respectively correspond to [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, and the
+relative energy of the trigonal-prismatic conformations roughly grows
+with the Ni content. More in detail, the relative energy increases
+with the number of Ni&#x02013;Ni intratriangular interactions. On the
+other hand, the <italic>D</italic><sub>3<italic>h</italic></sub> relative
+energy decreases when Pt&#x02013;Pt intertriangular bonds are formed,
+but the destabilizing effect of Ni&#x02013;Ni interactions appears
+to be more pronounced. The relative stability of the trigonal prisms
+depicted in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref> can be rationalized on considering the intratriangular bond strength
+order: Ni&#x02013;Ni &#x0226a; Ni&#x02013;Pt &#x0003c; Pt&#x02013;Pt. On the
+basis of the experimental outcomes, the replacement of one Pt&#x02013;Pt
+bond with Ni&#x02013;Pt is sufficient to favor the staggered disposition
+of the two {M<sub>3</sub>} triangles.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Relative energy variations of clusters <bold>1</bold>&#x02013;<bold>10</bold> on changing the dihedral angle defining
+the relative position
+of the two {M<sub>3</sub>} triangles, from the optimized octahedral
+geometry to the trigonal-prismatic conformation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0008" id="gr12" position="float"/></fig><p>The energy profiles relative to <bold>1</bold>-(Ni<sub>3</sub>)(Ni<sub>3</sub>) and <bold>2</bold>-(Pt<sub>3</sub>)(Pt<sub>3</sub>) in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref> were further investigated
+by a geometry optimization of the structures, keeping the intertriangular
+dihedral angles constrained. The new profiles thus obtained (<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>) are characterized
+by lower energy variations, mainly because of the optimization of
+the intratriangular distances. Despite this change, the lower stability
+of the trigonal-prismatic arrangement for <bold>1</bold>-(Ni<sub>3</sub>)(Ni<sub>3</sub>) with respect to <bold>2</bold>-(Pt<sub>3</sub>)(Pt<sub>3</sub>) was confirmed.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>Relative energy variations of clusters <bold>1</bold> and <bold>2</bold> on changing the dihedral angle defining
+the relative position
+of the two {M<sub>3</sub>} triangles: (solid lines) single-point calculations;
+(dashed lines) geometry optimizations with constrained intertriangular
+dihedral angles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0009" id="gr13" position="float"/></fig><p>The HOMO of the [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters
+describes in all of the cases bonding overlap between the {M<sub>3</sub>} triangles, in both the eclipsed and staggered dispositions. Plots
+of the HOMOs are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figures S58 and S59</ext-link> in the Supporting Information. As can be observed, there is no qualitative
+variation on changing the composition of the clusters. Unfortunately,
+the different stabilities of the conformations do not appear to be
+correlated to the small energy variations of the HOMO on changing
+the relative position of the triangles. The lower stability of the
+trigonal-prismatic conformation of the Ni-containing clusters can
+instead be associated with the reduction of the intertriangular distance
+caused by the replacement of Pt with Ni, as previously suggested by
+Dahl, Chini, and Longoni.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> As can be observed
+in <xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref> for [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, the HOMO-1 and HOMO-2 molecular
+orbitals account for intratriangular bonds, but the same orbitals
+have antibonding character for the intertriangular interaction. The
+shortening of the intratriangular distance can cause an unfavorable
+overlap and therefore destabilize the eclipsed configuration. Such
+an assumption is corroborated almost in part by the higher energies
+of HOMO-1 and HOMO-2 in [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> with respect to [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> in a trigonal-prismatic geometry (<xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>). Differently from the eclipsed configuration,
+the HOMO-1 and HOMO-2 molecular orbitals of octahedral [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> do not show relevant intratriangular
+antibonding overlaps (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Figure S60</ext-link> in
+the Supporting Information).</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>HOMO-1 and HOMO-2 orbitals and relative energies
+of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>, in constraint-optimized
+trigonal-prismatic
+configurations. Surface isovalue: 0.025 au.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_0010" id="gr14" position="float"/></fig><p>An AIM analysis of the optimized octahedral [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> clusters and on the constraint-optimized trigonal-prismatic
+conformations allowed us to localize the M&#x02013;M (3,&#x02013;1)
+bond critical points (bcp.s). Electron density (&#x003c1;) values at
+the bcps are collected in <xref rid="tbl5" ref-type="other">Table <xref rid="tbl5" ref-type="other">5</xref></xref>. As can be observed, in the case of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> the average &#x003c1; value
+is lower for the trigonal-prismatic conformation with respect to the
+octahedral conformation, while the opposite trend was obtained for
+[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>. The AIM results
+are therefore in line with the evidence of a preferred staggered conformation
+of [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> with respect
+to [Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup>.</p><table-wrap id="tbl5" position="float"><label>Table 5</label><caption><title>Average Electron Density Values (au)
+at the M&#x02013;M bcp</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">octahedral</th><th style="border:none;" align="center" char=".">trigonal prismatic</th></tr></thead><tbody><tr><td style="border:none;" align="left">[Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup></td><td style="border:none;" align="char" char=".">0.028</td><td style="border:none;" align="char" char=".">0.026</td></tr><tr><td style="border:none;" align="left">[Pt<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup></td><td style="border:none;" align="char" char=".">0.023</td><td style="border:none;" align="char" char=".">0.029</td></tr></tbody></table></table-wrap></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In conclusion, a series of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6) heterometallic
+Ni&#x02013;Pt Chini-type
+carbonyl clusters has been prepared by starting from the related homometallic
+species. These may be viewed as random alloy clusters, since all six
+positions of the metal cage can be occupied by Ni/Pt, generating mixtures
+of clusters whose overall composition depends only on the stoichiometry
+of the reactions. Random alloy clusters represent an alternative to
+site-specific doping and metal segregation that can be observed when
+different metals are mixed in the molecular and nanoscale domain.<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref29">29</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup></p><p>In the
+bulk, Ni and Pt metals both adopt a face-centered-cubic
+(fcc) structure (space group <italic>Fm</italic>&#x00033;&#x00305;<italic>m</italic>). In the solid state, Ni and Pt are completely miscible, resulting
+in a continuous solid solution (random alloy), at least at higher
+temperatures. At lower <italic>T</italic> (&#x0003c;600 &#x000b0;C), some
+segregation is observed when the weight percent of Pt is in the range
+15&#x02013;100%, and the Ni<sub>3</sub>Pt, NiPt, and NiPt<sub>3</sub> phases have been observed.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> In the present
+work, it has been shown that, at the molecular level, in the low-nuclearity
+[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> =
+0&#x02013;6) clusters, all six metal positions can be randomly occupied
+by Ni and Pt, resulting in a Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub> (<italic>x</italic> = 0&#x02013;6)
+&#x0201c;continuous molecular solution&#x0201d;. In contrast, complete
+segregation has been observed in the [H<sub>3&#x02013;<italic>n</italic></sub>Ni<sub>38</sub>Pt<sub>6</sub>(CO)<sub>44</sub>]<sup><italic>n</italic>&#x02212;</sup> (<italic>n</italic> = 3&#x02013;6) molecular
+nanoclusters.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> Other high-nuclearity Ni&#x02013;Pt
+molecular nanoclusters such as [Ni<sub>35</sub>Pt<sub>9</sub>(CO)<sub>44</sub>]<sup>6&#x02013;</sup> and [Ni<sub>32</sub>Pt<sub>24</sub>(CO)<sub>56</sub>]<sup>6&#x02013;</sup> display partial metal segregation
+as well as Ni/Pt substitutional disorder.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> Thus, it seems that the size and the composition of the molecular
+clusters have some effects on the Ni/Pt distribution. As more and
+more structures of molecular clusters and nanoclusters are determined
+with atomic precision, our understanding of metal segregation and
+substitutional and compositional disorder phenomena in alloy nanoclusters
+is increasing.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>As a final remark, Chini
+clusters were discovered by Chini and
+Longoni almost 50 years ago. Their molecular structures in the solid
+state have been disclosed for the first time, thanks to a collaboration
+with Larry Dahl. The fluxional behavior of such clusters in solution
+was disclosed by the work of Longoni and Heaton. New achievements
+have been obtained in the past decade with regard to the self-assembly
+of Chini clusters, their electrical conductivity in the solid state,
+and the formation of heteroleptic and heterometallic Chini-type clusters
+as well as their potential applications.<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref42">42</xref></sup> Moreover, it has been demonstrated recently that Chini-type clusters
+can display new reactivity and electronic states upon ligand substitution.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> They represent a continuous challenge, which
+we believe it worth of pursuing.</p></sec><sec id="sec4"><label>4</label><title>Experimental Section</title><sec id="sec4.1"><label>4.1</label><title>General
+Experimental Procedures</title><p>All
+reactions and sample manipulations were carried out using standard
+Schlenk techniques under nitrogen and in dried solvents. All of the
+reagents were commercial products (Aldrich) of the highest purity
+available and were used as received, except [NR<sub>4</sub>]<sub>2</sub>[Pt<sub>3<italic>n</italic></sub>(CO)<sub>6<italic>n</italic></sub>] (<italic>n</italic> = 2&#x02013;4)<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> and
+[NR<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>CO)<sub>12</sub>] (R =
+Et, Bu),<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> which have been prepared according
+to the literature. Analyses of C, H, and N were obtained with a Thermo
+Quest Flash EA 1112NC instrument. Analysis of Ni and Pt were performed
+by microwave plasma-atomic emission spectrometry on a Agilent 4210
+MP-AES instrument. IR spectra were recorded on a PerkinElmer Spectrum
+One interferometer in CaF<sub>2</sub> cells. ESI mass spectra were
+recorded on a Waters Micromass ZQ4000 instrument using CH<sub>3</sub>CN as the solvent (source temperature 150 &#x000b0;C; capillary voltage
+2.54 kV; infusion flow 20 &#x003bc;L/min; cone voltage 10 V). <sup>195</sup>Pt and <sup>13</sup>C{<sup>1</sup>H} NMR measurements were performed
+on Varian Mercury Plus 400 MHz and Varian Inova 300 MHz spectrometers.
+The carbon chemical shifts were referenced to a nondeuterated aliquot
+of the solvent. The platinum chemical shifts were referenced to external
+Na<sub>2</sub>PtCl<sub>6</sub> (1.2 M in D<sub>2</sub>O). Structure
+drawings have been created with SCHAKAL99.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup></p><p><italic>Caution</italic>! CO and Ni(CO)<sub>4</sub> may be
+generated during manipulation of these compounds. All of the operations
+must be carried out under a well-ventilated fume hood.</p></sec><sec id="sec4.2"><label>4.2</label><title>Synthesis of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>]</title><p>NaOH (0.680 g, 17.0 mmol)
+was added as a solid to a solution of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>12</sub>(CO)<sub>24</sub>] (1.14 g, 0.326 mmol) in dmso (20
+mL) under a CO atmosphere. The mixture was stirred for 0.5 h at room
+temperature, and then H<sub>2</sub>O (3.5 mL) was added dropwise.
+The solution was further stirred for 1 h under a CO atmosphere, and
+then a saturated solution of [NBu<sub>4</sub>]Br in H<sub>2</sub>O
+(50 mL) was added, causing the precipitation of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>]. The product was recovered
+by filtration, washed with H<sub>2</sub>O (2 &#x000d7; 20 mL), dried
+under reduced pressure, and eventually extracted with acetone (20
+mL). Crystals of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] suitable for SC-XRD were obtained by slow diffusion of <italic>n</italic>-hexane (50 mL) into the acetone solution (yield 1.05 g,
+81% based on Pt).</p><p>Anal. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>O<sub>12</sub>Pt<sub>6</sub> (1991.57): C, 26.53; H,
+3.65; N, 1.41. Found: C, 26.34; H, 3.79; N, 1.11. IR (CH<sub>3</sub>CN, 293 K): &#x003bd;<sub>CO</sub> 2005(vs), 1802(m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.3"><label>4.3</label><title>Synthesis of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25)</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9</sub>(CO)<sub>18</sub>]
+(1.00 g, 0.365 mmol) in thf (30 mL) was added dropwise to a solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(0.494 g, 0.420 mmol) in thf (20 mL). The mixture was stirred for
+2 h at room temperature, and then the solvent was removed under reduced
+pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15
+mL) and toluene (2 &#x000d7; 15 mL) and extracted with thf (50 mL). Crystals
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25) suitable for SC-XRD were obtained by slow diffusion
+of <italic>n</italic>-hexane (150 mL) into the thf solution (yield
+0.77 g, 61% based on Pt, 21% based on Ni). The Pt/Ni content of the
+final compound was determined by MP-AES before (Pt/Ni = 3.34) and
+after crystallization (Pt:Ni = 3.38), showing very similar results,
+which are very close to those expected on the basis of the composition
+of the crystals determined by SC-XR:D (Pt:Ni = 3.80). These values
+are considerably higher than the Pt:Ni content on the basis of the
+stoichiometry of the reagents (Pt:Ni = 1.30). Thus, part of the Ni
+is eliminated during the workup of the reaction mixture.</p><p>Anal.
+Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>1.25</sub>O<sub>12</sub>Pt<sub>4.75</sub> (1820.41): C, 29.03; H, 3.99; N,
+1.54. Found: C, 29.34; H, 4.15; N, 1.31. MP-AES: calcd Pt:Ni 3.80;
+found (crystals) 3.38; found (before crystallization) 3.34. IR (Nujol,
+293 K): &#x003bd;<sub>CO</sub> 1997(vs), 1980(s), 1818(m), 1779(s) cm<sup>&#x02013;1</sup>. IR (CH<sub>3</sub>CN, 293 K): &#x003bd;<sub>CO</sub> 2005(vs), 1797(m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.4"><label>4.4</label><title>Synthesis
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 3.24), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 4.15), and
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.16)</title><p>A solution of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (0.700 g, 0.600 mmol) in thf (30 mL) was
+added dropwise to a solution of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] (0.950 g, 0.478 mmol) in thf (20 mL). The
+mixture was stirred for 2 h at room temperature, and then the solvent
+was removed under reduced pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15 mL) and toluene (2 &#x000d7; 15 mL) and extracted
+with CH<sub>2</sub>Cl<sub>2</sub> (35 mL). A mixture of crystals of
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 3.24), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.15), and [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 4.16) suitable for SC-XRD were obtained by slow
+diffusion of <italic>n</italic>-hexane (100 mL) into the CH<sub>2</sub>Cl<sub>2</sub> solution (yield 0.88 g, 55% based on Pt, 51% based
+on Ni). The Pt:Ni content of the mixture of crystals was determined
+by MP-AES, giving a result very close to that of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 3.24). Thus, this
+was assumed to be the major component of the mixture and used for
+the calculation of the yields. The Pt:Ni content of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 3.24) (Pt:Ni
+= 0.85) is also closer to that of the reagents (Pt:Ni = 0.80) in comparison
+to [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.15) (Pt:Ni = 0.45) and [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.16) (Pt:Ni = 0.44).
+Thus, the reaction mixture seems to retain the Pt:Ni ratio of the
+reagents.</p><p>Anal. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>3.24</sub>O<sub>12</sub>Pt<sub>2.76</sub> (1550.38):
+C, 34.15; H, 4.69; N, 1.81. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>4.15</sub>O<sub>12</sub>Pt<sub>1.85</sub> (1425.59):
+C, 37.14; H, 5.10; N, 1.97. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>4.16</sub>O<sub>12</sub>Pt<sub>1.84</sub> (1424.23):
+C, 37.17; H, 5.11; N, 1.97. Found: C, 36.85, H, 4.89, N, 1.96. MP-AES:
+calcd Pt:Ni 0.85 (C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>3.24</sub>O<sub>12</sub>Pt<sub>2.76</sub>); calcd 0.45 (C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>4.15</sub>O<sub>12</sub>Pt<sub>1.85</sub>); calcd 0.44 (C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>4.16</sub>O<sub>12</sub>Pt<sub>1.84</sub>); found 0.86. IR
+(Nujol, 293 K): &#x003bd;<sub>CO</sub> 2025(vw), 1966(vs), 1811(m) 1783(s)
+cm<sup>&#x02013;1</sup>. IR (CH<sub>2</sub>Cl<sub>2</sub>, 293 K):
+&#x003bd;<sub>CO</sub> 1996(vs), 1793(m) cm<sup>&#x02013;1</sup>. IR
+(thf, 293 K): &#x003bd;<sub>CO</sub> 1992(vs), 1798(m) cm<sup>&#x02013;1</sup>. IR (acetone, 293 K): &#x003bd;<sub>CO</sub> 1989(vs), 1801(m) cm<sup>&#x02013;1</sup>. IR (CH<sub>3</sub>CN, 293 K): &#x003bd;<sub>CO</sub> 1995(vs), 1798(m) cm<sup>&#x02013;1</sup>. IR (dmso, 293 K): &#x003bd;<sub>CO</sub> 1990(vs), 1797(m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.5"><label>4.5</label><title>Synthesis of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 4.41)</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(1.38 g, 1.18 mmol) in thf (40 mL) was added dropwise to a solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>]
+(0.950 g, 0.478 mmol) in thf (20 mL). The mixture was stirred for
+2 h at room temperature, and then the solvent was removed under reduced
+pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15
+mL) and toluene (2 &#x000d7; 15 mL) and extracted with thf (35 mL). Crystals
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.41) suitable for SC-XRD were obtained by slow diffusion
+of <italic>n</italic>-hexane (100 mL) into the thf solution (yield
+0.93 g, 37% based on Pt, 42% based on Ni).</p><p>Anal. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>4.41</sub>O<sub>12</sub>Pt<sub>1.59</sub> (1390.14): C, 38.10; H, 5.24; N, 2.02. Found: C,
+38.31; H, 5.02; N, 1.84. IR (CH<sub>2</sub>Cl<sub>2</sub>, 293 K):
+&#x003bd;<sub>CO</sub> 1989(vs), 1788(m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.6"><label>4.6</label><title>Synthesis of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 5.78)</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(1.60 g, 1.37 mmol) in thf (50 mL) was added dropwise to a solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>]
+(0.216 g, 0.109 mmol) in thf (15 mL). The mixture was stirred for
+2 h at room temperature, and then the solvent was removed under reduced
+pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15
+mL) and toluene (2 &#x000d7; 15 mL) and extracted with thf (40 mL). Crystals
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 5.78) suitable for SC-XRD were obtained by slow diffusion
+of <italic>n</italic>-hexane (100 mL) into the thf solution (yield
+1.01 g, 28% based on Pt, 59% based on Ni).</p><p>Anal. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>5.78</sub>O<sub>12</sub>Pt<sub>0.22</sub> (1203.35): C, 44.06; H, 6.06; N, 2.34. Found: C,
+44.39; H, 5.84; N, 2.44. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 1983(vs),
+1811(m), 1786(ms) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.7"><label>4.7</label><title>Synthesis
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 5.90)</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(1.40 g, 1.20 mmol) in thf (50 mL) was added dropwise to a solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>]
+(0.0982 g, 0.0495 mmol) in thf (15 mL). The mixture was stirred for
+2 h at room temperature, and then the solvent was removed under reduced
+pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15
+mL) and toluene (2 &#x000d7; 15 mL) and extracted with thf (40 mL). Crystals
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 5.90) suitable for SC-XRD were obtained by slow diffusion
+of <italic>n</italic>-hexane (100 mL) into the thf solution (yield
+0.98 g, 28% based on Pt, 68% based on Ni).</p><p>Anal. Calcd for C<sub>44</sub>H<sub>72</sub>N<sub>2</sub>Ni<sub>5.90</sub>O<sub>12</sub>Pt<sub>0.10</sub> (1186.93): C, 44.67; H, 6.14; N, 2.37. Found: C,
+44.38; H, 6.39; N, 2.08. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 1983(vs),
+1811(m), 1786(ms) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.8"><label>4.8</label><title>Synthesis
+of [NBu<sub>4</sub>]<sub>4</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>][Cl<sub>1.77</sub>Br<sub>0.23</sub>] (<italic>x</italic> = 2.53)</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(0.450 g, 0.385 mmol) in thf (30
+mL) was added dropwise to a solution of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] (0.950 g, 0.478 mmol) in thf (20
+mL). The mixture was stirred for 2 h at room temperature, and then
+the crude product was precipitated by addition of a saturated solution
+of [NBu<sub>4</sub>]Cl in H<sub>2</sub>O (60 mL). The solid was recovered
+after filtration, washed with H<sub>2</sub>O (2 &#x000d7; 15 mL) and
+toluene (2 &#x000d7; 15 mL), and extracted with thf (30 mL). Crystals
+of [NBu<sub>4</sub>]<sub>4</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>][Cl<sub>1.77</sub>Br<sub>0.23</sub>] (<italic>x</italic> = 2.53) suitable for SC-XRD
+were obtained by slow diffusion of <italic>n</italic>-hexane (100
+mL) into the thf solution (yield 1.26 g, 69% based on Pt, 62% based
+on Ni). The presence of some Br<sup>&#x02013;</sup> ions in the crystals
+is due to contamination of the starting [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] salt with some [NBu<sub>4</sub>]Br.</p><p>Anal. Calcd for C<sub>76</sub>H<sub>144</sub>Br<sub>0.23</sub>Cl<sub>1.77</sub>N<sub>4</sub>Ni<sub>2.53</sub>O<sub>12</sub>Pt<sub>3.48</sub> (2213.03): C, 41.26; H, 6.57; N, 2.53. Found: C, 41.08;
+H, 6.74; N, 2.69. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 1995(vs),
+1797(m) cm<sup>&#x02013;1</sup>. IR (CH<sub>3</sub>CN, 293 K): &#x003bd;<sub>CO</sub> 1997(vs), 1796(m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.9"><label>4.9</label><title>Synthesis of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9-x</sub>Ni<sub><italic>x</italic></sub>(CO)<sub>18</sub>] (<italic>x</italic> = 1.65) and Crystals of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9</sub>(CO)<sub>18</sub>]&#x000b7;thf</title><p>A solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]
+(0.428 g, 0.365 mmol) in thf (20 mL) was added dropwise to a solution
+of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>12</sub>(CO)<sub>24</sub>]
+(1.28 g, 0.365 mmol) in thf (30 mL). The mixture was stirred for 2
+hat room temperature, and then the solvent was removed under reduced
+pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15
+mL) and toluene (2 &#x000d7; 15 mL) and extracted with thf (30 mL). After
+filtration, the thf solution was evaporated to dryness resulting,
+in a microcrystalline powder of a compound formulated as [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9-x</sub>Ni<sub><italic>x</italic></sub>(CO)<sub>18</sub>] (<italic>x</italic> = 1.65) on the basis
+of IR and MP-AES analyses (yield 0.82 g, 64% based on Pt, 29% based
+on Ni).</p><p>Anal. Calcd for C<sub>54</sub>H<sub>80</sub>N<sub>2</sub>O<sub>19</sub>Ni<sub>1.65</sub>Pt<sub>7.35</sub> (2517.06): C, 23.84;
+H, 2.88; N, 1.11. Found: C, 23.29; H, 2.51; N, 0.81. MP-AES: calcd
+Pt:Ni 4.45; found 4.47. IR (thf, 293 K): &#x003bd;<sub>CO</sub>: 2030(vs),
+1844(ms) cm<sup>&#x02013;1</sup>.</p><p>All attempts to crystallize
+[NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9-x</sub>Ni<sub><italic>x</italic></sub>(CO)<sub>18</sub>]
+(<italic>x</italic> = 1.65) by slow diffusion of <italic>n</italic>-hexane (80 mL) into the thf solution failed. Indeed, only a few
+crystals of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9</sub>(CO)<sub>18</sub>]<bold>&#x000b7;</bold>thf suitable for SC-XRD were obtained.</p></sec><sec id="sec4.10"><label>4.10</label><title>MP-AES Study of the Reaction between [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] and [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>]</title><p>A
+solution containing a variable amount of [NBu<sub>4</sub>]<sub>2</sub>[Ni<sub>6</sub>(CO)<sub>12</sub>] (<italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub>, see list below) in thf (20 mL) was
+added dropwise to a solution of [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] (0.410 g, 0.206 mmol) in thf (20 mL). The
+mixture was stirred for 2 h at room temperature, and then the solvent
+was removed under reduced pressure. The residue was washed with H<sub>2</sub>O (2 &#x000d7; 15 mL) and toluene (2 &#x000d7; 15 mL) and extracted
+with thf (40 mL). The resulting solution was analyzed by means of
+MP-AES in order to determine the Pt:Ni content and compare it with
+that of the starting reagents.</p><p><italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub> = 1.21 g (1.03 mol; Pt<sub>6</sub>:Ni<sub>6</sub> = 1:5). MP-AES: calcd Pt:Ni 0.20; found 0.20. IR
+(thf, 293 K): &#x003bd;<sub>CO</sub> 1983(vs), 1810(m), 1787(m) cm<sup>&#x02013;1</sup>.</p><p><italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub> =
+0.483 g (0.412 mol; Pt<sub>6</sub>:Ni<sub>6</sub> = 1:2). MP-AES:
+calcd Pt;Ni 0.50; found 0.56. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 2003(s), 1984(vs), 1809(m) cm<sup>&#x02013;1</sup>.</p><p><italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub> =
+0.241 g (0.206 mol; Pt<sub>6</sub>:Ni<sub>6</sub> = 1:1). MP-AES:
+calcd Pt:Ni 1.00; found 1.24. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 2004(vs), 1984(vs), 1802(m) cm<sup>&#x02013;1</sup>.</p><p><italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub> =
+0.121 g (0.103 mol; Pt<sub>6</sub>:Ni<sub>6</sub> = 2:1). MP-AES:
+calcd Pt:Ni 2.00; found 2.32. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 2004(vs), 1985(sh), 1802(m) cm<sup>&#x02013;1</sup>.</p><p><italic>m</italic><sub>Ni<sub>6</sub>(CO)<sub>12</sub></sub> =
+0.0483 g (0.0412 mol; Pt<sub>6</sub>:Ni<sub>6</sub> = 5:1). MP-AES:
+calcd Pt:Ni 5.00; found 5.44. IR (thf, 293 K): &#x003bd;<sub>CO</sub> 2005(vs), 1802 (m) cm<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.11"><label>4.11</label><title>MP-AES
+Analyses</title><p>For a typical analysis,
+4&#x02013;5 mg of the sample, accurately weighed with an analytical
+balance (&#x000b1;0.0001 g), was placed in a 100 mL volumetric flask
+and completely dissolved with a few drops of aqua regia (HCl:HNO<sub>3</sub> 3:1 v:v). Then, distilled H<sub>2</sub>O was added up to
+a total volume of 100 mL. The resulting sample was directly used for
+MP-AES analyses.</p></sec><sec id="sec4.12"><label>4.12</label><title>X-ray Crystallographic
+Study</title><p>Crystal
+data and collection details for [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 1.25), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 3.24), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.15), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> =
+4.16), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 4.41), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]
+(<italic>x</italic> = 5.78), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>] (<italic>x</italic> = 5.90), [NBu<sub>4</sub>]<sub>4</sub>[Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>][Cl<sub>1.77</sub>Br<sub>0.23</sub>] (<italic>x</italic> = 2.53), [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>9</sub>(CO)<sub>18</sub>]<bold>&#x000b7;</bold>thf, and [NBu<sub>4</sub>]<sub>2</sub>[Pt<sub>6</sub>(CO)<sub>12</sub>] are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Table S5</ext-link> in the Supporting Information. The diffraction experiments
+were carried out on a Bruker APEX II diffractometer equipped with
+a PHOTON2 detector using Mo K&#x003b1; radiation. Data were corrected
+for Lorentz&#x02013;polarization and absorption effects (empirical
+absorption correction with SADABS).<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Structures
+were solved by direct methods and refined by full-matrix least squares
+on the basis of all data using <italic>F</italic><sup>2</sup>.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Hydrogen atoms were fixed at calculated positions
+and refined by a riding model. All non-hydrogen atoms were refined
+with anisotropic displacement parameters, unless otherwise stated.
+Further information and refinement details may be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4.13"><label>4.13</label><title>Computational
+Details with Figures and Tables</title><p>Full geometry optimizations,
+optimizations with selected constrained
+internal coordinates, and single-point calculations were carried out <italic>in vacuo</italic> using the hybrid meta-GGA DFT functional TPSS0,
+with 25% HF exchange,<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> in combination
+with Ahlrichs&#x02019; def-2 TZVP basis set, with relativistic ECP
+for Pt.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The &#x0201c;restricted&#x0201d;
+approach was used in all cases. Calculations were performed with ORCA
+4.2.0 software.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> The output, converted
+in .molden format, was elaborated with the software Multiwfn, version
+3.5.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> Cartesian coordinates of the DFT-optimized
+structures are collected in a separate <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_003.xyz">.xyz file</ext-link>.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c00752?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c00752</ext-link>.<list id="silist" list-type="simple"><list-item><p>IR spectra, ESI-MS
+spectra, NMR spectra, figures of
+the possible isomers of [Pt<sub>6&#x02013;<italic>x</italic></sub>Ni<sub><italic>x</italic></sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> (<italic>x</italic> = 0&#x02013;6), reaction and isomerization schemes, X-ray
+crystallographic studies, and computational details with figures (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_002.pdf">PDF</ext-link>)</p></list-item><list-item><p>Optimized coordinates
+in .xyz format (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.inorgchem.1c00752/suppl_file/ic1c00752_si_003.xyz">XYZ</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_si_002.pdf"><caption><p>ic1c00752_si_002.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ic1c00752_si_003.xyz"><caption><p>ic1c00752_si_003.xyz</p></caption></media></supplementary-material></sec><notes notes-type="accession-codes" id="cifac1"><title>Accession Codes</title><p>CCDC 2067847&#x02013;2067856 contain the supplementary crystallographic data
+for this paper. These data can be obtained free of charge via <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ccdc.cam.ac.uk/data_request/cif">www.ccdc.cam.ac.uk/data_request/cif</ext-link>, or by emailing <email>data_request@ccdc.cam.ac.uk</email>, or by
+contacting The Cambridge Crystallographic Data Centre, 12 Union Road,
+Cambridge CB2 1EZ, UK; fax: +44 1223 336033.</p></notes><notes notes-type="funding-statement" id="notes-4"><p>The financial
+support of MIUR (PRIN 2017 &#x0201c;Nemo&#x0201d; 20173L7W8K) and the
+University of Bologna is gratefully acknowledged.</p></notes><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank the reviewers for useful suggestions during the revision
+of the manuscript.</p></ack><notes notes-type="" id="notes-5"><title>Dedication</title><p>In memory of Prof.
+Larry F. Dahl, a giant of cluster chemistry, whose work has been an
+inspiration for generations of inorganic chemists.</p></notes><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1a"><label>a</label><name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>
+<article-title>Synthesis and Chemical Characterization
+of Platinum Carbonyl Dianions [Pt<sub>3</sub>(CO)<sub>6</sub>]<sub>n</sub><sup>2&#x02013;</sup> (n = &#x0223c; 10, 6, 5, 4, 3, 2, 1).
+A New Series of Inorganic Oligomers</article-title>. <source>J. Am.
+Chem. Soc.</source>
+<year>1976</year>, <volume>98</volume>, <fpage>7225</fpage>&#x02013;<lpage>7231</lpage>. <pub-id pub-id-type="doi">10.1021/ja00439a020</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="cit1b"><label> b</label><name><surname>Calabrese</surname><given-names>J.
+C.</given-names></name>; <name><surname>Dahl</surname><given-names>L. F.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Martinengo</surname><given-names>S.</given-names></name>
+<article-title>Synthesis
+and Structural Characterization of Platinum Carbonyl Cluster Dianions,
+[Pt<sub>3</sub>(CO)<sub>3</sub>(&#x003bc;<sub>2</sub>-CO)<sub>3</sub>]<sub>n</sub><sup>2&#x02013;</sup> (n = 2, 3, 4, 5). A New Series
+of Inorganic Oligomers</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1974</year>, <volume>96</volume>, <fpage>2614</fpage>&#x02013;<lpage>2616</lpage>. <pub-id pub-id-type="doi">10.1021/ja00815a050</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Underwood</surname><given-names>D. J.</given-names></name>; <name><surname>Hoffmann</surname><given-names>R.</given-names></name>; <name><surname>Tatsumi</surname><given-names>K.</given-names></name>; <name><surname>Nakamura</surname><given-names>A.</given-names></name>; <name><surname>Yamamoto</surname><given-names>Y.</given-names></name>
+<article-title>Triangular
+Platinum and Nickel Clusters: The &#x02033;Tinker-Toy&#x02033; Construction
+of Chains with High Nuclearity</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>1985</year>, <volume>107</volume>, <fpage>5968</fpage>&#x02013;<lpage>5980</lpage>. <pub-id pub-id-type="doi">10.1021/ja00307a023</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Archirel</surname><given-names>P.</given-names></name>
+<article-title>Redox Properties
+of the Chini Clusters [Pt<sub>3</sub>(CO)<sub>6</sub>]<sub>n</sub><sup>2&#x02013;</sup> (n = 1&#x02013;7) in Solution: A Hybrid DFT Study.
+Application to their Oxidation by O<sub>2</sub></article-title>. <source>J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>8343</fpage>&#x02013;<lpage>8353</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b01010</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Platinum Carbonyl
+Clusters Chemistry: Four Decades of Challenging Nanoscience</article-title>. <source>J. Cluster Sci.</source>
+<year>2014</year>, <volume>25</volume>, <fpage>115</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1007/s10876-013-0639-3</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Ruggieri</surname><given-names>S.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Functionalization,
+Modification, and Transformation of Platinum Chini Clusters</article-title>. <source>Eur. J. Inorg. Chem.</source>
+<year>2018</year>, <volume>2018</volume>, <fpage>3285</fpage>&#x02013;<lpage>3296</lpage>. <pub-id pub-id-type="doi">10.1002/ejic.201800526</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Bortoluzzi</surname><given-names>M.</given-names></name>; <name><surname>Ceriotti</surname><given-names>A.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Further insights into platinum carbonyl
+Chini clusters</article-title>. <source>Inorg. Chim. Acta</source>
+<year>2020</year>, <volume>512</volume>, <fpage>119904</fpage><pub-id pub-id-type="doi">10.1016/j.ica.2020.119904</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Lovato</surname><given-names>T.</given-names></name>; <name><surname>Stagni</surname><given-names>S.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Self-Assembly
+of [Pt<sub>3n</sub>(CO)<sub>6n</sub>]<sup>2&#x02013;</sup> (n = 4&#x02013;8)
+Carbonyl Clusters: from Molecules
+to Conducting Molecular Metal Wires</article-title>. <source>Inorg.
+Chem.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>5992</fpage>&#x02013;<lpage>6004</lpage>. <pub-id pub-id-type="doi">10.1021/ic100547j</pub-id>.<pub-id pub-id-type="pmid">20536247</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Brown</surname><given-names>C.</given-names></name>; <name><surname>Heaton</surname><given-names>B. T.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Fumagalli</surname><given-names>A.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>
+<article-title>Stereochemical Non-rigidity of a
+Metal Polyhedron:
+Fourier Transform Platinum-195 Nuclear Magnetic Resonance Spectra
+of [Pt<sub>n</sub>(CO)<sub>2n</sub>]<sup>2&#x02013;</sup> (n = 3, 6,
+or 9)</article-title>. <source>J. Chem. Soc., Chem. Commun.</source>
+<year>1977</year>, <fpage>309</fpage>&#x02013;<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1039/C39770000309</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Brown</surname><given-names>C.</given-names></name>; <name><surname>Heaton</surname><given-names>B. T.</given-names></name>; <name><surname>Towl</surname><given-names>A. D. C.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Fumagalli</surname><given-names>A.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>
+<article-title>Stereochemical Non-rigidity
+of a Metal Polyhedron:
+Carbon-13 and Platinum-195 Fourier Transform Nuclear Magnetic Resonance
+Spectra of [Pt<sub>n</sub>(CO)<sub>2n</sub>]<sup>2&#x02013;</sup> (n
+= 3, 6, 9, 12 or 15)</article-title>. <source>J. Organomet. Chem.</source>
+<year>1979</year>, <volume>181</volume>, <fpage>233</fpage>&#x02013;<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-328X(00)85752-6</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Calabrese</surname><given-names>J. C.</given-names></name>; <name><surname>Dahl</surname><given-names>L. F.</given-names></name>; <name><surname>Cavalleri</surname><given-names>A.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Martinengo</surname><given-names>S.</given-names></name>
+<article-title>Synthesis
+and Structure of a Hexanuclear Nickel Carbonyl
+Dianion, [Ni<sub>3</sub>(CO)<sub>3</sub>(&#x003bc;-CO)<sub>3</sub>]<sub>2</sub><sup>2&#x02013;</sup>, and Comparison with the [Pt<sub>3</sub>(CO)<sub>3</sub>(&#x003bc;-CO)<sub>3</sub>]<sub>2</sub><sup>2&#x02013;</sup> Dianion. An Unprecedented Case of a Metal Cluster System Possessing
+Different Metal Architectures for Congener Transition Metals</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1974</year>, <volume>96</volume>, <fpage>2616</fpage>&#x02013;<lpage>2618</lpage>. <pub-id pub-id-type="doi">10.1021/ja00815a051</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Nagaki</surname><given-names>D. A.</given-names></name>; <name><surname>Lower</surname><given-names>L. D.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Dahl</surname><given-names>L. F.</given-names></name>
+<article-title>Stereochemistry
+of the [Ni<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup> Dianion:
+A Comparative Structural-Bonding Analysis of Different Nine-Metal
+Cores of Stacked Metal Triangles in the [M<sub>9</sub>(CO)<sub>18</sub>]<sup>2&#x02013;</sup> (M = Ni, Pt) and [Rh<sub>9</sub>(CO)<sub>19</sub>]<sup>3&#x02013;</sup> Anions</article-title>. <source>Organometallics</source>
+<year>1986</year>, <volume>5</volume>, <fpage>1764</fpage>&#x02013;<lpage>1771</lpage>. <pub-id pub-id-type="doi">10.1021/om00140a002</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12a"><label>a</label><name><surname>Beattie</surname><given-names>J.
+K.</given-names></name>; <name><surname>Masters</surname><given-names>A. F.</given-names></name>; <name><surname>Meyer</surname><given-names>J. T.</given-names></name>
+<article-title>Nickel
+Carbonyl Cluster Complexes</article-title>. <source>Polyhedron</source>
+<year>1995</year>, <volume>14</volume>, <fpage>829</fpage>&#x02013;<lpage>868</lpage>. <pub-id pub-id-type="doi">10.1016/0277-5387(94)00421-A</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="cit12b"><label> b</label><name><surname>Masters</surname><given-names>A. F.</given-names></name>; <name><surname>Meyer</surname><given-names>J. T.</given-names></name>
+<article-title>Structural Systematics in Nickel
+Carbonyl Cluster Anions</article-title>. <source>Polyhedron</source>
+<year>1995</year>, <volume>14</volume>, <fpage>339</fpage>&#x02013;<lpage>365</lpage>. <pub-id pub-id-type="doi">10.1016/0277-5387(94)00253-3</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Bengtsson-Kloo</surname><given-names>L.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Ulvelund</surname><given-names>S.</given-names></name>
+<article-title>Solution Structures
+of Mono- and Ditriangular Chini Clusters of Nickel and Platinum. An
+X-ray Scattering and Quantum Chemical Study</article-title>. <source>Inorg. Chem.</source>
+<year>1998</year>, <volume>37</volume>, <fpage>4335</fpage>&#x02013;<lpage>4343</lpage>. <pub-id pub-id-type="doi">10.1021/ic971229r</pub-id>.<pub-id pub-id-type="pmid">11670570</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Hossain</surname><given-names>S.</given-names></name>; <name><surname>Nihori</surname><given-names>Y.</given-names></name>; <name><surname>Nair</surname><given-names>L. V.</given-names></name>; <name><surname>Kumar</surname><given-names>B.</given-names></name>; <name><surname>Kurashige</surname><given-names>W.</given-names></name>; <name><surname>Negishi</surname><given-names>Y.</given-names></name>
+<article-title>Alloy Clusters: Precise
+Synthesis and Mixing Effects</article-title>. <source>Acc. Chem. Res.</source>
+<year>2018</year>, <volume>51</volume>, <fpage>3114</fpage>&#x02013;<lpage>3124</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.8b00453</pub-id>.<pub-id pub-id-type="pmid">30460847</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Kang</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>
+<article-title>Customizing the Structure, Composition,
+and Properties of Alloy Nanoclusters by Metal Exchange</article-title>. <source>Acc. Chem. Res.</source>
+<year>2018</year>, <volume>51</volume>, <fpage>2784</fpage>&#x02013;<lpage>2792</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.8b00327</pub-id>.<pub-id pub-id-type="pmid">30387990</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Higaki</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>C.</given-names></name>; <name><surname>Morris</surname><given-names>D. J.</given-names></name>; <name><surname>He</surname><given-names>G.</given-names></name>; <name><surname>Luo</surname><given-names>T.-Y.</given-names></name>; <name><surname>Sfeir</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Rosi</surname><given-names>N. L.</given-names></name>; <name><surname>Jin</surname><given-names>R.</given-names></name>
+<article-title>Au<sub>130-x</sub>Ag<sub>x</sub> Nanoclusters with Non-Metallicity:
+A Drum of Silver-Rich
+Sites Enclosed in a Marks-Decahedral Cage of Gold-Rich Sites</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>18798</fpage>&#x02013;<lpage>18802</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201908694</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Feng</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Zheng</surname><given-names>L.</given-names></name>; <name><surname>Hong</surname><given-names>S.</given-names></name>; <name><surname>Wei</surname><given-names>M.</given-names></name>
+<article-title>Platinum-copper
+single atom alloy catalysts with high performance towards glycerol
+hydrogenolysis</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>5812</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-13685-2</pub-id>.<pub-id pub-id-type="pmid">31862887</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Gan</surname><given-names>Z.</given-names></name>; <name><surname>Xia</surname><given-names>N.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>
+<article-title>Discovery, Mechanism, and Application
+of Antigalvanic
+Reaction</article-title>. <source>Acc. Chem. Res.</source>
+<year>2018</year>, <volume>51</volume>, <fpage>2774</fpage>&#x02013;<lpage>2783</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.8b00374</pub-id>.<pub-id pub-id-type="pmid">30379057</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Ghosh</surname><given-names>A.</given-names></name>; <name><surname>Mohammed</surname><given-names>O. F.</given-names></name>; <name><surname>Bakr</surname><given-names>O. M.</given-names></name>
+<article-title>Atomic-Level
+Doping of Metal Clusters</article-title>. <source>Acc. Chem. Res.</source>
+<year>2018</year>, <volume>51</volume>, <fpage>3094</fpage>&#x02013;<lpage>3103</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.8b00412</pub-id>.<pub-id pub-id-type="pmid">30452229</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Kang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>; <name><surname>Jin</surname><given-names>R.</given-names></name>
+<article-title>Atomically precise alloy nanoclusters:
+syntheses, structures, and properties</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>6443</fpage>&#x02013;<lpage>6514</lpage>. <pub-id pub-id-type="doi">10.1039/C9CS00633H</pub-id>.<pub-id pub-id-type="pmid">32760953</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Kang</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>
+<article-title>Metal Nanoclusters
+Stabilized by Selenol Ligands</article-title>. <source>Small</source>
+<year>2019</year>, <volume>15</volume>, <fpage>1902703</fpage><pub-id pub-id-type="doi">10.1002/smll.201902703</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Teo</surname><given-names>B. K.</given-names></name>; <name><surname>Deng</surname><given-names>C.</given-names></name>; <name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Luo</surname><given-names>G.-G.</given-names></name>; <name><surname>Tung</surname><given-names>C.-H.</given-names></name>; <name><surname>Sun</surname><given-names>D.</given-names></name>
+<article-title>Hydrido-coinage-metal
+clusters: Rational
+design, synthetic protocols and structural characteristics</article-title>. <source>Coord. Chem. Rev.</source>
+<year>2021</year>, <volume>427</volume>, <fpage>213576</fpage><pub-id pub-id-type="doi">10.1016/j.ccr.2020.213576</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kawawaki</surname><given-names>T.</given-names></name>; <name><surname>Imai</surname><given-names>Y.</given-names></name>; <name><surname>Suzuki</surname><given-names>D.</given-names></name>; <name><surname>Kato</surname><given-names>S.</given-names></name>; <name><surname>Koboyashi</surname><given-names>I.</given-names></name>; <name><surname>Suzuki</surname><given-names>T.</given-names></name>; <name><surname>Kaneko</surname><given-names>R.</given-names></name>; <name><surname>Hossain</surname><given-names>S.</given-names></name>; <name><surname>Negishi</surname><given-names>Y.</given-names></name>
+<article-title>Atomically
+Precise Alloy Nanoclusters</article-title>. <source>Chem. - Eur. J.</source>
+<year>2020</year>, <volume>26</volume>, <fpage>16150</fpage>&#x02013;<lpage>16193</lpage>. <pub-id pub-id-type="doi">10.1002/chem.202001877</pub-id>.<pub-id pub-id-type="pmid">32453462</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24a"><label>a</label><name><surname>Cordero</surname><given-names>B.</given-names></name>; <name><surname>G&#x000f3;mez</surname><given-names>V.</given-names></name>; <name><surname>Platero-Prats</surname><given-names>A. E.</given-names></name>; <name><surname>Rev&#x000e9;s</surname><given-names>M.</given-names></name>; <name><surname>Echeverr&#x000ed;a</surname><given-names>J.</given-names></name>; <name><surname>Cremades</surname><given-names>E.</given-names></name>; <name><surname>Barrag&#x000e1;n</surname><given-names>F.</given-names></name>; <name><surname>Alvarez</surname><given-names>S.</given-names></name>
+<article-title>Covalent radii revisited</article-title>. <source>Dalton Trans.</source>
+<year>2008</year>, <fpage>2832</fpage>&#x02013;<lpage>2838</lpage>. <pub-id pub-id-type="doi">10.1039/b801115j</pub-id>.<pub-id pub-id-type="pmid">18478144</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit24b"><label> b</label><name><surname>Bondi</surname><given-names>A.</given-names></name>
+<article-title>Van der Waals Volumes and Radii</article-title>. <source>J. Phys. Chem.</source>
+<year>1964</year>, <volume>68</volume>, <fpage>441</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1021/j100785a001</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Eguchi</surname><given-names>T.</given-names></name>; <name><surname>Harding</surname><given-names>R. A.</given-names></name>; <name><surname>Heaton</surname><given-names>B. T.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Miyagi</surname><given-names>K.</given-names></name>; <name><surname>N&#x000e4;hring</surname><given-names>J.</given-names></name>; <name><surname>Nakamura</surname><given-names>N.</given-names></name>; <name><surname>Nakayama</surname><given-names>H.</given-names></name>; <name><surname>Smith</surname><given-names>A. K.</given-names></name>
+<article-title>Carbon-13
+nuclear magnetic resonance of transition-metal carbonyl clusters through
+intermolecular cross-polarisation transfer in the solid state</article-title>. <source>J. Chem. Soc., Dalton Trans.</source>
+<year>1997</year>, <fpage>479</fpage>&#x02013;<lpage>483</lpage>. <pub-id pub-id-type="doi">10.1039/a604078k</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Heaton</surname><given-names>B. T.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>
+<article-title>Carbon-13 Nuclear Magnetic Resonance
+Studies on Nickel Carbonyl Clusters</article-title>. <source>J. Chem.
+Soc., Dalton Trans.</source>
+<year>1980</year>, <fpage>1537</fpage>&#x02013;<lpage>1541</lpage>. <pub-id pub-id-type="doi">10.1039/dt9800001537</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Staroverov</surname><given-names>V. N.</given-names></name>; <name><surname>Scuseria</surname><given-names>E.</given-names></name>; <name><surname>Tao</surname><given-names>J.</given-names></name>; <name><surname>Perdew</surname><given-names>J. P.</given-names></name>
+<article-title>Comparative assessment
+of a new nonempirical density functional: Molecules and hydrogen-bonded
+complexes</article-title>. <source>J. Chem. Phys.</source>
+<year>2003</year>, <volume>119</volume>, <fpage>12129</fpage>&#x02013;<lpage>12137</lpage>. <pub-id pub-id-type="doi">10.1063/1.1626543</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28a"><label>a</label><name><surname>Weigend</surname><given-names>F.</given-names></name>; <name><surname>Ahlrichs</surname><given-names>R.</given-names></name>
+<article-title>Balanced basis sets
+of split valence, triple zeta valence and quadruple zeta valence quality
+for H to Rn: Design and assessment of accuracy</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2005</year>, <volume>7</volume>, <fpage>3297</fpage>&#x02013;<lpage>3305</lpage>. <pub-id pub-id-type="doi">10.1039/b508541a</pub-id>.<pub-id pub-id-type="pmid">16240044</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit28b"><label> b</label><name><surname>Andrae</surname><given-names>D.</given-names></name>; <name><surname>H&#x000e4;u&#x000df;ermann</surname><given-names>U.</given-names></name>; <name><surname>Dolg</surname><given-names>M.</given-names></name>; <name><surname>Stoll</surname><given-names>H.</given-names></name>; <name><surname>Preu&#x000df;</surname><given-names>H.</given-names></name>
+<article-title>Energy-adjusted <italic>ab initio</italic> pseudopotentials
+for the second and third row transition elements</article-title>. <source>Theor. Chim. Acta</source>
+<year>1990</year>, <volume>77</volume>, <fpage>123</fpage>&#x02013;<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1007/BF01114537</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Qin</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Tang</surname><given-names>Z.</given-names></name>
+<article-title>Atomically precise metal nanoclusters
+for (photo)electroreduction of CO<sub>2</sub>: Recent advances, challenges
+and opportunities</article-title>. <source>J. Energy Chem.</source>
+<year>2021</year>, <volume>57</volume>, <fpage>359</fpage>&#x02013;<lpage>370</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2020.09.003</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Khatun</surname><given-names>E.</given-names></name>; <name><surname>Pradeep</surname><given-names>T.</given-names></name>
+<article-title>New Routes for Multicomponent
+Atomically Precise Metal
+Nanoclusters</article-title>. <source>ACS Omega</source>
+<year>2021</year>, <volume>6</volume>, <fpage>1</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.0c04832</pub-id>.<pub-id pub-id-type="pmid">33458454</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kawawaki</surname><given-names>T.</given-names></name>; <name><surname>Ebina</surname><given-names>A.</given-names></name>; <name><surname>Hosokawa</surname><given-names>Y.</given-names></name>; <name><surname>Ozaki</surname><given-names>S.</given-names></name>; <name><surname>Suzuki</surname><given-names>D.</given-names></name>; <name><surname>Hossain</surname><given-names>S.</given-names></name>; <name><surname>Negishi</surname><given-names>Y.</given-names></name>
+<article-title>Thiolate-Protected
+Metal Nanoclusters:
+Recent Development in Synthesis, Understanding of Reaction, and Application
+in Energy and Environmental Field</article-title>. <source>Small</source>
+<year>2021</year>, <fpage>2005328</fpage><pub-id pub-id-type="doi">10.1002/smll.202005328</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="book" id="cit32"><source>ASM Handbook</source>; <person-group person-group-type="editor"><name><surname>Okamoto</surname><given-names>H.</given-names></name>, <name><surname>Schlesinger</surname><given-names>M. E.</given-names></name>, <name><surname>Mueller</surname><given-names>E. M.</given-names></name></person-group>, Eds.; <publisher-name>ASM International</publisher-name>: <year>2016</year>; Vol. <volume>3</volume> (Alloy Phase Diagrams). <pub-id pub-id-type="doi">10.31399/asm.hb.v03.a0006189</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Ceriott</surname><given-names>A.</given-names></name>; <name><surname>Demartin</surname><given-names>F.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Manassero</surname><given-names>M.</given-names></name>; <name><surname>Marchionna</surname><given-names>M.</given-names></name>; <name><surname>Piva</surname><given-names>G.</given-names></name>; <name><surname>Sansoni</surname><given-names>M.</given-names></name>
+<article-title>Synthesis and Structure
+of the [Ni<sub>38</sub>Pt<sub>6</sub>(CO)<sub>44</sub>H<sub>6-n</sub>]<sup>n&#x02013;</sup> (n = 5, 4) Ions: Ni-Pt Clusters as Models for
+&#x02033;Cherry&#x02033; Crystallites</article-title>. <source>Angew.
+Chem., Int. Ed. Engl.</source>
+<year>1985</year>, <volume>24</volume>, <fpage>697</fpage>&#x02013;<lpage>698</lpage>. <pub-id pub-id-type="doi">10.1002/anie.198506971</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>de
+Silva</surname><given-names>N.</given-names></name>; <name><surname>Dahl</surname><given-names>L. F.</given-names></name>
+<article-title>Aprotic Synthesis and Structural
+Determination of the Nanosized Nonprotonated &#x003bd;<sub>3</sub>-Octahedral
+[Pt<sub>6</sub>Ni<sub>38</sub>(CO)<sub>48</sub>]<sup>6&#x02013;</sup> Hexaanion Stabilized as a Cubic Solvated [NMe<sub>4</sub>]<sup>+</sup> Salt</article-title>. <source>Inorg. Chem.</source>
+<year>2006</year>, <volume>45</volume>, <fpage>8814</fpage>&#x02013;<lpage>8816</lpage>. <pub-id pub-id-type="doi">10.1021/ic060648y</pub-id>.<pub-id pub-id-type="pmid">17054328</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Svensson</surname><given-names>P. H.</given-names></name>; <name><surname>Zanello</surname><given-names>P.</given-names></name>; <name><surname>Fabrizi
+de Biani</surname><given-names>F.</given-names></name>
+<article-title>Synthesis and Characterization of &#x003bd;<sub>3</sub>-Octahedral [Ni<sub>36</sub>Pd<sub>8</sub>(CO)<sub>44</sub>]<sup>6&#x02013;</sup> and [Ni<sub>35</sub>Pt<sub>9</sub>(CO)<sub>44</sub>]<sup>6&#x02013;</sup> Clusters Displaying Unexpected Surface Segregation
+of Pt Atoms and Molecular and/or Crystal Substitutional Ni/Pd and
+Ni/Pt Disorder</article-title>. <source>Chem. - Eur. J.</source>
+<year>2004</year>, <volume>10</volume>, <fpage>2318</fpage>&#x02013;<lpage>2326</lpage>. <pub-id pub-id-type="doi">10.1002/chem.200305210</pub-id>.<pub-id pub-id-type="pmid">15112221</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Svensson</surname><given-names>P. H.</given-names></name>
+<article-title>New high-nuclearity
+Ni-Pt carbonyl clusters: synthesis and X-ray structure of the odered
+[HNi<sub>24</sub>Pt<sub>17</sub>(CO)<sub>46</sub>]<sup>5&#x02013;</sup> and the substitutionally Ni/Pt disordered [Ni<sub>32</sub>Pt<sub>24</sub>(CO)<sub>56</sub>]<sup>6&#x02013;</sup> cluster anions</article-title>. <source>Chem. Commun.</source>
+<year>2004</year>, <fpage>2274</fpage>&#x02013;<lpage>2275</lpage>. <pub-id pub-id-type="doi">10.1039/B409522G</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Funaioli</surname><given-names>T.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Redox active Ni-Pd
+carbonyl alloy nanoclusters: syntheses,
+molecular structures and electrochemistry [Ni<sub>22-x</sub>Pd<sub>20+x</sub>(CO)<sub>48</sub>]<sup>6&#x02013;</sup> (<italic>x</italic> = 0.62), [Ni<sub>29-x</sub>Pd<sub>6+x</sub>(CO)<sub>42</sub>]<sup>6&#x02013;</sup> (<italic>x</italic> = 0.09) and [Ni<sub>29+x</sub>Pd<sub>6&#x02013;<italic>x</italic></sub>(CO)<sub>42</sub>]<sup>6&#x02013;</sup> (<italic>x</italic> = 0.27)</article-title>. <source>Dalton Trans.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>5513</fpage>&#x02013;<lpage>5522</lpage>. <pub-id pub-id-type="doi">10.1039/D0DT00337A</pub-id>.<pub-id pub-id-type="pmid">32267267</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Bortoluzzi</surname><given-names>M.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Soleri</surname><given-names>L.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Synthesis, Structural Characterization,
+and DFT Investigations of [M<sub>x</sub>M&#x02032;<sub>5-x</sub>Fe<sub>4</sub>(CO)<sub>16</sub>]<sup>3&#x02013;</sup> (M, M&#x02032;
+= Cu, Ag, Au; M &#x02260; M&#x02032;) 2-D Molecular Alloy Clusters</article-title>. <source>Inorg. Chem.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>15936</fpage>&#x02013;<lpage>15952</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.0c02443</pub-id>.<pub-id pub-id-type="pmid">33081462</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39a"><label>a</label><name><surname>Bortoluzzi</surname><given-names>M.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Reactions of Platinum
+Carbonyl Chini Clusters with Ag(NHC)Cl Complexes: Formation of Acid-Base
+Lewis Adducts and Heteroleptic Clusters</article-title>. <source>Inorg.
+Chem.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>6532</fpage>&#x02013;<lpage>6544</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.7b00665</pub-id>.<pub-id pub-id-type="pmid">28489358</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit39b"><label> b</label><name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Mancini</surname><given-names>F.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Heteroleptic
+Chini-Type Platinum Clusters: Synthesis and Characterization of Bis-Phoshine
+Derivatives of [Pt<sub>3n</sub>(CO)<sub>6n</sub>]<sup>2&#x02013;</sup> (n = 2&#x02013;4)</article-title>. <source>Inorg. Chem.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>1655</fpage>&#x02013;<lpage>1668</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.6b02750</pub-id>.<pub-id pub-id-type="pmid">28124896</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40a"><label>a</label><name><surname>Batchelor</surname><given-names>L.
+K.</given-names></name>; <name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Dyson</surname><given-names>P. J.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Mor</surname><given-names>M.</given-names></name>; <name><surname>Ruggieri</surname><given-names>S.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Water soluble
+derivatives of platinum
+carbonyl Chini clusters: synthesis, molecular structures and cytotoxicity
+of [Pt<sub>12</sub>(CO)<sub>20</sub>(PTA)<sub>4</sub>]<sup>2&#x02013;</sup> and [Pt<sub>15</sub>(CO)<sub>25</sub>(PTA)<sub>5</sub>]<sup>2&#x02013;</sup></article-title>. <source>Dalton Trans.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>4467</fpage>&#x02013;<lpage>4477</lpage>. <pub-id pub-id-type="doi">10.1039/C8DT00228B</pub-id>.<pub-id pub-id-type="pmid">29504622</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit40b"><label> b</label><name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Cesari</surname><given-names>C.</given-names></name>; <name><surname>Conte</surname><given-names>F.</given-names></name>; <name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Femoni</surname><given-names>C.</given-names></name>; <name><surname>Iapalucci</surname><given-names>M. C.</given-names></name>; <name><surname>Vacca</surname><given-names>F.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>
+<article-title>Synthesis
+of [Pt<sub>12</sub>(CO)<sub>20</sub>(dppm)<sub>2</sub>]<sup>2&#x02013;</sup> and [Pt<sub>18</sub>(CO)<sub>30</sub>(dppm)<sub>3</sub>]<sup>2&#x02013;</sup> Heteroleptic Chini-type Platinum Clusters by Oxidative Oligomerization
+of [Pt<sub>6</sub>(CO)<sub>12</sub>(dppm)]<sup>2&#x02013;</sup></article-title>. <source>Inorg. Chem.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>7578</fpage>&#x02013;<lpage>7590</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.8b00447</pub-id>.<pub-id pub-id-type="pmid">29889503</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Bonincontro</surname><given-names>D.</given-names></name>; <name><surname>Lolli</surname><given-names>A.</given-names></name>; <name><surname>Storione</surname><given-names>A.</given-names></name>; <name><surname>Gasparotto</surname><given-names>A.</given-names></name>; <name><surname>Berti</surname><given-names>B.</given-names></name>; <name><surname>Zacchini</surname><given-names>S.</given-names></name>; <name><surname>Dimitratos</surname><given-names>N.</given-names></name>; <name><surname>Albonetti</surname><given-names>S.</given-names></name>
+<article-title>Pt and Pt/Sn carbonyl clusters as precursors for the
+synthesis of supported metal catalysts for the base-free oxidation
+of HMF</article-title>. <source>Appl. Catal., A</source>
+<year>2019</year>, <volume>588</volume>, <fpage>117279</fpage><pub-id pub-id-type="doi">10.1016/j.apcata.2019.117279</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Paolieri</surname><given-names>M.</given-names></name>; <name><surname>Ciabatti</surname><given-names>I.</given-names></name>; <name><surname>Fontani</surname><given-names>M.</given-names></name>
+<article-title>Paolo Chini: The Chemical
+Architect
+of Metal Carbonyl Clusters</article-title>. <source>J. Cluster Sci.</source>
+<year>2019</year>, <volume>30</volume>, <fpage>1623</fpage>&#x02013;<lpage>1631</lpage>. <pub-id pub-id-type="doi">10.1007/s10876-019-01607-7</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Barnett</surname><given-names>B. R.</given-names></name>; <name><surname>Rheingold</surname><given-names>A. L.</given-names></name>; <name><surname>Figueroa</surname><given-names>J. S.</given-names></name>
+<article-title>Monomeric Chini-Type Triplatinum
+Clusters Featuring Dianionic and Radical-Anionic &#x003c0;*-Systems</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>9253</fpage>&#x02013;<lpage>9258</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201604903</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Longoni</surname><given-names>G.</given-names></name>; <name><surname>Chini</surname><given-names>P.</given-names></name>; <name><surname>Cavalieri</surname><given-names>A.</given-names></name>
+<article-title>Carbonylnickelates 1. Synthesis and
+Chemical Characterization of the [Ni<sub>5</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> and [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2&#x02013;</sup> Dianions</article-title>. <source>Inorg. Chem.</source>
+<year>1976</year>, <volume>15</volume>, <fpage>3025</fpage>&#x02013;<lpage>3029</lpage>. <pub-id pub-id-type="doi">10.1021/ic50166a016</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="computer-program" id="cit45"><person-group person-group-type="allauthors"><name><surname>Keller</surname><given-names>E.</given-names></name></person-group><source>SCHAKAL99</source>; <publisher-name>University of Freiburg</publisher-name>: <publisher-loc>Freiburg,
+Germany</publisher-loc>, <year>1999</year>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="computer-program" id="cit46"><person-group person-group-type="allauthors"><name><surname>Sheldrick</surname><given-names>G. M.</given-names></name></person-group><source>SADABS-2008/1-Bruker
+AXS Area Detector Scaling and Absorption Correction</source>; <publisher-name>Bruker AXS</publisher-name>: <publisher-loc>Madison, WI</publisher-loc>, <year>2008</year>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Sheldrick</surname><given-names>G. M.</given-names></name>
+<article-title>Crystal
+Structure Refinement with SHELXL</article-title>. <source>Acta Crystallogr.,
+Sect. C: Struct. Chem.</source>
+<year>2015</year>, <volume>71</volume>, <fpage>3</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1107/S2053229614024218</pub-id>.<pub-id pub-id-type="pmid">25567568</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Staroverov</surname><given-names>V. N.</given-names></name>; <name><surname>Scuseria</surname><given-names>E.</given-names></name>; <name><surname>Tao</surname><given-names>J.</given-names></name>; <name><surname>Perdew</surname><given-names>J. P.</given-names></name>
+<article-title>Comparative
+assessment
+of a new nonempirical density functional: Molecules and hydrogen-bonded
+complexes</article-title>. <source>J. Chem. Phys.</source>
+<year>2003</year>, <volume>119</volume>, <fpage>12129</fpage>&#x02013;<lpage>12137</lpage>. <pub-id pub-id-type="doi">10.1063/1.1626543</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49a"><label>a</label><name><surname>Weigend</surname><given-names>F.</given-names></name>; <name><surname>Ahlrichs</surname><given-names>R.</given-names></name>
+<article-title>Balanced basis sets
+of split valence, triple zeta valence and quadruple zeta valence quality
+for H to Rn: Design and assessment of accuracy</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2005</year>, <volume>7</volume>, <fpage>3297</fpage>&#x02013;<lpage>3305</lpage>. <pub-id pub-id-type="doi">10.1039/b508541a</pub-id>.<pub-id pub-id-type="pmid">16240044</pub-id></mixed-citation><mixed-citation publication-type="journal" id="cit49b"><label> b</label><name><surname>Andrae</surname><given-names>D.</given-names></name>; <name><surname>H&#x000e4;u&#x000df;ermann</surname><given-names>U.</given-names></name>; <name><surname>Dolg</surname><given-names>M.</given-names></name>; <name><surname>Stoll</surname><given-names>H.</given-names></name>; <name><surname>Preu&#x000df;</surname><given-names>H.</given-names></name>
+<article-title>Energy-adjusted <italic>ab initio</italic> pseudopotentials
+for the second and third row transition elements</article-title>. <source>Theor. Chim. Acta</source>
+<year>1990</year>, <volume>77</volume>, <fpage>123</fpage>&#x02013;<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1007/BF01114537</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50a"><label>a</label><name><surname>Neese</surname><given-names>F.</given-names></name>
+<article-title>The ORCA Program System</article-title>. <source>Wiley
+Interdiscip. Rev.: Comput. Mol. Sci.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>73</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1002/wcms.81</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="cit50b"><label> b</label><name><surname>Neese</surname><given-names>F.</given-names></name>
+<article-title>Software update:
+the ORCA program system, version 4.0</article-title>. <source>Wiley
+Interdiscip. Rev.: Comput. Mol. Sci.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>e1327</fpage><pub-id pub-id-type="doi">10.1002/wcms.1327</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Lu</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>
+<article-title>Multiwfn: A multifunctional wavefunction alanalyzer</article-title>. <source>J. Comput. Chem.</source>
+<year>2012</year>, <volume>33</volume>, <fpage>580</fpage>&#x02013;<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1002/jcc.22885</pub-id>.<pub-id pub-id-type="pmid">22162017</pub-id></mixed-citation></ref></ref-list></back></article>
