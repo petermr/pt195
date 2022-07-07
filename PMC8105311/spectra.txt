@@ -1,0 +1,9 @@
+Type 3. Some shifts reported in text. It reads:
+
+Therefore, we measured cisplatin dissolved in water. ... Then, the same sample was subjected to 195Pt NMR 
+spectroscopy (370,000 scans due to low solubility). A signal appeared at − 1839 ppm, in addition to the 
+signal for Pt(NH3)2Cl2 (− 2148 ppm) (Fig. S2). The new signal was assigned
+to [Pt(NH3)2Cl(H2O)]+, in accordance with the previous literature stating that signals for [Pt(NH3)2Cl(H2O)]+
+and [Pt(NH3)2(H2O)2]2+ in water appear at approximately − 1841 and − 1567 ppm, respectively.
+
+Notice that the second set of shifts comes from another paper.
