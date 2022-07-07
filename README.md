@@ -5,7 +5,7 @@ Stefan Kuhn added a number of papers. All have 195Pt shifts in them, and they ar
 
 I distinuish a number of common types to report spectra:
 
-Type 1: 
+## Type 1: 
 
 For each compound, there is a section like this:
 
@@ -17,7 +17,7 @@ In general, this is:
 
 Structures are in one or several figures, identified by bold numbers.
 
-Type 2:
+## Type 2:
 
 Structures are one or several figures, identified by bold numbers. Shifts are given in a table like this:
 
@@ -31,6 +31,6 @@ Structures are one or several figures, identified by bold numbers. Shifts are gi
 |6| +IV| -2196| n.o.|
 |7| +IV| -2168| 113.4|
 
-Type 3: Shifts are in running text. It can be similar to the experimental section:
+## Type 3: Shifts are in running text. It can be similar to the experimental section:
 
     Combustion and spectral analyses for the cis complex 1: Elemental analysis for formula C8H10N6O4Cl2Pt of compound 1: ... 195Pt NMR (acetone-d6, external standard references K2PtCl4, delta [ppm] = -1618): delta [ppm] = -2091. ... 2: Elemental analysis for formula C8H10N6O4Cl2Pt of the trans-complex 2: ... 195Pt NMR (acetone-d6, external standard reference K2PtCl4, delta [ppm] = -1618): delta [ppm] = -2119. ...
