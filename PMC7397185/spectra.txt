@@ -1,1 +1,0 @@
-This is type 2. There is a table on page 7, giving structure numbers to be found in Scheme 2 and 3, and the shift.

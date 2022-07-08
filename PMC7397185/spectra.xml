@@ -106,7 +106,7 @@
    <substance dictRef="cml:solvent" role="subst:solvent" title="D2O"/>
   </substanceList>
   <peakList>
-   <peak xValue="-4313" xUnits="units:ppm" peakMultiplicity="dd" id="p0" atomRefs="a1"/>
+   <peak xValue="-4313" xUnits="units:ppm" id="p0" atomRefs="a1"/>
   </peakList>
   <entry xmlns="http://bibtexml.sf.net/">
    <article>
@@ -130,7 +130,7 @@
    <substance dictRef="cml:solvent" role="subst:solvent" title="D2O"/>
   </substanceList>
   <peakList>
-   <peak xValue="-3814" xUnits="units:ppm" peakMultiplicity="dd" id="p0" atomRefs="a1"/>
+   <peak xValue="-3814" xUnits="units:ppm" id="p0" atomRefs="a1"/>
   </peakList>
   <entry xmlns="http://bibtexml.sf.net/">
    <article>
