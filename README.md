@@ -17,6 +17,30 @@ In general, this is:
 
 Structures are in one or several figures, identified by bold numbers.
 
+In the current selection, papers of type 1 are
+PMC6747965
+PMC7036801
+PMC7693294
+PMC7727669
+PMC7768359
+PMC8038112
+PMC8251955
+PMC8320711
+PMC8402032
+PMC8456496
+PMC8688915
+PMC8713121
+PMC8892954
+PMC8906972
+PMC9029360
+
+These have experimental section, but not the bold structure numbers:
+
+PMC7894172
+PMC7998721
+PMC8156256
+PMC8998453
+
 ## Type 2:
 
 Structures are one or several figures, identified by bold numbers. Shifts are given in a table like this:
